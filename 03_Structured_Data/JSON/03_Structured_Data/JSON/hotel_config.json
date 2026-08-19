@@ -1,0 +1,33 @@
+{
+    "hotel_name": "Nile Pearl Hotel",
+    "location": {
+        "city": "Cairo",
+        "country": "Egypt"
+    },
+    "category": "5-Star",
+    "contact": {
+        "reception": "24/7",
+        "customer_service": "24/7"
+    },
+    "check_in": "15:00",
+    "check_out": "12:00",
+    "supported_languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+    ],
+    "facilities": [
+        "Swimming Pool",
+        "Gym",
+        "Restaurant",
+        "Spa",
+        "Parking",
+        "Free Wi-Fi"
+    ],
+    "policies": {
+        "pets_allowed": false,
+        "smoking_inside_rooms": false,
+        "parking_available": true
+    }
+}

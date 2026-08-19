@@ -1,0 +1,47 @@
+NILE PEARL HOTEL
+BOOKING PROCESS
+
+1. Select Dates
+
+The guest provides the desired check-in and check-out dates.
+
+
+2. Select Room
+
+The guest selects a suitable room type based on availability and guest capacity.
+
+
+3. Provide Guest Information
+
+The guest provides the required personal and contact information.
+
+
+4. Review Reservation
+
+The reservation details should be reviewed before confirmation.
+
+The guest should verify:
+
+- Guest name
+- Number of guests
+- Check-in date
+- Check-out date
+- Room type
+- Booking details
+
+
+5. Payment
+
+Payment requirements depend on the hotel's payment policy and the selected reservation.
+
+
+6. Confirmation
+
+After completing the reservation process, the guest should receive or retain the reservation confirmation details.
+
+
+7. Changes or Cancellation
+
+Guests should contact customer service regarding reservation changes or cancellation requests.
+
+Changes and cancellations are subject to the applicable hotel policies.

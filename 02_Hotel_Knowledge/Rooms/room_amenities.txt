@@ -1,0 +1,58 @@
+NILE PEARL HOTEL
+ROOM AMENITIES
+
+1. Standard Room
+
+Available Amenities:
+- Comfortable bed
+- Private bathroom
+- Wi-Fi
+- Air conditioning
+- Television
+- Basic room amenities
+
+
+2. Deluxe Room
+
+Available Amenities:
+- Private bathroom
+- Wi-Fi
+- Air conditioning
+- Television
+- Enhanced room amenities
+- Upgraded furnishings
+
+
+3. Superior Room
+
+Available Amenities:
+- Additional space
+- Upgraded amenities
+
+
+4. Family Room
+
+Available Amenities:
+- Additional sleeping capacity
+- Suitable facilities for families with children
+
+
+5. Executive Room
+
+Available Amenities:
+Information not specified in the current hotel knowledge base.
+
+
+General Room Facilities:
+
+Wi-Fi:
+Available in all guest rooms.
+
+Air Conditioning:
+Available in Standard, Deluxe, and other rooms where specified in the room information.
+
+Private Bathroom:
+Available in Standard and Deluxe rooms.
+
+Television:
+Available in Standard and Deluxe rooms.

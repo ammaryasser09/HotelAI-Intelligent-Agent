@@ -1,0 +1,43 @@
+﻿intent_id,intent_name,category,source
+INT001,hotel_location,Hotel Information,hotel_information.txt
+INT002,hotel_category,Hotel Information,hotel_information.txt
+INT003,reception_availability,Hotel Information,hotel_information.txt
+INT004,check_in_time,Check-in / Check-out,check_in_check_out.txt
+INT005,check_out_time,Check-in / Check-out,check_in_check_out.txt
+INT006,early_check_in,Check-in / Check-out,check_in_check_out.txt
+INT007,late_check_out,Check-in / Check-out,check_in_check_out.txt
+INT008,identification_required,Identification,identification_policy.txt
+INT009,available_room_types,Room Types,room_types.txt
+INT010,room_capacity,Room Policies,room_policies.txt
+INT011,room_amenities,Room Amenities,room_amenities.txt
+INT012,children_room_accommodation,Room Policies,room_policies.txt
+INT013,booking_process,Booking,booking_process.txt
+INT014,booking_required_information,Booking,booking_policy.txt
+INT015,booking_modification,Booking,booking_modification.txt
+INT016,booking_confirmation,Booking,booking_confirmation.txt
+INT017,cancellation_process,Cancellation,cancellation_process.txt
+INT018,cancellation_policy,Cancellation,cancellation_policy.txt
+INT019,cancellation_fees,Cancellation,cancellation_policy.txt
+INT020,accepted_payment_methods,Payment,payment_methods.txt
+INT021,payment_requirements,Payment,payment_policy.txt
+INT022,additional_charges,Payment,payment_policy.txt
+INT023,refund_eligibility,Refund,refund_policy.txt
+INT024,refund_processing,Refund,refund_policy.txt
+INT025,breakfast_hours,Breakfast,breakfast.txt
+INT026,breakfast_price,Breakfast,breakfast.txt
+INT027,room_service,Room Service,room_service.txt
+INT028,airport_transfer,Airport Transfer,airport_transfer.txt
+INT029,laundry_service,Laundry,laundry.txt
+INT030,spa_service,Spa,spa.txt
+INT031,gym_availability,Gym,gym.txt
+INT032,restaurant_information,Restaurant,restaurant.txt
+INT033,wifi_availability,Hotel Facilities,hotel_facilities.txt
+INT034,parking_availability,Hotel Facilities,hotel_facilities.txt
+INT035,swimming_pool,Hotel Facilities,hotel_facilities.txt
+INT036,pet_policy,Pets,pet_policy.txt
+INT037,smoking_policy,Smoking,smoking_policy.txt
+INT039,lost_and_found,Lost and Found,lost_and_found.txt
+INT040,noise_policy,Noise,noise_policy.txt
+INT041,guest_conduct,Guest Conduct,guest_conduct.txt
+INT042,privacy_policy,Privacy,privacy_policy.txt
+INT043,emergency_assistance,Emergency,emergency_policy.txt

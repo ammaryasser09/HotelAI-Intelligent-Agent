@@ -1,0 +1,33 @@
+﻿faq_id,intent_id,intent_name,category,language,question_type,difficulty,question,answer,ground_truth,source
+FAQ0097,INT004,check_in_time,Check-in / Check-out,English,Direct,Easy,What is the standard check-in time at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0098,INT004,check_in_time,Check-in / Check-out,English,Direct,Easy,What time does check-in normally begin at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0099,INT004,check_in_time,Check-in / Check-out,English,Direct,Easy,When can guests check in at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0100,INT004,check_in_time,Check-in / Check-out,English,Paraphrased,Easy,What time is check-in usually available at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0101,INT004,check_in_time,Check-in / Check-out,English,Paraphrased,Easy,Could you tell me the usual time guests are expected to arrive and complete check-in at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0102,INT004,check_in_time,Check-in / Check-out,English,Paraphrased,Easy,At what time can I normally check in at Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0103,INT004,check_in_time,Check-in / Check-out,English,Scenario,Easy,"After arriving at Nile Pearl Hotel, when is the standard time for checking in?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0104,INT004,check_in_time,Check-in / Check-out,English,Scenario,Easy,"As a guest arriving at Nile Pearl Hotel, what time can I normally check in?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0105,INT004,check_in_time,Check-in / Check-out,Arabic,Direct,Easy,ما هو وقت تسجيل الوصول في Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0106,INT004,check_in_time,Check-in / Check-out,Arabic,Direct,Easy,في أي الوقت يمكنني استلام مفاتيح غرفتي في فندق Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0107,INT004,check_in_time,Check-in / Check-out,Arabic,Direct,Easy,متى يبدأ السماح للنزلاء بالدخول إلى غرفهم في Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0108,INT004,check_in_time,Check-in / Check-out,Arabic,Paraphrased,Easy,ما هو الوقت المعتاد لتسجيل الوصول في فندق Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0109,INT004,check_in_time,Check-in / Check-out,Arabic,Paraphrased,Easy,متى يمكنني تسجيل الوصول في فندق Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0110,INT004,check_in_time,Check-in / Check-out,Arabic,Paraphrased,Easy,ما الموعد الرسمي لبدء إجراءات تسجيل الوصول في فندق Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0111,INT004,check_in_time,Check-in / Check-out,Arabic,Scenario,Easy,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0112,INT004,check_in_time,Check-in / Check-out,Arabic,Scenario,Easy,مرحباً، أنا مقيم في Nile Pearl Hotel وأتمنى معرفة موعد تسجيل الوصول المعتاد.,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0113,INT004,check_in_time,Check-in / Check-out,French,Direct,Easy,Quelle est l'heure de début d'arrivée au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0114,INT004,check_in_time,Check-in / Check-out,French,Direct,Easy,À quelle heure puis-je effectuer mon entrée au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0115,INT004,check_in_time,Check-in / Check-out,French,Direct,Easy,Quelle est l'heure de réservation d'entrée pour le Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0116,INT004,check_in_time,Check-in / Check-out,French,Paraphrased,Easy,Quelle heure est le check-in standard à l'hôtel Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0117,INT004,check_in_time,Check-in / Check-out,French,Paraphrased,Easy,À quel moment l'enregistrement commence-t-il normalement au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0118,INT004,check_in_time,Check-in / Check-out,French,Paraphrased,Easy,À quelle heure commence l'inscription au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0119,INT004,check_in_time,Check-in / Check-out,French,Scenario,Easy,"Bonjour, j'aimerais réserver une chambre à l'hôtel Nile Pearl Hotel. À quelle heure puis-je faire le check-in ?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0120,INT004,check_in_time,Check-in / Check-out,French,Scenario,Easy,"Bonjour, j'aimerais réserver une chambre à l'hôtel Nile Pearl Hotel. Quand puis-je normalement m'enregistrer ?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0121,INT004,check_in_time,Check-in / Check-out,Russian,Direct,Easy,Когда можно заселиться в Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0122,INT004,check_in_time,Check-in / Check-out,Russian,Direct,Easy,À partir de quelle heure les clients sont-ils autorisés à entrer dans leur chambre au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0123,INT004,check_in_time,Check-in / Check-out,Russian,Direct,Easy,Когда возможен въезд в отель Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0124,INT004,check_in_time,Check-in / Check-out,Russian,Paraphrased,Easy,В какое время обычно можно заселиться в Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0125,INT004,check_in_time,Check-in / Check-out,Russian,Paraphrased,Easy,Когда стандартно можно заселиться в отель Nile Pearl Hotel?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0126,INT004,check_in_time,Check-in / Check-out,Russian,Paraphrased,Easy,À quelle heure l'enregistrement est-il généralement disponible au Nile Pearl Hotel ?,,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0127,INT004,check_in_time,Check-in / Check-out,Russian,Scenario,Easy,"Здравствуйте, я планирую приехать в Nile Pearl Hotel. В какое время обычно можно заселиться?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt
+FAQ0128,INT004,check_in_time,Check-in / Check-out,Russian,Scenario,Easy,"Если я приеду в Nile Pearl Hotel завтра вечером, во сколько обычно можно заселиться?",,Standard check-in time is 3:00 PM.,check_in_check_out.txt

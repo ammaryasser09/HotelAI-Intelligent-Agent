@@ -1,0 +1,33 @@
+﻿faq_id,intent_id,intent_name,category,language,question_type,difficulty,question,answer,ground_truth,source,status
+FAQ0033,INT002,hotel_category,Hotel Information,English,Direct,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0034,INT002,hotel_category,Hotel Information,English,Direct,Easy,What star rating does Nile Pearl Hotel have?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0035,INT002,hotel_category,Hotel Information,English,Direct,Easy,What category of hotel is Nile Pearl Hotel classified as?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0036,INT002,hotel_category,Hotel Information,English,Paraphrased,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0037,INT002,hotel_category,Hotel Information,English,Paraphrased,Easy,What rating does Nile Pearl Hotel hold?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0038,INT002,hotel_category,Hotel Information,English,Paraphrased,Easy,What star rating does the Nile Pearl Hotel possess?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0039,INT002,hotel_category,Hotel Information,English,Scenario,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0040,INT002,hotel_category,Hotel Information,English,Scenario,Easy,"While choosing a hotel for my trip to Cairo, I'm considering Nile Pearl Hotel. How many stars is this hotel rated?",,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0041,INT002,hotel_category,Hotel Information,Arabic,Direct,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0042,INT002,hotel_category,Hotel Information,Arabic,Direct,Easy,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0043,INT002,hotel_category,Hotel Information,Arabic,Direct,Easy,ما هو تصنيف فندق Nile Pearl Hotel؟,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0044,INT002,hotel_category,Hotel Information,Arabic,Paraphrased,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0045,INT002,hotel_category,Hotel Information,Arabic,Paraphrased,Easy,ما هي تصنيف نجمة Nile Pearl Hotel؟,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0046,INT002,hotel_category,Hotel Information,Arabic,Paraphrased,Easy,ما مدى تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0047,INT002,hotel_category,Hotel Information,Arabic,Scenario,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0048,INT002,hotel_category,Hotel Information,Arabic,Scenario,Easy,أثناء التخطيط لرحلتي إلى مصر واختيار مكان للإقامة، أفكر في Nile Pearl Hotel. ما تصنيف الفندق من حيث عدد النجوم؟,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0049,INT002,hotel_category,Hotel Information,French,Direct,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0050,INT002,hotel_category,Hotel Information,French,Direct,Easy,Combien d'étoiles a l'hôtel Nile Pearl Hotel ?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0051,INT002,hotel_category,Hotel Information,French,Direct,Easy,Quelle est la catégorie d'hôtel de Nile Pearl Hotel ?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0052,INT002,hotel_category,Hotel Information,French,Paraphrased,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0053,INT002,hotel_category,Hotel Information,French,Paraphrased,Easy,Quelle est la categorisation étoile du Nile Pearl Hotel ?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0054,INT002,hotel_category,Hotel Information,French,Paraphrased,Easy,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel ?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0055,INT002,hotel_category,Hotel Information,French,Scenario,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0056,INT002,hotel_category,Hotel Information,French,Scenario,Easy,"Pour choisir mon hôtel lors de mon voyage en Égypte, j'envisage le Nile Pearl Hotel. Combien d'étoiles lui sont attribuées ?",,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0057,INT002,hotel_category,Hotel Information,Russian,Direct,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0058,INT002,hotel_category,Hotel Information,Russian,Direct,Easy,Какая категория отеля является для Nile Pearl Hotel?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0059,INT002,hotel_category,Hotel Information,Russian,Direct,Easy,В каком классе отеля находится Nile Pearl Hotel?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0060,INT002,hotel_category,Hotel Information,Russian,Paraphrased,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0061,INT002,hotel_category,Hotel Information,Russian,Paraphrased,Easy,Какая категория отеля «Nile Pearl Hotel»?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0062,INT002,hotel_category,Hotel Information,Russian,Paraphrased,Easy,Какой класс отеля принадлежит «Nile Pearl Hotel»?,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0063,INT002,hotel_category,Hotel Information,Russian,Scenario,Easy,,,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID
+FAQ0064,INT002,hotel_category,Hotel Information,Russian,Scenario,Easy,"Планируя поездку в Египет и выбирая отель, я рассматриваю Nile Pearl Hotel. Сколько звезд у этого отеля?",,Nile Pearl Hotel is a 5-star hotel.,hotel_information.txt,VALID

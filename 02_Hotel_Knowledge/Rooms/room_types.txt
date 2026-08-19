@@ -1,0 +1,76 @@
+NILE PEARL HOTEL
+ROOM TYPES
+
+1. Standard Room
+
+Room Type:
+Standard Room
+
+Capacity:
+2 Guests
+
+Description:
+A comfortable room suitable for individuals or couples.
+
+Amenities:
+Comfortable bed, private bathroom, Wi-Fi, air conditioning, television, and basic room amenities.
+
+
+2. Deluxe Room
+
+Room Type:
+Deluxe Room
+
+Capacity:
+2 Guests
+
+Description:
+A spacious room with upgraded furnishings and additional comfort.
+
+Amenities:
+Private bathroom, Wi-Fi, air conditioning, television, and enhanced room amenities.
+
+
+3. Superior Room
+
+Room Type:
+Superior Room
+
+Capacity:
+3 Guests
+
+Description:
+A larger room suitable for couples or small families.
+
+Amenities:
+Additional space and upgraded amenities.
+
+
+4. Family Room
+
+Room Type:
+Family Room
+
+Capacity:
+4 Guests
+
+Description:
+A spacious room designed for families.
+
+Amenities:
+Additional sleeping capacity and suitable facilities for families with children.
+
+
+5. Executive Room
+
+Room Type:
+Executive Room
+
+Capacity:
+Information not specified.
+
+Description:
+Information not specified in the current hotel knowledge base.
+
+Amenities:
+Information not specified in the current hotel knowledge base.

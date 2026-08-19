@@ -1,0 +1,35 @@
+NILE PEARL HOTEL
+RESTAURANT INFORMATION
+
+Restaurant:
+Main Restaurant
+
+Known Service:
+Daily Breakfast
+
+Breakfast Hours:
+7:00 AM - 10:30 AM
+
+Breakfast Price:
+450 EGP per person
+
+Breakfast Includes:
+- Hot food
+- Cold food
+- Beverages
+- Pastries
+- Fresh fruit
+
+Important Information:
+
+The current hotel knowledge base only provides confirmed information about breakfast at the main restaurant.
+
+The current hotel knowledge base does not specify:
+
+- Restaurant opening hours outside breakfast
+- Lunch service
+- Dinner service
+- Restaurant menu
+- Individual food prices
+- Restaurant reservation requirements
+- Restaurant dress code

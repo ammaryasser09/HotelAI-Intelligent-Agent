@@ -1,0 +1,61 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Vector databases / indexes
+faiss_index/
+faiss_indexes/
+*.faiss
+*.pkl
+
+# Large model files
+*.onnx
+*.pt
+*.pth
+*.bin
+
+# Local Ollama files
+.ollama/
+
+# Secrets / credentials
+*secret*
+*credentials*

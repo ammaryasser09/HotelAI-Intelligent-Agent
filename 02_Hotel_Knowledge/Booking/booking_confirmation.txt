@@ -1,0 +1,38 @@
+NILE PEARL HOTEL
+BOOKING CONFIRMATION
+
+1. Reservation Confirmation
+
+A reservation should be confirmed after the required booking information has been provided and the reservation process has been completed.
+
+Guests should keep their booking confirmation details for future reference.
+
+
+2. Confirmation Information
+
+A booking confirmation should be associated with the reservation details provided during the booking process.
+
+Relevant reservation information may include:
+
+- Guest name
+- Number of guests
+- Check-in date
+- Check-out date
+- Room type
+- Reservation details
+
+
+3. Confirmation Assistance
+
+Guests can contact customer service if they have questions regarding their reservation or booking confirmation.
+
+
+4. Important Note
+
+The current hotel knowledge base does not specify:
+
+- A specific confirmation delivery method
+- Email confirmation details
+- SMS confirmation details
+- A specific confirmation number format
+- The exact time required to receive confirmation
