@@ -1,33 +1,33 @@
 ﻿faq_id,intent_id,language,question_type,question,status,intent_name,ground_truth,category,source,attempts,difficulty,answer
-FAQ0257,INT001,Arabic,,,generated,hotel_location,,,batch_01,0,Easy,
-FAQ0258,INT001,English,,,generated,hotel_location,,,batch_01,0,Easy,
-FAQ0259,INT001,French,,,generated,hotel_location,,,batch_01,0,Easy,
-FAQ0260,INT001,Russian,,,generated,hotel_location,,,batch_01,0,Easy,
-FAQ0261,INT002,Arabic,,,generated,hotel_category,,,batch_01,0,Easy,
-FAQ0262,INT002,English,,,generated,hotel_category,,,batch_01,0,Easy,
-FAQ0263,INT002,French,,,generated,hotel_category,,,batch_01,0,Easy,
-FAQ0264,INT002,Russian,,,generated,hotel_category,,,batch_01,0,Easy,
-FAQ0265,INT003,Arabic,,,generated,reception_availability,,,batch_01,0,Easy,
-FAQ0266,INT003,English,,,generated,reception_availability,,,batch_01,0,Easy,
-FAQ0267,INT003,French,,,generated,reception_availability,,,batch_01,0,Easy,
-FAQ0268,INT003,Russian,,,generated,reception_availability,,,batch_01,0,Easy,
-FAQ0269,INT004,Arabic,,,generated,check_in_time,,,batch_01,0,Easy,
-FAQ0270,INT004,English,,,generated,check_in_time,,,batch_01,0,Easy,
-FAQ0271,INT004,French,,,generated,check_in_time,,,batch_01,0,Easy,
-FAQ0272,INT004,Russian,,,generated,check_in_time,,,batch_01,0,Easy,
-FAQ0273,INT005,Arabic,,,generated,check_out_time,,,batch_01,0,Easy,
-FAQ0274,INT005,English,,,generated,check_out_time,,,batch_01,0,Easy,
-FAQ0275,INT005,French,,,generated,check_out_time,,,batch_01,0,Easy,
-FAQ0276,INT005,Russian,,,generated,check_out_time,,,batch_01,0,Easy,
-FAQ0277,INT006,Arabic,,,generated,early_check_in,,,batch_01,0,Easy,
-FAQ0278,INT006,English,,,generated,early_check_in,,,batch_01,0,Easy,
-FAQ0279,INT006,French,,,generated,early_check_in,,,batch_01,0,Easy,
-FAQ0280,INT006,Russian,,,generated,early_check_in,,,batch_01,0,Easy,
-FAQ0281,INT007,Arabic,,,generated,late_check_out,,,batch_01,0,Easy,
-FAQ0282,INT007,English,,,generated,late_check_out,,,batch_01,0,Easy,
-FAQ0283,INT007,French,,,generated,late_check_out,,,batch_01,0,Easy,
-FAQ0284,INT007,Russian,,,generated,late_check_out,,,batch_01,0,Easy,
-FAQ0285,INT008,Arabic,,,generated,identification_required,,,batch_01,0,Easy,
-FAQ0286,INT008,English,,,generated,identification_required,,,batch_01,0,Easy,
-FAQ0287,INT008,French,,,generated,identification_required,,,batch_01,0,Easy,
-FAQ0288,INT008,Russian,,,generated,identification_required,,,batch_01,0,Easy,
+FAQ0257,INT001,Arabic,Paraphrased,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,generated,hotel_location,يقع Nile Pearl Hotel في القاهرة، مصر.,hotel_location,batch_02,1,Easy,يقع Nile Pearl Hotel في القاهرة، مصر.
+FAQ0258,INT001,English,Paraphrased,Which part of the city is Nile Pearl Hotel located in?,generated,hotel_location,"Nile Pearl Hotel is located in Cairo, Egypt.",hotel_location,batch_02,1,Easy,"Nile Pearl Hotel is located in Cairo, Egypt."
+FAQ0259,INT001,French,Paraphrased,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,generated,hotel_location,"Le Nile Pearl Hotel est situé au Caire, en Égypte.",hotel_location,batch_02,1,Easy,"Le Nile Pearl Hotel est situé au Caire, en Égypte."
+FAQ0260,INT001,Russian,Paraphrased,В каком районе города находится отель Nile Pearl Hotel?,generated,hotel_location,"Отель Nile Pearl Hotel расположен в Каире, Египет.",hotel_location,batch_02,1,Easy,"Отель Nile Pearl Hotel расположен в Каире, Египет."
+FAQ0261,INT002,Arabic,Paraphrased,كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟,generated,hotel_category,Nile Pearl Hotel est un hôtel 5 étoiles.,hotel_category,batch_02,1,Easy,Nile Pearl Hotel est un hôtel 5 étoiles.
+FAQ0262,INT002,English,Paraphrased,What hotel category is Nile Pearl Hotel?,generated,hotel_category,Nile Pearl Hotel is a 5-star hotel.,hotel_category,batch_02,1,Easy,Nile Pearl Hotel is a 5-star hotel.
+FAQ0263,INT002,French,Paraphrased,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,generated,hotel_category,Le Nile Pearl Hotel est un hôtel 5 étoiles.,hotel_category,batch_02,1,Easy,Le Nile Pearl Hotel est un hôtel 5 étoiles.
+FAQ0264,INT002,Russian,Paraphrased,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,generated,hotel_category,Nile Pearl Hotel — это пятизвёздочный отель.,hotel_category,batch_02,1,Easy,Nile Pearl Hotel — это пятизвёздочный отель.
+FAQ0265,INT003,Arabic,Paraphrased,هل مكتب استقبال الفندق يعمل على مدار الساعة؟,generated,reception_availability,تعمل خدمة الاستقبال في الفندق على مدار 24 ساعة طوال أيام الأسبوع.,reception_availability,batch_02,1,Easy,تعمل خدمة الاستقبال في Nile Pearl Hotel على مدار 24 ساعة طوال أيام الأسبوع.
+FAQ0266,INT003,English,Paraphrased,Does the hotel reception operate 24 hours a day?,generated,reception_availability,Hotel reception operates 24/7.,reception_availability,batch_02,1,Easy,The reception at Nile Pearl Hotel operates 24/7.
+FAQ0267,INT003,French,Paraphrased,La réception de l'hôtel est-elle ouverte 24 heures sur 24 ?,generated,reception_availability,"La réception de l'hôtel fonctionne 24 heures sur 24, 7 jours sur 7.",reception_availability,batch_02,1,Easy,"La réception du Nile Pearl Hotel fonctionne 24 heures sur 24, 7 jours sur 7."
+FAQ0268,INT003,Russian,Paraphrased,Работает ли стойка регистрации отеля круглосуточно?,generated,reception_availability,"Стойка регистрации отеля работает круглосуточно, 24/7.",reception_availability,batch_02,1,Easy,"Стойка регистрации Nile Pearl Hotel работает круглосуточно, 24/7."
+FAQ0269,INT004,Arabic,Paraphrased,ما هو الوقت المحدد لتسجيل الوصول إلى الفندق؟,generated,check_in_time,وقت تسجيل الوصول المعتاد هو الساعة 3:00 مساءً.,check_in_time,batch_02,1,Easy,وقت تسجيل الوصول المعتاد في Nile Pearl Hotel هو الساعة 3:00 مساءً.
+FAQ0270,INT004,English,Paraphrased,From what time are guests normally allowed to enter their rooms?,generated,check_in_time,The standard check-in time is 3:00 PM.,check_in_time,batch_02,1,Easy,The standard check-in time at Nile Pearl Hotel is 3:00 PM.
+FAQ0271,INT004,French,Paraphrased,Quelle est l'heure habituelle d'arrivée à l'hôtel ?,generated,check_in_time,L'heure normale d'enregistrement est 15h00.,check_in_time,batch_02,1,Easy,L'heure normale d'enregistrement au Nile Pearl Hotel est 15h00.
+FAQ0272,INT004,Russian,Paraphrased,С какого времени обычно разрешено заселение гостей в номер?,generated,check_in_time,Стандартное время заезда — 15:00.,check_in_time,batch_02,1,Easy,Стандартное время заезда в Nile Pearl Hotel — 15:00.
+FAQ0273,INT005,Arabic,Paraphrased,ما هو الوقت المعتاد لتسجيل المغادرة من الفندق؟,generated,check_out_time,وقت تسجيل المغادرة المعتاد هو الساعة 12:00 ظهرًا.,check_out_time,batch_02,1,Easy,وقت تسجيل المغادرة المعتاد في Nile Pearl Hotel هو الساعة 12:00 ظهرًا.
+FAQ0274,INT005,English,Paraphrased,By what time do guests normally need to vacate their rooms?,generated,check_out_time,The standard check-out time is 12:00 PM.,check_out_time,batch_02,1,Easy,The standard check-out time at Nile Pearl Hotel is 12:00 PM.
+FAQ0275,INT005,French,Paraphrased,À quel moment la chambre doit-elle être libérée lors du départ ?,generated,check_out_time,L'heure normale de départ est 12h00.,check_out_time,batch_02,1,Easy,L'heure normale de départ du Nile Pearl Hotel est 12h00.
+FAQ0276,INT005,Russian,Paraphrased,До какого времени гости обычно должны освободить номер?,generated,check_out_time,Стандартное время выезда — 12:00.,check_out_time,batch_02,1,Easy,Стандартное время выезда из Nile Pearl Hotel — 12:00.
+FAQ0277,INT006,Arabic,Paraphrased,هل يسمح الفندق بتسجيل الوصول في وقت مبكر؟,generated,early_check_in,يمكن طلب تسجيل الوصول المبكر، ويعتمد ذلك على توفر الغرفة وموافقة الفندق.,early_check_in,batch_02,1,Easy,يمكن طلب تسجيل الوصول المبكر في Nile Pearl Hotel، ويعتمد ذلك على توفر الغرفة وموافقة الفندق.
+FAQ0278,INT006,English,Paraphrased,Does the hotel allow early check-in?,generated,early_check_in,Early check-in is subject to room availability and hotel approval.,early_check_in,batch_02,1,Easy,Early check-in at Nile Pearl Hotel is subject to room availability and hotel approval.
+FAQ0279,INT006,French,Paraphrased,L'hôtel autorise-t-il l'enregistrement anticipé ?,generated,early_check_in,L'enregistrement anticipé dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.,early_check_in,batch_02,1,Easy,L'enregistrement anticipé au Nile Pearl Hotel dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.
+FAQ0280,INT006,Russian,Paraphrased,Разрешена ли в отеле ранняя регистрация заезда?,generated,early_check_in,Ранний заезд зависит от наличия свободной комнаты и одобрения отеля.,early_check_in,batch_02,1,Easy,Ранний заезд в Nile Pearl Hotel зависит от наличия свободной комнаты и одобрения отеля.
+FAQ0281,INT007,Arabic,Paraphrased,هل يمكنني طلب تسجيل المغادرة في وقت متأخر؟,generated,late_check_out,يمكن طلب تسجيل المغادرة المتأخر، ويعتمد ذلك على التوافر وقد تترتب رسوم إضافية.,late_check_out,batch_02,1,Easy,يمكن طلب تسجيل المغادرة المتأخر في Nile Pearl Hotel، ويعتمد ذلك على التوافر وقد تترتب رسوم إضافية.
+FAQ0282,INT007,English,Paraphrased,Can I request a late check-out?,generated,late_check_out,Late check-out is subject to availability and may incur an additional fee.,late_check_out,batch_02,1,Easy,Late check-out at Nile Pearl Hotel is subject to availability and may incur an additional fee.
+FAQ0283,INT007,French,Paraphrased,Puis-je demander un départ tardif de l'hôtel ?,generated,late_check_out,Le départ tardif dépend de la disponibilité et peut entraîner des frais supplémentaires.,late_check_out,batch_02,1,Easy,Le départ tardif au Nile Pearl Hotel dépend de la disponibilité et peut entraîner des frais supplémentaires.
+FAQ0284,INT007,Russian,Paraphrased,Можно ли запросить поздний выезд из отеля?,generated,late_check_out,Поздний выезд зависит от наличия и может повлечь дополнительную плату.,late_check_out,batch_02,1,Easy,Поздний выезд из Nile Pearl Hotel зависит от наличия и может повлечь дополнительную плату.
+FAQ0285,INT008,Arabic,Paraphrased,ما هي وثيقة إثبات الهوية المطلوبة عند تسجيل الوصول؟,generated,identification_required,يجب على الضيوف تقديم وثيقة إثبات هوية سارية عند تسجيل الوصول، لكن قاعدة المعرفة لا تحدد الأنواع المقبولة بدقة.,identification_required,batch_02,1,Easy,يجب على الضيوف تقديم وثيقة إثبات هوية سارية عند تسجيل الوصول. لا تحدد قاعدة المعرفة الحالية الأنواع المقبولة من وثائق الهوية بدقة.
+FAQ0286,INT008,English,Paraphrased,What identification document do I need when checking in?,generated,identification_required,"Guests must provide valid identification during check-in, but the current knowledge base does not specify the exact types of identification documents accepted.",identification_required,batch_02,1,Easy,Guests must provide valid identification during check-in. The current knowledge base does not specify the exact types of identification documents accepted.
+FAQ0287,INT008,French,Paraphrased,Quelle pièce d'identité dois-je présenter lors de l'enregistrement ?,generated,identification_required,"Les clients doivent présenter une pièce d'identité valide lors de l'enregistrement, mais la base de connaissances actuelle ne précise pas les types exacts de documents acceptés.",identification_required,batch_02,1,Easy,Les clients doivent présenter une pièce d'identité valide lors de l'enregistrement. La base de connaissances actuelle ne précise pas les types exacts de documents d'identité acceptés.
+FAQ0288,INT008,Russian,Paraphrased,Какой документ удостоверяющий личность нужно предъявить при регистрации?,generated,identification_required,"Гости должны предъявить действительный документ, удостоверяющий личность, при регистрации, но текущая база знаний не указывает точные виды принимаемых документов.",identification_required,batch_02,1,Easy,"При регистрации гости должны предъявить действительный документ, удостоверяющий личность. Текущая база знаний не указывает точные виды принимаемых документов."
