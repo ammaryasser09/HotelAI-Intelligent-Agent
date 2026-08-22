@@ -59,3 +59,24 @@ faiss_indexes/
 # Secrets / credentials
 *secret*
 *credentials*
+# ============================================================
+# LOCAL AUDITS / REPORTS / BACKUPS
+# ============================================================
+
+03_Structured_Data/CSV/final/backups/
+03_Structured_Data/CSV/final/gold/
+03_Structured_Data/CSV/final/goldFINAL_GOLD_PRODUCTION_FINAL/
+03_Structured_Data/CSV/final/project_audit/
+
+03_Structured_Data/_HANDOFF_AUDIT/
+03_Structured_Data/_STRUCTURE_AUDIT/
+
+_DATA_COLLECTION_AUDIT/
+_FINAL_PRE_PUSH_AUDIT/
+_FINAL_PROJECT_HANDOVER/
+_PROJECT_HANDOVER_AUDIT/
+# Local FAQ audit / review reports
+03_Structured_Data/CSV/final/gold_*_448.csv
+03_Structured_Data/CSV/final/gold_*_448_v2.csv
+03_Structured_Data/CSV/final/rag_*_448.csv
+03_Structured_Data/CSV/final/semantic_*_review.csv
