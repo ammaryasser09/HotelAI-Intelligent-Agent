@@ -1,0 +1,23 @@
+{
+  "dataset_master_rows": 448,
+  "batch_rows": 32,
+  "combined_rows": 480,
+  "exact_duplicate_groups": 0,
+  "normalized_duplicate_groups": 1,
+  "same_intent_review_candidates": 462,
+  "cross_intent_review_candidates": 289,
+  "true_cross_intent_collisions": 2,
+  "batch09_exact_duplicates": 0,
+  "batch09_normalized_duplicates": 0,
+  "thresholds": {
+    "same_intent_review": 0.95,
+    "cross_intent_review": 0.9,
+    "true_cross_intent": 0.95
+  },
+  "hard_failures": [
+    "NORMALIZED_DUPLICATES=1",
+    "TRUE_CROSS_INTENT_COLLISIONS=2"
+  ],
+  "decision": "NOT_GOLD",
+  "report_dir": "03_Structured_Data\\CSV\\final\\gold\\BATCH_09_SEMANTIC_GATE\\20260822_031433"
+}

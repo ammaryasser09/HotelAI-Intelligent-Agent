@@ -1,0 +1,3 @@
+﻿faq_id,issue,details
+FAQ0483,GT_REQUIRED_FACT_MISSING,"{'faq_id': 'FAQ0483', 'intent': 'INT001', 'required_group': ['cairo', 'le caire', 'القاهرة', 'каир'], 'ground_truth': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"
+FAQ0483,ANSWER_REQUIRED_FACT_MISSING,"{'faq_id': 'FAQ0483', 'intent': 'INT001', 'required_group': ['cairo', 'le caire', 'القاهرة', 'каир'], 'answer': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"

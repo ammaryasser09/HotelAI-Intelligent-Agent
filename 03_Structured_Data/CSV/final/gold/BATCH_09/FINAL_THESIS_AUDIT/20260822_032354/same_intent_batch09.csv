@@ -1,0 +1,4 @@
+﻿faq_id_1,faq_id_2,intent,language_1,language_2,similarity,question_1,question_2
+FAQ0450,FAQ0451,INT001,English,French,0.9794088006019592,Which city is home to the Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?
+FAQ0453,FAQ0456,INT002,Arabic,Russian,0.9622554779052734,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,Сколько звёзд у Nile Pearl Hotel?
+FAQ0469,FAQ0471,INT006,Arabic,French,0.9552325010299683,إذا وصلت إلى Nile Pearl Hotel قبل الموعد المعتاد، هل يمكنني طلب تسجيل الوصول المبكر؟,Puis-je solliciter un enregistrement anticipé au Nile Pearl Hotel si j'arrive avant l'heure normale ?

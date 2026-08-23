@@ -1,0 +1,13 @@
+{
+  "release": "RELEASE_640_GOLD",
+  "rows": 640,
+  "columns": 13,
+  "first_id": "FAQ0001",
+  "last_id": "FAQ0640",
+  "master_sha256": "750f0e4555db502b486d726cc486da4b4ad59b05f3bd449a48e474ba22821dab",
+  "baseline_sha256": "750f0e4555db502b486d726cc486da4b4ad59b05f3bd449a48e474ba22821dab",
+  "baseline_file": "03_Structured_Data\\CSV\\final\\backups\\release_baselines\\RELEASE_640_GOLD\\hotel_faq_final_640_GOLD_baseline_20260823_003636.csv",
+  "created_at": "2026-08-23T00:36:36.081522",
+  "status": "LOCKED",
+  "read_only": true
+}

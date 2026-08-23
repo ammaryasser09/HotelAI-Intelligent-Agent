@@ -1,0 +1,19 @@
+{
+  "master_rows": 544,
+  "batch10_rows": 32,
+  "batch11_rows": 32,
+  "batch12_rows": 32,
+  "master_first_id": "FAQ0001",
+  "master_last_id": "FAQ0544",
+  "batch12_first_id": "FAQ0545",
+  "batch12_last_id": "FAQ0576",
+  "master_sha256": "48e68c594cd209689f8bc8025d2d1a18e9b4df9e0e37c09789b8df14117c5171",
+  "expected_master_sha256": "48e68c594cd209689f8bc8025d2d1a18e9b4df9e0e37c09789b8df14117c5171",
+  "batch10_sha256": "b751257f2a9b90d3073918f3aed3ef922629e7f62e2487d3ea770a34cea6371a",
+  "batch11_sha256": "ffbb5f4189b4815939167bd6e46609d22aefa2b6ae3d13ec10f3ed47443ffb93",
+  "batch12_sha256": "6e3d758f56cf4b544d8786b619796325209acc6a86e99011c64716f12e197de4",
+  "passes": 30,
+  "errors": 0,
+  "reviews": 0,
+  "decision": "READY_FOR_MERGE"
+}

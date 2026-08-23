@@ -1,0 +1,14 @@
+{
+  "master_rows": 608,
+  "batch14_rows": 32,
+  "master_first_id": "FAQ0001",
+  "master_last_id": "FAQ0608",
+  "batch14_first_id": "FAQ0609",
+  "batch14_last_id": "FAQ0640",
+  "master_sha256": "c0965d76cf897fff9b613d07c6f1e508aca6bdc1f6660d2b5a7f693eabc6ac96",
+  "batch14_sha256": "fd558ca6a65250c52eeb97a2f8abc184980b02d70845d042353570aa88b31d90",
+  "passes": 39,
+  "errors": 0,
+  "reviews": 0,
+  "decision": "BATCH_14_FINAL_FULL_PRE_RAG_PASSED"
+}

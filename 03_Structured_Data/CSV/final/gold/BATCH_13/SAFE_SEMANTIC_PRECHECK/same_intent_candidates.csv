@@ -1,0 +1,19 @@
+﻿batch_faq_id,master_faq_id,batch_intent,master_intent,batch_language,master_language,similarity,batch_question,master_question
+FAQ0607,FAQ0351,INT008,INT008,French,French,0.909091,Dois-je présenter une pièce d'identité valide lors de mon enregistrement ?,Dois-je présenter une pièce d'identité lors de l'enregistrement ?
+FAQ0585,FAQ0393,INT003,INT003,Arabic,Arabic,0.891089,هل يمكنني التواصل مع مكتب الاستقبال في أي وقت خلال اليوم؟,هل يمكنني التواصل مع مكتب الاستقبال في أي وقت؟
+FAQ0608,FAQ0544,INT008,INT008,Russian,Russian,0.876404,"Требуется ли гостям предъявить действительный документ, удостоверяющий личность, при регистрации?","Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации?"
+FAQ0587,FAQ0459,INT003,INT003,French,French,0.821429,La réception est-elle disponible à toute heure ?,La réception du Nile Pearl Hotel est-elle disponible à toute heure ?
+FAQ0606,FAQ0542,INT008,INT008,English,English,0.816,Do guests have to show valid identification when they check in?,Do guests need to present valid identification when checking in?
+FAQ0585,FAQ0297,INT003,INT003,Arabic,Arabic,0.810811,هل يمكنني التواصل مع مكتب الاستقبال في أي وقت خلال اليوم؟,هل يمكنني الوصول إلى موظفي الاستقبال في أي وقت من اليوم؟
+FAQ0607,FAQ0575,INT008,INT008,French,French,0.805556,Dois-je présenter une pièce d'identité valide lors de mon enregistrement ?,Faut-il présenter une pièce d'identité valide au moment de l'enregistrement ?
+FAQ0580,FAQ0484,INT001,INT001,Russian,Russian,0.79646,Какой город Египта является местом расположения Nile Pearl Hotel?,В каком городе Египта расположен Nile Pearl Hotel?
+FAQ0608,FAQ0251,INT008,INT008,Russian,Russian,0.791878,"Требуется ли гостям предъявить действительный документ, удостоверяющий личность, при регистрации?","Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации в Nile Pearl Hotel?"
+FAQ0607,FAQ0243,INT008,INT008,French,French,0.787097,Dois-je présenter une pièce d'identité valide lors de mon enregistrement ?,Dois-je présenter une pièce d'identité valide lors de mon arrivée au Nile Pearl Hotel?
+FAQ0598,FAQ0342,INT006,INT006,English,English,0.784,Is it possible to request early check-in before the standard time?,Can I submit a request for check-in before the standard time?
+FAQ0608,FAQ0253,INT008,INT008,Russian,Russian,0.78,"Требуется ли гостям предъявить действительный документ, удостоверяющий личность, при регистрации?","Требуется ли гостям предъявлять документ, удостоверяющий личность, при регистрации заезда в Nile Pearl Hotel?"
+FAQ0608,FAQ0576,INT008,INT008,Russian,Russian,0.779661,"Требуется ли гостям предъявить действительный документ, удостоверяющий личность, при регистрации?","Нужно ли гостям предъявлять действующий документ, удостоверяющий личность, при заезде?"
+FAQ0588,FAQ0332,INT003,INT003,Russian,Russian,0.763636,"Если мне понадобится помощь ночью, будет ли стойка регистрации доступна?","Если мне понадобится помощь в отеле поздно ночью, будет ли сотрудник стойки регистрации на месте?"
+FAQ0582,FAQ0034,INT002,INT002,English,English,0.762887,What star category does the Nile Pearl Hotel belong to?,What star rating does Nile Pearl Hotel have?
+FAQ0579,FAQ0017,INT001,INT001,French,French,0.761905,Où puis-je trouver le Nile Pearl Hotel en Égypte ?,Où se trouve l'hôtel Nile Pearl Hotel?
+FAQ0588,FAQ0460,INT003,INT003,Russian,Russian,0.761905,"Если мне понадобится помощь ночью, будет ли стойка регистрации доступна?","Если мне понадобится помощь ночью, смогу ли я обратиться на стойку регистрации?"
+FAQ0589,FAQ0269,INT004,INT004,Arabic,Arabic,0.758621,ما هو وقت بدء تسجيل الوصول المعتاد في الفندق؟,ما هو الوقت المحدد لتسجيل الوصول إلى الفندق؟

@@ -1,0 +1,2 @@
+﻿issue,details
+CANONICAL_TIME_PARSER_SELF_TEST,"[{'text': 'وقت تسجيل المغادرة المعتاد هو الساعة 12 ظهرًا.', 'actual': [], 'expected': 720}]"

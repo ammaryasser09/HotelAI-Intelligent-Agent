@@ -1,0 +1,9 @@
+{
+  "master_rows": 448,
+  "batch_rows": 32,
+  "batch_first_id": "FAQ0449",
+  "batch_last_id": "FAQ0480",
+  "errors": 0,
+  "reviews": 0,
+  "decision": "BATCH_09_FACTUAL_GT_ANSWER_PASSED"
+}

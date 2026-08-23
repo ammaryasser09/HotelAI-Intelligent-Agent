@@ -1,0 +1,10 @@
+{
+  "rows": 512,
+  "columns": 13,
+  "errors": 4,
+  "reviews": 0,
+  "decision": "NOT_GOLD",
+  "master_sha256": "3e49b85d446c7d28d937a225d5dda3b01fd743c7c3ad731dc101c5d14429f9c9",
+  "batch10_sha256": "b751257f2a9b90d3073918f3aed3ef922629e7f62e2487d3ea770a34cea6371a",
+  "report_dir": "03_Structured_Data\\CSV\\final\\gold\\FINAL_512_GOLD_GATE_V7\\20260822_221149"
+}

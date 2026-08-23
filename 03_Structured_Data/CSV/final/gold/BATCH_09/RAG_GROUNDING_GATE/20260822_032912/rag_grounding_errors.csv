@@ -1,0 +1,3 @@
+﻿faq_id,issue,details
+FAQ0451,GT_NOT_GROUNDED,"{'source': 'hotel_information.txt', 'required_anchor': ['egypt', 'egypte', 'مصر', 'египет'], 'ground_truth': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"
+FAQ0451,ANSWER_NOT_GROUNDED,"{'source': 'hotel_information.txt', 'required_anchor': ['egypt', 'egypte', 'مصر', 'египет'], 'answer': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"

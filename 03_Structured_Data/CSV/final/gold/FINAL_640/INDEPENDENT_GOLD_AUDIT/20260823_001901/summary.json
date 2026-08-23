@@ -1,0 +1,10 @@
+{
+  "rows": 640,
+  "columns": 13,
+  "errors": 24,
+  "reviews": 0,
+  "decision": "NOT_GOLD",
+  "master_sha256": "750f0e4555db502b486d726cc486da4b4ad59b05f3bd449a48e474ba22821dab",
+  "first_id": "FAQ0001",
+  "last_id": "FAQ0640"
+}

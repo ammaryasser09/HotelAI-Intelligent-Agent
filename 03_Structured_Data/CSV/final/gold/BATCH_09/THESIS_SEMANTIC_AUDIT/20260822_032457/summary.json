@@ -1,0 +1,18 @@
+{
+  "master_rows": 448,
+  "batch_rows": 32,
+  "batch_range": [
+    "FAQ0449",
+    "FAQ0480"
+  ],
+  "batch_exact_duplicates": 0,
+  "batch_normalized_duplicates": 0,
+  "same_intent_ge_095": 3,
+  "cross_intent_ge_090": 4,
+  "true_cross_intent_ge_095": 0,
+  "errors": 0,
+  "reviews": 0,
+  "master_sha256": "e8513b02aea6cd19fbdbe344bc3ed2fb3900ab93b22ff7e14f6b294fb0aac074",
+  "batch_sha256": "b7b2dda65caa1fa48b374f3ee94181bb0af384a47f68ab1c8e9bf1a92b6b659a",
+  "decision": "BATCH_09_100_PERCENT_GOLD"
+}

@@ -1,0 +1,3 @@
+﻿issue,details
+INT004_ANSWER_TIME,"{'faq_id': 'FAQ0116', 'expected': 900, 'found': [], 'answer': ""Le check-in standard à l'hôtel Nile Pearl Hotel se fait à 15 heures.""}"
+BATCH_09_MERGED_CONTENT_MISMATCH,FAQ0449 -> FAQ0480 differs from approved Batch 09

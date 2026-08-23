@@ -1,0 +1,4 @@
+﻿batch_faq_id,master_faq_id,batch_intent,master_intent,batch_language,master_language,similarity,batch_question,master_question
+FAQ0490,FAQ0458,INT003,INT003,English,English,0.75,"If I need help late at night, will the hotel reception still be available?","If I need help at the front desk late at night, will the reception be available?"
+FAQ0492,FAQ0268,INT003,INT003,Russian,Russian,0.833333,Работает ли стойка регистрации круглосуточно?,Работает ли стойка регистрации отеля круглосуточно?
+FAQ0495,FAQ0463,INT004,INT004,French,French,0.75,"Si j'arrive le jour prévu, à partir de quelle heure puis-je normalement m'enregistrer ?","Si j'arrive à l'hôtel le jour de mon séjour, à partir de quelle heure puis-je normalement m'enregistrer ?"

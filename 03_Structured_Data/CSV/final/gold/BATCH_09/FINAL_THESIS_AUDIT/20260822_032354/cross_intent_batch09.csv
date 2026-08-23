@@ -1,0 +1,5 @@
+﻿faq_id_1,faq_id_2,intent_1,intent_2,language_1,language_2,similarity,question_1,question_2
+FAQ0464,FAQ0468,INT004,INT005,Russian,Russian,0.9280424118041992,Во сколько начинается стандартное заселение в Nile Pearl Hotel?,К какому времени нужно освободить номер в Nile Pearl Hotel?
+FAQ0461,FAQ0468,INT004,INT005,Arabic,Russian,0.9240033626556396,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,К какому времени нужно освободить номер в Nile Pearl Hotel?
+FAQ0451,FAQ0455,INT001,INT002,French,French,0.9148040413856506,Dans quelle ville se trouve le Nile Pearl Hotel ?,Quelle est la catégorie du Nile Pearl Hotel ?
+FAQ0471,FAQ0473,INT006,INT007,French,Arabic,0.9067666530609131,Puis-je solliciter un enregistrement anticipé au Nile Pearl Hotel si j'arrive avant l'heure normale ?,هل يمكنني طلب تسجيل المغادرة المتأخر في Nile Pearl Hotel؟

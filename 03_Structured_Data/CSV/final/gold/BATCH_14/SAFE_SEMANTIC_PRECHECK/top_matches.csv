@@ -1,0 +1,97 @@
+﻿batch_faq_id,master_faq_id,batch_intent,master_intent,batch_language,master_language,similarity,batch_question,master_question
+FAQ0609,FAQ0353,INT001,INT001,Arabic,Arabic,0.602564,إذا كنت في مصر وأريد الإقامة في Nile Pearl Hotel، ففي أي مدينة سأجده؟,إذا وصلت إلى القاهرة وأردت التوجه مباشرة إلى Nile Pearl Hotel، فأي موقع أو منطقة أبحث عنها؟
+FAQ0609,FAQ0481,INT001,INT001,Arabic,Arabic,0.59375,إذا كنت في مصر وأريد الإقامة في Nile Pearl Hotel، ففي أي مدينة سأجده؟,إذا كنت أبحث عن فندق في القاهرة، فهل يقع Nile Pearl Hotel هناك؟
+FAQ0609,FAQ0111,INT001,INT004,Arabic,Arabic,0.551181,إذا كنت في مصر وأريد الإقامة في Nile Pearl Hotel، ففي أي مدينة سأجده؟,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟
+FAQ0610,FAQ0450,INT001,INT001,English,English,0.903226,Which Egyptian city is home to the Nile Pearl Hotel?,Which city is home to the Nile Pearl Hotel?
+FAQ0610,FAQ0514,INT001,INT001,English,English,0.744186,Which Egyptian city is home to the Nile Pearl Hotel?,Which Egyptian city should I travel to if I am staying at the Nile Pearl Hotel?
+FAQ0610,FAQ0004,INT001,INT001,English,English,0.708333,Which Egyptian city is home to the Nile Pearl Hotel?,In which city can I find the Nile Pearl Hotel?
+FAQ0611,FAQ0295,INT001,INT002,French,French,0.666667,"Pour séjourner au Nile Pearl Hotel, dans quelle ville égyptienne dois-je me rendre ?",Je prévois de séjourner au Nile Pearl Hotel ; quelle est la catégorie de cet hôtel ?
+FAQ0611,FAQ0467,INT001,INT005,French,French,0.622754,"Pour séjourner au Nile Pearl Hotel, dans quelle ville égyptienne dois-je me rendre ?","Si je termine mon séjour au Nile Pearl Hotel, à quelle heure dois-je libérer ma chambre ?"
+FAQ0611,FAQ0151,INT001,INT005,French,French,0.577778,"Pour séjourner au Nile Pearl Hotel, dans quelle ville égyptienne dois-je me rendre ?","Si je termine mon séjour au Nile Pearl Hotel aujourd'hui, à quelle heure dois-je effectuer mon départ?"
+FAQ0612,FAQ0484,INT001,INT001,Russian,Russian,0.942308,В каком городе Египта расположен отель Nile Pearl Hotel?,В каком городе Египта расположен Nile Pearl Hotel?
+FAQ0612,FAQ0027,INT001,INT001,Russian,Russian,0.804348,В каком городе Египта расположен отель Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?
+FAQ0612,FAQ0029,INT001,INT001,Russian,Russian,0.796117,В каком городе Египта расположен отель Nile Pearl Hotel?,В какой части города расположен Nile Pearl Hotel?
+FAQ0613,FAQ0453,INT002,INT002,Arabic,Arabic,0.924731,ما تصنيف الفندق Nile Pearl Hotel من حيث عدد النجوم؟,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟
+FAQ0613,FAQ0046,INT002,INT002,Arabic,Arabic,0.734694,ما تصنيف الفندق Nile Pearl Hotel من حيث عدد النجوم؟,كيف يُصنَّف Nile Pearl Hotel من حيث مستوى النجوم؟
+FAQ0613,FAQ0357,INT002,INT002,Arabic,Arabic,0.666667,ما تصنيف الفندق Nile Pearl Hotel من حيث عدد النجوم؟,ما مستوى تصنيف Nile Pearl Hotel بين الفنادق؟
+FAQ0614,FAQ0518,INT002,INT002,English,English,0.573427,I am considering the hotel for a premium stay. How many stars is it?,I am comparing hotels by rating. How many stars does the Nile Pearl Hotel have?
+FAQ0614,FAQ0040,INT002,INT002,English,English,0.511364,I am considering the hotel for a premium stay. How many stars is it?,"While choosing a hotel for my trip to Cairo, I'm considering Nile Pearl Hotel. How many stars is this hotel rated?"
+FAQ0614,FAQ0302,INT002,INT004,English,English,0.471429,I am considering the hotel for a premium stay. How many stars is it?,I will arrive at the hotel on my check-in day; when can I normally check in?
+FAQ0615,FAQ0050,INT002,INT002,French,French,0.860465,Combien d'étoiles possède le Nile Pearl Hotel ?,Combien d'étoiles a l'hôtel Nile Pearl Hotel?
+FAQ0615,FAQ0017,INT002,INT001,French,French,0.65,Combien d'étoiles possède le Nile Pearl Hotel ?,Où se trouve l'hôtel Nile Pearl Hotel?
+FAQ0615,FAQ0475,INT002,INT007,French,French,0.645833,Combien d'étoiles possède le Nile Pearl Hotel ?,Le départ tardif est-il possible au Nile Pearl Hotel ?
+FAQ0616,FAQ0488,INT002,INT002,Russian,Russian,0.817518,"Если для меня важна категория отеля, сколько звёзд у Nile Pearl Hotel?","Если для меня важна категория пять звёзд, подходит ли Nile Pearl Hotel?"
+FAQ0616,FAQ0456,INT002,INT002,Russian,Russian,0.64,"Если для меня важна категория отеля, сколько звёзд у Nile Pearl Hotel?",Сколько звёзд у Nile Pearl Hotel?
+FAQ0616,FAQ0058,INT002,INT002,Russian,Russian,0.621849,"Если для меня важна категория отеля, сколько звёзд у Nile Pearl Hotel?",Какая категория отеля является для Nile Pearl Hotel?
+FAQ0617,FAQ0265,INT003,INT003,Arabic,Arabic,0.708333,هل مكتب استقبال Nile Pearl Hotel متاح على مدار الساعة؟,هل مكتب استقبال الفندق يعمل على مدار الساعة؟
+FAQ0617,FAQ0457,INT003,INT003,Arabic,Arabic,0.660377,هل مكتب استقبال Nile Pearl Hotel متاح على مدار الساعة؟,هل تعمل خدمة الاستقبال في Nile Pearl Hotel طوال اليوم؟
+FAQ0617,FAQ0080,INT003,INT003,Arabic,Arabic,0.593103,هل مكتب استقبال Nile Pearl Hotel متاح على مدار الساعة؟,كيف يمكنني الاتصال بمكتب الاستقبال في Nile Pearl Hotel في حالة حدوث مشكلة في الساعة 4 صباحاً؟
+FAQ0618,FAQ0394,INT003,INT003,English,English,0.533333,Can the front desk be reached around the clock?,Can I contact the reception desk at any time?
+FAQ0618,FAQ0362,INT003,INT003,English,English,0.527273,Can the front desk be reached around the clock?,Is the front desk still available to guests throughout the night?
+FAQ0618,FAQ0554,INT003,INT003,English,English,0.504854,Can the front desk be reached around the clock?,Is the hotel's reception desk available at any time of day?
+FAQ0619,FAQ0555,INT003,INT003,French,French,0.61194,"Si j'arrive très tard, la réception pourra-t-elle encore m'aider ?","Si j'ai besoin d'aide très tôt le matin, la réception sera-t-elle accessible ?"
+FAQ0619,FAQ0427,INT003,INT003,French,French,0.550725,"Si j'arrive très tard, la réception pourra-t-elle encore m'aider ?","Si j'arrive très tard à l'hôtel, y aura-t-il encore un réceptionniste disponible ?"
+FAQ0619,FAQ0395,INT003,INT003,French,French,0.514286,"Si j'arrive très tard, la réception pourra-t-elle encore m'aider ?",Puis-je contacter la réception à tout moment ?
+FAQ0620,FAQ0492,INT003,INT003,Russian,Russian,0.699029,Работает ли стойка регистрации без перерыва в течение суток?,Работает ли стойка регистрации круглосуточно?
+FAQ0620,FAQ0268,INT003,INT003,Russian,Russian,0.697248,Работает ли стойка регистрации без перерыва в течение суток?,Работает ли стойка регистрации отеля круглосуточно?
+FAQ0620,FAQ0364,INT003,INT003,Russian,Russian,0.630769,Работает ли стойка регистрации без перерыва в течение суток?,Остаётся ли стойка регистрации доступной для гостей в течение всей ночи?
+FAQ0621,FAQ0557,INT004,INT004,Arabic,Arabic,0.718447,أخطط للوصول بعد الظهر، فمتى يبدأ تسجيل الوصول القياسي؟,سأصل في وقت الظهر، فمتى يبدأ وقت تسجيل الوصول الرسمي؟
+FAQ0621,FAQ0373,INT004,INT006,Arabic,Arabic,0.566372,أخطط للوصول بعد الظهر، فمتى يبدأ تسجيل الوصول القياسي؟,هل يمكنني الحصول على الغرفة قبل بداية وقت تسجيل الوصول الرسمي؟
+FAQ0621,FAQ0429,INT004,INT004,Arabic,Arabic,0.555556,أخطط للوصول بعد الظهر، فمتى يبدأ تسجيل الوصول القياسي؟,متى يبدأ تسجيل الوصول للضيوف في الفندق؟
+FAQ0622,FAQ0502,INT004,INT006,English,English,0.634146,What time is regular check-in scheduled to start?,What does early check-in depend on?
+FAQ0622,FAQ0100,INT004,INT004,English,English,0.598131,What time is regular check-in scheduled to start?,What time is check-in usually available at Nile Pearl Hotel?
+FAQ0622,FAQ0398,INT004,INT004,English,English,0.583333,What time is regular check-in scheduled to start?,At what hour is regular guest check-in available?
+FAQ0623,FAQ0335,INT004,INT004,French,French,0.75188,À quel moment commence normalement l'enregistrement des clients ?,À quelle heure commence normalement l'enregistrement au Nile Pearl Hotel ?
+FAQ0623,FAQ0431,INT004,INT004,French,French,0.707965,À quel moment commence normalement l'enregistrement des clients ?,Quand commence l'enregistrement des clients à l'hôtel ?
+FAQ0623,FAQ0563,INT004,INT005,French,French,0.557377,À quel moment commence normalement l'enregistrement des clients ?,À quel moment de la journée se termine normalement le séjour ?
+FAQ0624,FAQ0123,INT004,INT004,Russian,Russian,0.666667,С какого времени начинается стандартная регистрация заезда?,В какое время начинается регистрация заезда в Nile Pearl Hotel?
+FAQ0624,FAQ0528,INT004,INT004,Russian,Russian,0.637168,С какого времени начинается стандартная регистрация заезда?,Во сколько обычно начинается регистрация заезда в отеле?
+FAQ0624,FAQ0400,INT004,INT004,Russian,Russian,0.631579,С какого времени начинается стандартная регистрация заезда?,С какого часа гостям доступна обычная регистрация заезда?
+FAQ0625,FAQ0561,INT005,INT005,Arabic,Arabic,0.547368,أرغب في معرفة وقت المغادرة المعتاد حتى أرتب خروجي.,متى يحين موعد تسجيل المغادرة المعتاد من الفندق؟
+FAQ0625,FAQ0537,INT005,INT007,Arabic,Arabic,0.527273,أرغب في معرفة وقت المغادرة المعتاد حتى أرتب خروجي.,هل يمكنني طلب البقاء في الغرفة بعد وقت تسجيل المغادرة المعتاد؟
+FAQ0625,FAQ0345,INT005,INT007,Arabic,Arabic,0.495575,أرغب في معرفة وقت المغادرة المعتاد حتى أرتب خروجي.,هل توجد إمكانية للبقاء في الغرفة بعد موعد تسجيل المغادرة المعتاد؟
+FAQ0626,FAQ0306,INT005,INT005,English,English,0.741379,When should I normally leave my room on the day of departure?,What time should I leave my room on the day of check-out?
+FAQ0626,FAQ0136,INT005,INT005,English,English,0.631579,When should I normally leave my room on the day of departure?,By what time should I leave my room when checking out of Nile Pearl Hotel?
+FAQ0626,FAQ0530,INT005,INT005,English,English,0.59542,When should I normally leave my room on the day of departure?,By what time should guests normally complete check-out on departure day?
+FAQ0627,FAQ0435,INT005,INT005,French,French,0.759124,Quelle est l'heure habituelle à laquelle les clients doivent quitter la chambre ?,Quelle est l'heure habituelle limite pour quitter la chambre ?
+FAQ0627,FAQ0146,INT005,INT005,French,French,0.638889,Quelle est l'heure habituelle à laquelle les clients doivent quitter la chambre ?,À quelle heure les clients doivent-ils quitter le Nile Pearl Hotel?
+FAQ0627,FAQ0371,INT005,INT005,French,French,0.584416,Quelle est l'heure habituelle à laquelle les clients doivent quitter la chambre ?,À quelle heure les clients doivent-ils rendre leur chambre le jour du départ ?
+FAQ0628,FAQ0404,INT005,INT005,Russian,Russian,0.622951,Мне нужно спланировать выезд: к какому часу обычно нужно покинуть номер?,В день выезда в какое время мне нужно покинуть номер?
+FAQ0628,FAQ0500,INT005,INT005,Russian,Russian,0.615385,Мне нужно спланировать выезд: к какому часу обычно нужно покинуть номер?,"Если наступил день отъезда, к какому времени обычно нужно освободить номер?"
+FAQ0628,FAQ0560,INT005,INT004,Russian,Russian,0.514706,Мне нужно спланировать выезд: к какому часу обычно нужно покинуть номер?,"Если я планирую обычный заезд, к которому часу мне следует приехать?"
+FAQ0629,FAQ0373,INT006,INT006,Arabic,Arabic,0.741379,هل يمكنني طلب دخول الغرفة قبل موعد تسجيل الوصول المعتاد؟,هل يمكنني الحصول على الغرفة قبل بداية وقت تسجيل الوصول الرسمي؟
+FAQ0629,FAQ0537,INT006,INT007,Arabic,Arabic,0.741379,هل يمكنني طلب دخول الغرفة قبل موعد تسجيل الوصول المعتاد؟,هل يمكنني طلب البقاء في الغرفة بعد وقت تسجيل المغادرة المعتاد؟
+FAQ0629,FAQ0345,INT006,INT007,Arabic,Arabic,0.705882,هل يمكنني طلب دخول الغرفة قبل موعد تسجيل الوصول المعتاد؟,هل توجد إمكانية للبقاء في الغرفة بعد موعد تسجيل المغادرة المعتاد؟
+FAQ0630,FAQ0590,INT006,INT004,English,English,0.5,"If my arrival is earlier than usual, may I ask for early check-in?",My arrival is planned for the afternoon. What time does normal check-in begin?
+FAQ0630,FAQ0594,INT006,INT005,English,English,0.487395,"If my arrival is earlier than usual, may I ask for early check-in?",What is the usual time by which guests should check out?
+FAQ0630,FAQ0474,INT006,INT007,English,English,0.478873,"If my arrival is earlier than usual, may I ask for early check-in?","If I need to leave later than the standard time, can I request a late check-out?"
+FAQ0631,FAQ0567,INT006,INT006,French,French,0.636364,L'arrivée anticipée peut-elle être demandée avant l'heure normale d'enregistrement ?,Une arrivée avant l'heure prévue peut-elle être demandée au Nile Pearl Hotel ?
+FAQ0631,FAQ0599,INT006,INT006,French,French,0.634483,L'arrivée anticipée peut-elle être demandée avant l'heure normale d'enregistrement ?,Peut-on demander à arriver avant l'heure habituelle d'enregistrement ?
+FAQ0631,FAQ0535,INT006,INT006,French,French,0.632258,L'arrivée anticipée peut-elle être demandée avant l'heure normale d'enregistrement ?,Puis-je demander à accéder à ma chambre avant l'heure normale d'enregistrement ?
+FAQ0632,FAQ0348,INT006,INT007,Russian,Russian,0.586207,Можно ли обратиться в отель с просьбой о более раннем заезде?,Можно ли остаться в номере после обычного времени выезда?
+FAQ0632,FAQ0344,INT006,INT006,Russian,Russian,0.521008,Можно ли обратиться в отель с просьбой о более раннем заезде?,Можно ли подать запрос на заселение раньше обычного времени?
+FAQ0632,FAQ0600,INT006,INT006,Russian,Russian,0.495868,Можно ли обратиться в отель с просьбой о более раннем заезде?,"Можно ли заранее попросить ранний заезд, если я прибуду раньше?"
+FAQ0633,FAQ0505,INT007,INT007,Arabic,Arabic,0.854167,هل يمكن طلب تسجيل المغادرة بعد الوقت المحدد عادةً؟,هل يمكنني طلب تسجيل المغادرة بعد الموعد المعتاد؟
+FAQ0633,FAQ0281,INT007,INT007,Arabic,Arabic,0.733333,هل يمكن طلب تسجيل المغادرة بعد الوقت المحدد عادةً؟,هل يمكنني طلب تسجيل المغادرة في وقت متأخر؟
+FAQ0633,FAQ0537,INT007,INT007,Arabic,Arabic,0.6,هل يمكن طلب تسجيل المغادرة بعد الوقت المحدد عادةً؟,هل يمكنني طلب البقاء في الغرفة بعد وقت تسجيل المغادرة المعتاد؟
+FAQ0634,FAQ0474,INT007,INT007,English,English,0.72,I may need a little more time in the room. Can I request a late check-out?,"If I need to leave later than the standard time, can I request a late check-out?"
+FAQ0634,FAQ0410,INT007,INT007,English,English,0.648649,I may need a little more time in the room. Can I request a late check-out?,"If I need to stay longer on my departure day, can I request a later check-out?"
+FAQ0634,FAQ0282,INT007,INT007,English,English,0.588235,I may need a little more time in the room. Can I request a late check-out?,Can I request a late check-out?
+FAQ0635,FAQ0347,INT007,INT007,French,French,0.642336,Peut-on solliciter un départ après l'heure habituelle de sortie ?,Est-il possible de rester dans la chambre après l'heure habituelle de départ ?
+FAQ0635,FAQ0599,INT007,INT006,French,French,0.625,Peut-on solliciter un départ après l'heure habituelle de sortie ?,Peut-on demander à arriver avant l'heure habituelle d'enregistrement ?
+FAQ0635,FAQ0595,INT007,INT005,French,French,0.566667,Peut-on solliciter un départ après l'heure habituelle de sortie ?,Je prépare mon départ : quelle est l'heure normale de sortie ?
+FAQ0636,FAQ0604,INT007,INT007,Russian,Russian,0.697248,Можно ли оформить выезд позже стандартного времени?,Можно ли попросить выехать из номера позже обычного времени?
+FAQ0636,FAQ0348,INT007,INT007,Russian,Russian,0.603774,Можно ли оформить выезд позже стандартного времени?,Можно ли остаться в номере после обычного времени выезда?
+FAQ0636,FAQ0568,INT007,INT006,Russian,Russian,0.566372,Можно ли оформить выезд позже стандартного времени?,Можно ли запросить ранний заезд до обычного времени регистрации?
+FAQ0637,FAQ0349,INT008,INT008,Arabic,Arabic,0.713043,هل يتعين على الضيف تقديم وثيقة هوية سارية أثناء تسجيل الوصول؟,هل يتعين علي إبراز بطاقة أو وثيقة هوية عند تسجيل الوصول؟
+FAQ0637,FAQ0573,INT008,INT008,Arabic,Arabic,0.71028,هل يتعين على الضيف تقديم وثيقة هوية سارية أثناء تسجيل الوصول؟,هل يلزم إبراز وثيقة هوية سارية عند تسجيل الوصول؟
+FAQ0637,FAQ0509,INT008,INT008,Arabic,Arabic,0.697248,هل يتعين على الضيف تقديم وثيقة هوية سارية أثناء تسجيل الوصول؟,هل يلزم وجود وثيقة هوية سارية لإتمام تسجيل الوصول؟
+FAQ0638,FAQ0478,INT008,INT008,English,English,0.609375,Is valid identification required from guests at check-in?,What identification is required to complete check-in at Nile Pearl Hotel?
+FAQ0638,FAQ0414,INT008,INT008,English,English,0.589286,Is valid identification required from guests at check-in?,Which identification document must I present at check-in?
+FAQ0638,FAQ0229,INT008,INT008,English,English,0.580153,Is valid identification required from guests at check-in?,Is identification necessary for guests when checking in at Nile Pearl Hotel?
+FAQ0639,FAQ0543,INT008,INT008,French,French,0.79096,"Lors de mon arrivée, dois-je fournir un document d'identité valide pour m'enregistrer ?","Lors de mon arrivée, dois-je présenter une pièce d'identité valide pour effectuer l'enregistrement ?"
+FAQ0639,FAQ0244,INT008,INT008,French,French,0.78022,"Lors de mon arrivée, dois-je fournir un document d'identité valide pour m'enregistrer ?","À mon arrivée au Nile Pearl Hotel, dois-je fournir un document d'identité valide avant de m'enregistrer?"
+FAQ0639,FAQ0607,INT008,INT008,French,French,0.640523,"Lors de mon arrivée, dois-je fournir un document d'identité valide pour m'enregistrer ?",Dois-je présenter une pièce d'identité valide lors de mon enregistrement ?
+FAQ0640,FAQ0576,INT008,INT008,Russian,Russian,0.836364,"Нужно ли предоставить действующий документ, удостоверяющий личность, во время заезда?","Нужно ли гостям предъявлять действующий документ, удостоверяющий личность, при заезде?"
+FAQ0640,FAQ0544,INT008,INT008,Russian,Russian,0.759036,"Нужно ли предоставить действующий документ, удостоверяющий личность, во время заезда?","Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации?"
+FAQ0640,FAQ0608,INT008,INT008,Russian,Russian,0.681818,"Нужно ли предоставить действующий документ, удостоверяющий личность, во время заезда?","Требуется ли гостям предъявить действительный документ, удостоверяющий личность, при регистрации?"

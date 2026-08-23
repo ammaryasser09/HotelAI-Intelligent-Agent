@@ -1,0 +1,463 @@
+﻿faq_id_1,faq_id_2,intent_id,language_1,language_2,question_1,question_2,similarity,in_batch_1,in_batch_2
+FAQ0178,FAQ0471,INT006,French,French,Est-il possible de demander un enregistrement anticipé au Nile Pearl Hotel?,Est-il possible de demander un enregistrement anticipé au Nile Pearl Hotel ?,0.999861478805542,False,True
+FAQ0385,FAQ0451,INT001,Arabic,French,في أي مدينة يوجد Nile Pearl Hotel؟,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9941577315330505,False,True
+FAQ0029,FAQ0259,INT001,Russian,French,В какой части города расположен Nile Pearl Hotel?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9919513463973999,False,False
+FAQ0017,FAQ0027,INT001,French,Russian,Où se trouve l'hôtel Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?,0.9917696118354797,False,False
+FAQ0423,FAQ0424,INT002,French,Russian,Quelle est la classification hôtelière du Nile Pearl Hotel ?,Какова гостиничная классификация Nile Pearl Hotel?,0.9916967153549194,False,False
+FAQ0029,FAQ0451,INT001,Russian,French,В какой части города расположен Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9914284348487854,False,True
+FAQ0018,FAQ0025,INT001,French,Russian,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,По какому адресу находится отель Nile Pearl Hotel?,0.9912368059158325,False,False
+FAQ0291,FAQ0292,INT001,French,Russian,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?","Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9901134967803955,False,False
+FAQ0003,FAQ0451,INT001,English,French,In which city is Nile Pearl Hotel located?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9900825023651123,False,True
+FAQ0020,FAQ0028,INT001,French,Russian,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,"Как называется город, в котором расположен отель Nile Pearl Hotel?",0.9898720979690552,False,False
+FAQ0030,FAQ0388,INT001,Russian,Russian,В каком районе Каира расположен Nile Pearl Hotel?,Где в Каире расположен Nile Pearl Hotel?,0.9896354079246521,False,False
+FAQ0044,FAQ0050,INT002,Arabic,French,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,0.9896214008331299,False,False
+FAQ0418,FAQ0420,INT001,English,Russian,How can I identify the location of Nile Pearl Hotel within Cairo?,Как определить местоположение Nile Pearl Hotel в Каире?,0.988614559173584,False,False
+FAQ0029,FAQ0385,INT001,Russian,Arabic,В какой части города расположен Nile Pearl Hotel?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9886057376861572,False,False
+FAQ0259,FAQ0451,INT001,French,French,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9880255460739136,False,True
+FAQ0003,FAQ0029,INT001,English,Russian,In which city is Nile Pearl Hotel located?,В какой части города расположен Nile Pearl Hotel?,0.9872087240219116,False,False
+FAQ0003,FAQ0385,INT001,English,Arabic,In which city is Nile Pearl Hotel located?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9866971969604492,False,False
+FAQ0029,FAQ0258,INT001,Russian,English,В какой части города расположен Nile Pearl Hotel?,Which part of the city is Nile Pearl Hotel located in?,0.9864250421524048,False,False
+FAQ0058,FAQ0263,INT002,Russian,French,Какая категория отеля является для Nile Pearl Hotel?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9858695268630981,False,False
+FAQ0013,FAQ0030,INT001,Arabic,Russian,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,В каком районе Каира расположен Nile Pearl Hotel?,0.9857730865478516,False,False
+FAQ0295,FAQ0296,INT002,French,Russian,Je prévois de séjourner au Nile Pearl Hotel ; quelle est la catégorie de cet hôtel ?,Я планирую остановиться в Nile Pearl Hotel; к какой категории относится этот отель?,0.985175609588623,False,False
+FAQ0009,FAQ0027,INT001,Arabic,Russian,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,Где расположен отель Nile Pearl Hotel?,0.9848629236221313,False,False
+FAQ0290,FAQ0292,INT001,English,Russian,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?","Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9846768379211426,False,False
+FAQ0259,FAQ0385,INT001,French,Arabic,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9842871427536011,False,False
+FAQ0058,FAQ0262,INT002,Russian,English,Какая категория отеля является для Nile Pearl Hotel?,What hotel category is Nile Pearl Hotel?,0.9841153621673584,False,False
+FAQ0290,FAQ0291,INT001,English,French,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?","Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",0.9838969707489014,False,False
+FAQ0009,FAQ0017,INT001,Arabic,French,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,Où se trouve l'hôtel Nile Pearl Hotel?,0.9835840463638306,False,False
+FAQ0262,FAQ0263,INT002,English,French,What hotel category is Nile Pearl Hotel?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9834699630737305,False,False
+FAQ0029,FAQ0260,INT001,Russian,Russian,В какой части города расположен Nile Pearl Hotel?,В каком районе города находится отель Nile Pearl Hotel?,0.9832327365875244,False,False
+FAQ0340,FAQ0468,INT005,Russian,Russian,До какого времени обычно нужно освободить номер в Nile Pearl Hotel?,К какому времени нужно освободить номер в Nile Pearl Hotel?,0.983083188533783,False,True
+FAQ0003,FAQ0258,INT001,English,English,In which city is Nile Pearl Hotel located?,Which part of the city is Nile Pearl Hotel located in?,0.9826380014419556,False,False
+FAQ0223,FAQ0224,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и если да, как это сделать и будут ли дополнительные расходы?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если это возможно, под какие условия и будут ли какие-либо дополнительные расходы?",0.9823395609855652,False,False
+FAQ0010,FAQ0019,INT001,Arabic,French,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,0.9823075532913208,False,False
+FAQ0052,FAQ0453,INT002,French,Arabic,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9822805523872375,False,True
+FAQ0008,FAQ0386,INT001,English,English,"For a trip to Egypt, which part of Cairo should I look for Nile Pearl Hotel in?",In which part of Cairo should I look for Nile Pearl Hotel?,0.9820114374160767,False,False
+FAQ0003,FAQ0259,INT001,English,French,In which city is Nile Pearl Hotel located?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9819016456604004,False,False
+FAQ0326,FAQ0423,INT002,English,French,What hotel classification does Nile Pearl Hotel have?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9813065528869629,False,False
+FAQ0323,FAQ0324,INT001,French,Russian,Quel quartier ou point de repère proche puis-je utiliser pour localiser le Nile Pearl Hotel ?,"Какой ближайший район или ориентир можно использовать, чтобы найти Nile Pearl Hotel?",0.9811220169067383,False,False
+FAQ0017,FAQ0022,INT001,French,French,Où se trouve l'hôtel Nile Pearl Hotel?,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.9810110926628113,False,False
+FAQ0054,FAQ0263,INT002,French,French,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9809690713882446,False,False
+FAQ0257,FAQ0292,INT001,Arabic,Russian,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9805859327316284,False,False
+FAQ0043,FAQ0325,INT002,Arabic,Arabic,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,0.9803048372268677,False,False
+FAQ0036,FAQ0038,INT002,English,English,What is the star classification of Nile Pearl Hotel?,What star classification is assigned to Nile Pearl Hotel?,0.9802178144454956,False,False
+FAQ0258,FAQ0259,INT001,English,French,Which part of the city is Nile Pearl Hotel located in?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.979727029800415,False,False
+FAQ0417,FAQ0418,INT001,Arabic,English,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9795638918876648,False,False
+FAQ0010,FAQ0027,INT001,Arabic,Russian,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Где расположен отель Nile Pearl Hotel?,0.9794129133224487,False,False
+FAQ0450,FAQ0451,INT001,English,French,Which city is home to the Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9794088006019592,True,True
+FAQ0294,FAQ0296,INT002,English,Russian,I am planning to stay at Nile Pearl Hotel; what category is the hotel?,Я планирую остановиться в Nile Pearl Hotel; к какой категории относится этот отель?,0.9791052341461182,False,False
+FAQ0019,FAQ0260,INT001,French,Russian,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,В каком районе города находится отель Nile Pearl Hotel?,0.978533148765564,False,False
+FAQ0259,FAQ0260,INT001,French,Russian,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,В каком районе города находится отель Nile Pearl Hotel?,0.9784561395645142,False,False
+FAQ0003,FAQ0450,INT001,English,English,In which city is Nile Pearl Hotel located?,Which city is home to the Nile Pearl Hotel?,0.9783709049224854,False,True
+FAQ0257,FAQ0290,INT001,Arabic,English,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",0.978206992149353,False,False
+FAQ0055,FAQ0063,INT002,French,Russian,"Si je choisis le Nile Pearl Hotel pour mon séjour au Caire, combien d'étoiles compte cet hôtel?","Если я выбираю Nile Pearl Hotel для проживания в Каире, сколько звезд имеет этот отель?",0.978193461894989,False,False
+FAQ0263,FAQ0455,INT002,French,French,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,Quelle est la catégorie du Nile Pearl Hotel ?,0.978193461894989,False,True
+FAQ0001,FAQ0017,INT001,English,French,Where is Nile Pearl Hotel located?,Où se trouve l'hôtel Nile Pearl Hotel?,0.9781736135482788,False,False
+FAQ0222,FAQ0223,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и какие возможны дополнительные расходы?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если да, как это сделать и будут ли дополнительные расходы?",0.9780424237251282,False,False
+FAQ0385,FAQ0450,INT001,Arabic,English,في أي مدينة يوجد Nile Pearl Hotel؟,Which city is home to the Nile Pearl Hotel?,0.977810800075531,False,True
+FAQ0260,FAQ0385,INT001,Russian,Arabic,В каком районе города находится отель Nile Pearl Hotel?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9777690172195435,False,False
+FAQ0326,FAQ0424,INT002,English,Russian,What hotel classification does Nile Pearl Hotel have?,Какова гостиничная классификация Nile Pearl Hotel?,0.97773277759552,False,False
+FAQ0010,FAQ0017,INT001,Arabic,French,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Où se trouve l'hôtel Nile Pearl Hotel?,0.9777144193649292,False,False
+FAQ0050,FAQ0456,INT002,French,Russian,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,Сколько звёзд у Nile Pearl Hotel?,0.9777073860168457,False,True
+FAQ0013,FAQ0388,INT001,Arabic,Russian,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,Где в Каире расположен Nile Pearl Hotel?,0.9774918556213379,False,False
+FAQ0303,FAQ0463,INT004,French,French,J'arriverai à l'hôtel le jour de mon arrivée ; à quelle heure puis-je normalement m'enregistrer ?,"Si j'arrive à l'hôtel le jour de mon séjour, à partir de quelle heure puis-je normalement m'enregistrer ?",0.9768353700637817,False,True
+FAQ0387,FAQ0388,INT001,French,Russian,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,Где в Каире расположен Nile Pearl Hotel?,0.9767149686813354,False,False
+FAQ0025,FAQ0027,INT001,Russian,Russian,По какому адресу находится отель Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?,0.9766789674758911,False,False
+FAQ0049,FAQ0052,INT002,French,French,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,0.9766592979431152,False,False
+FAQ0043,FAQ0421,INT002,Arabic,Arabic,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9765605330467224,False,False
+FAQ0222,FAQ0224,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и какие возможны дополнительные расходы?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если это возможно, под какие условия и будут ли какие-либо дополнительные расходы?",0.9765523672103882,False,False
+FAQ0294,FAQ0295,INT002,English,French,I am planning to stay at Nile Pearl Hotel; what category is the hotel?,Je prévois de séjourner au Nile Pearl Hotel ; quelle est la catégorie de cet hôtel ?,0.9765113592147827,False,False
+FAQ0021,FAQ0451,INT001,French,French,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9763766527175903,False,True
+FAQ0017,FAQ0025,INT001,French,Russian,Où se trouve l'hôtel Nile Pearl Hotel?,По какому адресу находится отель Nile Pearl Hotel?,0.9763648509979248,False,False
+FAQ0417,FAQ0420,INT001,Arabic,Russian,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,Как определить местоположение Nile Pearl Hotel в Каире?,0.9763540625572205,False,False
+FAQ0021,FAQ0385,INT001,French,Arabic,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9762149453163147,False,False
+FAQ0018,FAQ0026,INT001,French,Russian,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,Каков точный адрес отеля Nile Pearl Hotel в городе?,0.9761953353881836,False,False
+FAQ0009,FAQ0010,INT001,Arabic,Arabic,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,0.9761643409729004,False,False
+FAQ0260,FAQ0451,INT001,Russian,French,В каком районе города находится отель Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9761343598365784,False,True
+FAQ0019,FAQ0022,INT001,French,French,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.976112961769104,False,False
+FAQ0262,FAQ0455,INT002,English,French,What hotel category is Nile Pearl Hotel?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9761041402816772,False,True
+FAQ0010,FAQ0260,INT001,Arabic,Russian,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,В каком районе города находится отель Nile Pearl Hotel?,0.9759652614593506,False,False
+FAQ0035,FAQ0262,INT002,English,English,What category of hotel is Nile Pearl Hotel classified as?,What hotel category is Nile Pearl Hotel?,0.9759151935577393,False,False
+FAQ0102,FAQ0104,INT004,English,English,At what time can I normally check in at Nile Pearl Hotel?,"As a guest arriving at Nile Pearl Hotel, what time can I normally check in?",0.975900411605835,False,False
+FAQ0022,FAQ0027,INT001,French,Russian,Où est situé exactement l'hôtel Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?,0.9757681488990784,False,False
+FAQ0257,FAQ0291,INT001,Arabic,French,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",0.9756795167922974,False,False
+FAQ0263,FAQ0424,INT002,French,Russian,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,Какова гостиничная классификация Nile Pearl Hotel?,0.9754706621170044,False,False
+FAQ0262,FAQ0424,INT002,English,Russian,What hotel category is Nile Pearl Hotel?,Какова гостиничная классификация Nile Pearl Hotel?,0.9754514694213867,False,False
+FAQ0021,FAQ0029,INT001,French,Russian,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,В какой части города расположен Nile Pearl Hotel?,0.9752714037895203,False,False
+FAQ0058,FAQ0424,INT002,Russian,Russian,Какая категория отеля является для Nile Pearl Hotel?,Какова гостиничная классификация Nile Pearl Hotel?,0.9752585291862488,False,False
+FAQ0213,FAQ0222,INT007,French,Russian,"Est-ce que je peux avoir un décalage pour le départ tardif au Nile Pearl Hotel, et s'il y a des frais supplémentaires?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и какие возможны дополнительные расходы?",0.9749619364738464,False,False
+FAQ0017,FAQ0019,INT001,French,French,Où se trouve l'hôtel Nile Pearl Hotel?,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,0.9749048948287964,False,False
+FAQ0218,FAQ0224,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и под какие условия это возможно?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если это возможно, под какие условия и будут ли какие-либо дополнительные расходы?",0.9748767614364624,False,False
+FAQ0193,FAQ0195,INT007,English,English,"Can I arrange for late check-out at Nile Pearl Hotel, and if so, what conditions apply?","Is late check-out available at Nile Pearl Hotel, and if so, what conditions must be met?",0.9747951030731201,False,False
+FAQ0050,FAQ0057,INT002,French,Russian,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,Сколько звезд у отеля Nile Pearl Hotel?,0.9747492074966431,False,False
+FAQ0250,FAQ0254,INT008,Russian,Russian,"Какие документы, удостоверяющие личность, необходимы при регистрации заезда в Nile Pearl Hotel?","Какие документы, удостоверяющие личность, могут потребоваться при заселении в Nile Pearl Hotel?",0.9747000336647034,False,False
+FAQ0044,FAQ0456,INT002,Arabic,Russian,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Сколько звёзд у Nile Pearl Hotel?,0.9745697379112244,False,True
+FAQ0061,FAQ0455,INT002,Russian,French,К какому уровню или категории относится Nile Pearl Hotel?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9743450880050659,False,True
+FAQ0003,FAQ0260,INT001,English,Russian,In which city is Nile Pearl Hotel located?,В каком районе города находится отель Nile Pearl Hotel?,0.9743256568908691,False,False
+FAQ0021,FAQ0259,INT001,French,French,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9741668701171875,False,False
+FAQ0409,FAQ0411,INT007,Arabic,French,إذا احتجت للبقاء لفترة أطول في يوم المغادرة، هل يمكنني طلب خروج متأخر؟,"Si j'ai besoin de rester plus longtemps le jour du départ, puis-je demander un départ tardif ?",0.973949670791626,False,False
+FAQ0411,FAQ0412,INT007,French,Russian,"Si j'ai besoin de rester plus longtemps le jour du départ, puis-je demander un départ tardif ?","Если мне нужно остаться подольше в день выезда, могу ли я попросить поздний выезд?",0.9738928079605103,False,False
+FAQ0325,FAQ0421,INT002,Arabic,Arabic,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9738444089889526,False,False
+FAQ0264,FAQ0456,INT002,Russian,Russian,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,Сколько звёзд у Nile Pearl Hotel?,0.9736646413803101,False,True
+FAQ0054,FAQ0058,INT002,French,Russian,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,Какая категория отеля является для Nile Pearl Hotel?,0.9733823537826538,False,False
+FAQ0025,FAQ0026,INT001,Russian,Russian,По какому адресу находится отель Nile Pearl Hotel?,Каков точный адрес отеля Nile Pearl Hotel в городе?,0.9733085632324219,False,False
+FAQ0189,FAQ0191,INT006,Russian,Russian,Могу ли я приехать в Nile Pearl Hotel раньше обычного времени и запросить раннюю регистрацию заезда?,"Если я приеду раньше времени заезда, смогу ли я заранее зарегистрироваться заезда в Nile Pearl Hotel?",0.973082423210144,False,False
+FAQ0390,FAQ0391,INT002,English,French,"Before booking a room, how can I tell what category Nile Pearl Hotel belongs to?","Avant de réserver une chambre, comment puis-je savoir à quelle catégorie appartient le Nile Pearl Hotel ?",0.9729951620101929,False,False
+FAQ0051,FAQ0357,INT002,French,Arabic,Quel niveau de classement hôtelier est attribué au Nile Pearl Hotel ?,ما مستوى تصنيف Nile Pearl Hotel بين الفنادق؟,0.9729571342468262,False,False
+FAQ0259,FAQ0450,INT001,French,English,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,Which city is home to the Nile Pearl Hotel?,0.9728085994720459,False,True
+FAQ0010,FAQ0022,INT001,Arabic,French,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.9728071689605713,False,False
+FAQ0030,FAQ0387,INT001,Russian,French,В каком районе Каира расположен Nile Pearl Hotel?,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9726351499557495,False,False
+FAQ0258,FAQ0451,INT001,English,French,Which part of the city is Nile Pearl Hotel located in?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9726210832595825,False,True
+FAQ0009,FAQ0022,INT001,Arabic,French,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.9726099371910095,False,False
+FAQ0042,FAQ0044,INT002,Arabic,Arabic,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,0.972491443157196,False,False
+FAQ0009,FAQ0025,INT001,Arabic,Russian,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,По какому адресу находится отель Nile Pearl Hotel?,0.9724356532096863,False,False
+FAQ0218,FAQ0221,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и под какие условия это возможно?","Как мне можно получить поздний выезд из Nile Pearl Hotel, и на какие дополнительные условия это может бытьdependent?",0.972328782081604,False,False
+FAQ0012,FAQ0388,INT001,Arabic,Russian,أين يقع Nile Pearl Hotel في مصر؟,Где в Каире расположен Nile Pearl Hotel?,0.9721629619598389,False,False
+FAQ0402,FAQ0403,INT005,English,French,"When my departure day arrives, what time do I need to leave the room?","Le jour de mon départ, à quelle heure dois-je quitter la chambre ?",0.9720407724380493,False,False
+FAQ0001,FAQ0010,INT001,English,Arabic,Where is Nile Pearl Hotel located?,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,0.9720020294189453,False,False
+FAQ0029,FAQ0450,INT001,Russian,English,В какой части города расположен Nile Pearl Hotel?,Which city is home to the Nile Pearl Hotel?,0.9718513488769531,False,True
+FAQ0009,FAQ0019,INT001,Arabic,French,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,0.9718009233474731,False,False
+FAQ0327,FAQ0328,INT002,French,Russian,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,0.9717546701431274,False,False
+FAQ0054,FAQ0262,INT002,French,English,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,What hotel category is Nile Pearl Hotel?,0.9716439247131348,False,False
+FAQ0003,FAQ0004,INT001,English,English,In which city is Nile Pearl Hotel located?,In which city can I find the Nile Pearl Hotel?,0.9716410040855408,False,False
+FAQ0263,FAQ0423,INT002,French,French,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9716200828552246,False,False
+FAQ0035,FAQ0043,INT002,English,Arabic,What category of hotel is Nile Pearl Hotel classified as?,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,0.9716024398803711,False,False
+FAQ0102,FAQ0462,INT004,English,English,At what time can I normally check in at Nile Pearl Hotel?,From what time can guests normally check in at Nile Pearl Hotel?,0.9715440273284912,False,True
+FAQ0183,FAQ0184,INT006,French,French,"Si je dois arriver tôt à l'aube sans avoir réservé à l'avance, puis-je demander un enregistrement anticipé au Nile Pearl Hotel?","Si je dois arriver tôt en raison d'un vol matinal, puis-je demander un enregistrement anticipé au Nile Pearl Hotel?",0.9715307950973511,False,False
+FAQ0034,FAQ0060,INT002,English,Russian,What star rating does Nile Pearl Hotel have?,Какой официальный звездный рейтинг у Nile Pearl Hotel?,0.9713826775550842,False,False
+FAQ0019,FAQ0029,INT001,French,Russian,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,В какой части города расположен Nile Pearl Hotel?,0.9712713360786438,False,False
+FAQ0123,FAQ0126,INT004,Russian,Russian,В какое время начинается регистрация заезда в Nile Pearl Hotel?,В какое время обычно доступна регистрация заезда в Nile Pearl Hotel?,0.9712170362472534,False,False
+FAQ0019,FAQ0027,INT001,French,Russian,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,Где расположен отель Nile Pearl Hotel?,0.9711186289787292,False,False
+FAQ0263,FAQ0421,INT002,French,Arabic,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9711002707481384,False,False
+FAQ0003,FAQ0021,INT001,English,French,In which city is Nile Pearl Hotel located?,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,0.9710744619369507,False,False
+FAQ0326,FAQ0360,INT002,English,Russian,What hotel classification does Nile Pearl Hotel have?,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,0.9710469841957092,False,False
+FAQ0258,FAQ0385,INT001,English,Arabic,Which part of the city is Nile Pearl Hotel located in?,في أي مدينة يوجد Nile Pearl Hotel؟,0.97088223695755,False,False
+FAQ0004,FAQ0385,INT001,English,Arabic,In which city can I find the Nile Pearl Hotel?,في أي مدينة يوجد Nile Pearl Hotel؟,0.970726728439331,False,False
+FAQ0058,FAQ0421,INT002,Russian,Arabic,Какая категория отеля является для Nile Pearl Hotel?,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9706124663352966,False,False
+FAQ0187,FAQ0191,INT006,Russian,Russian,Могу ли я заранее прибыть в Nile Pearl Hotel и провести регистрацию заезда до обычного времени?,"Если я приеду раньше времени заезда, смогу ли я заранее зарегистрироваться заезда в Nile Pearl Hotel?",0.9705721139907837,False,False
+FAQ0214,FAQ0215,INT007,French,French,"Est-ce que je peux obtenir un séjour prolongé ou un départ tardif au Nile Pearl Hotel, et si c'est le cas, quelles frais supplémentaires pourrais-je encourir?","Si je souhaite prolonger mon séjour au Nile Pearl Hotel, puis-je bénéficier d'un départ tardif et quels frais supplémentaires dois-je prévoir?",0.9704633951187134,False,False
+FAQ0262,FAQ0423,INT002,English,French,What hotel category is Nile Pearl Hotel?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.970251202583313,False,False
+FAQ0360,FAQ0423,INT002,Russian,French,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9702459573745728,False,False
+FAQ0054,FAQ0455,INT002,French,French,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9702358245849609,False,True
+FAQ0141,FAQ0142,INT005,Arabic,Arabic,عند انتهاء الإقامة في Nile Pearl Hotel، ما الموعد النهائي لمغادرة الغرفة؟,ما الموعد النهائي الذي ينبغي مغادرة الغرفة قبله في Nile Pearl Hotel؟,0.9700257182121277,False,False
+FAQ0146,FAQ0147,INT005,French,French,À quelle heure les clients doivent-ils quitter le Nile Pearl Hotel?,À quelle heure faut-il effectuer le départ du Nile Pearl Hotel?,0.9699234366416931,False,False
+FAQ0021,FAQ0258,INT001,French,English,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,Which part of the city is Nile Pearl Hotel located in?,0.9696395397186279,False,False
+FAQ0360,FAQ0424,INT002,Russian,Russian,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,Какова гостиничная классификация Nile Pearl Hotel?,0.9694622755050659,False,False
+FAQ0409,FAQ0412,INT007,Arabic,Russian,إذا احتجت للبقاء لفترة أطول في يوم المغادرة، هل يمكنني طلب خروج متأخر؟,"Если мне нужно остаться подольше в день выезда, могу ли я попросить поздний выезд?",0.9694148302078247,False,False
+FAQ0023,FAQ0257,INT001,French,Arabic,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,0.9692547917366028,False,False
+FAQ0013,FAQ0387,INT001,Arabic,French,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9692318439483643,False,False
+FAQ0044,FAQ0049,INT002,Arabic,French,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,0.9691706895828247,False,False
+FAQ0187,FAQ0188,INT006,Russian,Russian,Могу ли я заранее прибыть в Nile Pearl Hotel и провести регистрацию заезда до обычного времени?,Могу ли я заранее приехать в Nile Pearl Hotel и забронировать номер до времени обычного заезда?,0.9690507054328918,False,False
+FAQ0028,FAQ0260,INT001,Russian,Russian,"Как называется город, в котором расположен отель Nile Pearl Hotel?",В каком районе города находится отель Nile Pearl Hotel?,0.9689748287200928,False,False
+FAQ0055,FAQ0056,INT002,French,French,"Si je choisis le Nile Pearl Hotel pour mon séjour au Caire, combien d'étoiles compte cet hôtel?","Pour choisir mon hôtel lors de mon voyage en Égypte, j'envisage le Nile Pearl Hotel. Combien d'étoiles lui sont attribuées?",0.9689328670501709,False,False
+FAQ0325,FAQ0424,INT002,Arabic,Russian,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,Какова гостиничная классификация Nile Pearl Hotel?,0.9686931371688843,False,False
+FAQ0187,FAQ0189,INT006,Russian,Russian,Могу ли я заранее прибыть в Nile Pearl Hotel и провести регистрацию заезда до обычного времени?,Могу ли я приехать в Nile Pearl Hotel раньше обычного времени и запросить раннюю регистрацию заезда?,0.9686347246170044,False,False
+FAQ0401,FAQ0403,INT005,Arabic,French,إذا كان يوم المغادرة قد حان، فما الوقت الذي يجب أن أخلي فيه الغرفة؟,"Le jour de mon départ, à quelle heure dois-je quitter la chambre ?",0.9685434103012085,False,False
+FAQ0117,FAQ0335,INT004,French,French,À quel moment l'enregistrement commence-t-il normalement au Nile Pearl Hotel?,À quelle heure commence normalement l'enregistrement au Nile Pearl Hotel ?,0.9681931734085083,False,False
+FAQ0258,FAQ0450,INT001,English,English,Which part of the city is Nile Pearl Hotel located in?,Which city is home to the Nile Pearl Hotel?,0.9679471254348755,False,True
+FAQ0004,FAQ0451,INT001,English,French,In which city can I find the Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9679405689239502,False,True
+FAQ0017,FAQ0018,INT001,French,French,Où se trouve l'hôtel Nile Pearl Hotel?,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,0.9679133892059326,False,False
+FAQ0202,FAQ0473,INT007,Arabic,Arabic,هل يمكنني طلب تسجيل خروج متأخر في Nile Pearl Hotel، وما الشروط المطلوبة؟,هل يمكنني طلب تسجيل المغادرة المتأخر في Nile Pearl Hotel؟,0.9678339958190918,False,True
+FAQ0114,FAQ0115,INT004,French,French,À quelle heure puis-je effectuer mon entrée au Nile Pearl Hotel?,Quelle est l'heure de réservation d'entrée pour le Nile Pearl Hotel?,0.9678152799606323,False,False
+FAQ0262,FAQ0325,INT002,English,Arabic,What hotel category is Nile Pearl Hotel?,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,0.967652440071106,False,False
+FAQ0012,FAQ0030,INT001,Arabic,Russian,أين يقع Nile Pearl Hotel في مصر؟,В каком районе Каира расположен Nile Pearl Hotel?,0.9675999879837036,False,False
+FAQ0001,FAQ0022,INT001,English,French,Where is Nile Pearl Hotel located?,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.9674365520477295,False,False
+FAQ0043,FAQ0424,INT002,Arabic,Russian,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Какова гостиничная классификация Nile Pearl Hotel?,0.9674309492111206,False,False
+FAQ0058,FAQ0325,INT002,Russian,Arabic,Какая категория отеля является для Nile Pearl Hotel?,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,0.9674303531646729,False,False
+FAQ0308,FAQ0372,INT005,Russian,Russian,В какое время нужно освободить номер в день выезда?,К какому времени номер должен быть освобождён в день выезда?,0.9672793745994568,False,False
+FAQ0061,FAQ0263,INT002,Russian,French,К какому уровню или категории относится Nile Pearl Hotel?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9672296047210693,False,False
+FAQ0058,FAQ0455,INT002,Russian,French,Какая категория отеля является для Nile Pearl Hotel?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9672281742095947,False,True
+FAQ0041,FAQ0456,INT002,Arabic,Russian,كم نجمة مُصنَّف بها Nile Pearl Hotel؟,Сколько звёзд у Nile Pearl Hotel?,0.9671406745910645,False,True
+FAQ0001,FAQ0027,INT001,English,Russian,Where is Nile Pearl Hotel located?,Где расположен отель Nile Pearl Hotel?,0.967122495174408,False,False
+FAQ0035,FAQ0263,INT002,English,French,What category of hotel is Nile Pearl Hotel classified as?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9670755863189697,False,False
+FAQ0108,FAQ0110,INT004,Arabic,Arabic,متى يبدأ موعد تسجيل الوصول المعتاد للضيوف في فندق Nile Pearl Hotel؟,ما الموعد الرسمي لبدء إجراءات تسجيل الوصول في فندق Nile Pearl Hotel؟,0.966889500617981,False,False
+FAQ0057,FAQ0456,INT002,Russian,Russian,Сколько звезд у отеля Nile Pearl Hotel?,Сколько звёзд у Nile Pearl Hotel?,0.9666820764541626,False,True
+FAQ0051,FAQ0327,INT002,French,French,Quel niveau de classement hôtelier est attribué au Nile Pearl Hotel ?,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,0.9666174650192261,False,False
+FAQ0122,FAQ0336,INT004,Russian,Russian,В какое время гости могут зарегистрироваться и заселиться в Nile Pearl Hotel?,С какого часа гостям разрешается заселение в Nile Pearl Hotel?,0.9665311574935913,False,False
+FAQ0100,FAQ0116,INT004,English,French,What time is check-in usually available at Nile Pearl Hotel?,Quelle heure est le check-in standard à l'hôtel Nile Pearl Hotel?,0.9665237069129944,False,False
+FAQ0044,FAQ0453,INT002,Arabic,Arabic,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9664174318313599,False,True
+FAQ0085,FAQ0086,INT003,French,French,"Si vous avez besoin d'aide urgente à l'hôtel Nile Pearl Hotel en pleine nuit, quelles sont les heures d'ouverture du service d'accueil?","Si vous avez besoin d'assistance tout au long de la journée ou de la nuit à l'hôtel Nile Pearl Hotel, quelles sont les heures d'ouverture du service d'accueil?",0.9663541316986084,False,False
+FAQ0148,FAQ0467,INT005,French,French,À quelle heure dois-je libérer ma chambre au Nile Pearl Hotel le jour du départ ?,"Si je termine mon séjour au Nile Pearl Hotel, à quelle heure dois-je libérer ma chambre ?",0.9663088321685791,False,True
+FAQ0148,FAQ0149,INT005,French,French,À quelle heure dois-je libérer ma chambre au Nile Pearl Hotel le jour du départ ?,Jusqu'à quelle heure dois-je quitter ma chambre au Nile Pearl Hotel?,0.9661991596221924,False,False
+FAQ0213,FAQ0224,INT007,French,Russian,"Est-ce que je peux avoir un décalage pour le départ tardif au Nile Pearl Hotel, et s'il y a des frais supplémentaires?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если это возможно, под какие условия и будут ли какие-либо дополнительные расходы?",0.9661113619804382,False,False
+FAQ0010,FAQ0029,INT001,Arabic,Russian,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,В какой части города расположен Nile Pearl Hotel?,0.9659209251403809,False,False
+FAQ0002,FAQ0385,INT001,English,Arabic,Could you tell me which city and area Nile Pearl Hotel is in?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9658646583557129,False,False
+FAQ0236,FAQ0244,INT008,Arabic,French,عند وصولي إلى Nile Pearl Hotel، هل يجب أن أقدم وثيقة هوية سارية قبل تسجيل الدخول?,"À mon arrivée au Nile Pearl Hotel, dois-je fournir un document d'identité valide avant de m'enregistrer?",0.965850293636322,False,False
+FAQ0035,FAQ0325,INT002,English,Arabic,What category of hotel is Nile Pearl Hotel classified as?,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,0.9658117294311523,False,False
+FAQ0213,FAQ0223,INT007,French,Russian,"Est-ce que je peux avoir un décalage pour le départ tardif au Nile Pearl Hotel, et s'il y a des frais supplémentaires?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если да, как это сделать и будут ли дополнительные расходы?",0.9656537771224976,False,False
+FAQ0004,FAQ0006,INT001,English,English,In which city can I find the Nile Pearl Hotel?,In which major city can Nile Pearl Hotel be found?,0.9656170606613159,False,False
+FAQ0257,FAQ0387,INT001,Arabic,French,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9655960202217102,False,False
+FAQ0001,FAQ0003,INT001,English,English,Where is Nile Pearl Hotel located?,In which city is Nile Pearl Hotel located?,0.9654629230499268,False,False
+FAQ0058,FAQ0423,INT002,Russian,French,Какая категория отеля является для Nile Pearl Hotel?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9653372764587402,False,False
+FAQ0258,FAQ0260,INT001,English,Russian,Which part of the city is Nile Pearl Hotel located in?,В каком районе города находится отель Nile Pearl Hotel?,0.9652730226516724,False,False
+FAQ0020,FAQ0451,INT001,French,French,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9652493000030518,False,True
+FAQ0013,FAQ0292,INT001,Arabic,Russian,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9651790857315063,False,False
+FAQ0108,FAQ0461,INT004,Arabic,Arabic,متى يبدأ موعد تسجيل الوصول المعتاد للضيوف في فندق Nile Pearl Hotel؟,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.9647240042686462,False,True
+FAQ0044,FAQ0052,INT002,Arabic,French,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,0.9646539092063904,False,False
+FAQ0098,FAQ0100,INT004,English,English,What time does check-in normally begin at Nile Pearl Hotel?,What time is check-in usually available at Nile Pearl Hotel?,0.964625358581543,False,False
+FAQ0202,FAQ0203,INT007,Arabic,Arabic,هل يمكنني طلب تسجيل خروج متأخر في Nile Pearl Hotel، وما الشروط المطلوبة؟,ما المتطلبات اللازمة لطلب تسجيل خروج متأخر في Nile Pearl Hotel؟,0.9646105766296387,False,False
+FAQ0387,FAQ0417,INT001,French,Arabic,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,0.9645873308181763,False,False
+FAQ0002,FAQ0021,INT001,English,French,Could you tell me which city and area Nile Pearl Hotel is in?,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,0.9645360112190247,False,False
+FAQ0035,FAQ0058,INT002,English,Russian,What category of hotel is Nile Pearl Hotel classified as?,Какая категория отеля является для Nile Pearl Hotel?,0.9645328521728516,False,False
+FAQ0234,FAQ0250,INT008,Arabic,Russian,ما هي وثائق إثبات الهوية المطلوبة عند تسجيل الوصول في Nile Pearl Hotel?,"Какие документы, удостоверяющие личность, необходимы при регистрации заезда в Nile Pearl Hotel?",0.9645295739173889,False,False
+FAQ0009,FAQ0018,INT001,Arabic,French,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,0.9644879698753357,False,False
+FAQ0325,FAQ0423,INT002,Arabic,French,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9644540548324585,False,False
+FAQ0109,FAQ0111,INT004,Arabic,Arabic,متى يمكنني تسجيل الوصول في فندق Nile Pearl Hotel؟,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.9644180536270142,False,False
+FAQ0004,FAQ0450,INT001,English,English,In which city can I find the Nile Pearl Hotel?,Which city is home to the Nile Pearl Hotel?,0.9643617868423462,False,True
+FAQ0001,FAQ0451,INT001,English,French,Where is Nile Pearl Hotel located?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9643347859382629,False,True
+FAQ0001,FAQ0019,INT001,English,French,Where is Nile Pearl Hotel located?,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,0.9642324447631836,False,False
+FAQ0249,FAQ0480,INT008,Russian,Russian,Нужно ли предъявлять удостоверение личности для оформления регистрации в Nile Pearl Hotel?,Нужно ли предъявлять действующее удостоверение личности при заселении в Nile Pearl Hotel?,0.9640954732894897,False,True
+FAQ0322,FAQ0323,INT001,English,French,What nearby area or landmark can I use to identify the location of Nile Pearl Hotel?,Quel quartier ou point de repère proche puis-je utiliser pour localiser le Nile Pearl Hotel ?,0.9640741348266602,False,False
+FAQ0242,FAQ0250,INT008,French,Russian,Quels documents d'identité sont requis lors de l'enregistrement au Nile Pearl Hotel?,"Какие документы, удостоверяющие личность, необходимы при регистрации заезда в Nile Pearl Hotel?",0.9640288352966309,False,False
+FAQ0388,FAQ0417,INT001,Russian,Arabic,Где в Каире расположен Nile Pearl Hotel?,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,0.9640012979507446,False,False
+FAQ0209,FAQ0475,INT007,French,French,"Est-il possible d'obtenir un départ tardif au Nile Pearl Hotel, et quelles sont les exigences?",Le départ tardif est-il possible au Nile Pearl Hotel ?,0.9639451503753662,False,True
+FAQ0044,FAQ0057,INT002,Arabic,Russian,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Сколько звезд у отеля Nile Pearl Hotel?,0.9639431238174438,False,False
+FAQ0291,FAQ0387,INT001,French,French,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9639092683792114,False,False
+FAQ0019,FAQ0385,INT001,French,Arabic,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9638333320617676,False,False
+FAQ0292,FAQ0388,INT001,Russian,Russian,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",Где в Каире расположен Nile Pearl Hotel?,0.9637120962142944,False,False
+FAQ0035,FAQ0424,INT002,English,Russian,What category of hotel is Nile Pearl Hotel classified as?,Какова гостиничная классификация Nile Pearl Hotel?,0.9636725187301636,False,False
+FAQ0022,FAQ0025,INT001,French,Russian,Où est situé exactement l'hôtel Nile Pearl Hotel?,По какому адресу находится отель Nile Pearl Hotel?,0.9635430574417114,False,False
+FAQ0423,FAQ0455,INT002,French,French,Quelle est la classification hôtelière du Nile Pearl Hotel ?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9635251760482788,False,True
+FAQ0001,FAQ0029,INT001,English,Russian,Where is Nile Pearl Hotel located?,В какой части города расположен Nile Pearl Hotel?,0.9635228514671326,False,False
+FAQ0023,FAQ0292,INT001,French,Russian,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.96352219581604,False,False
+FAQ0111,FAQ0461,INT004,Arabic,Arabic,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.9635148048400879,False,True
+FAQ0013,FAQ0257,INT001,Arabic,Arabic,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,0.9634754657745361,False,False
+FAQ0334,FAQ0462,INT004,English,English,What time are guests first permitted to check in at Nile Pearl Hotel?,From what time can guests normally check in at Nile Pearl Hotel?,0.9634712934494019,False,True
+FAQ0010,FAQ0385,INT001,Arabic,Arabic,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,في أي مدينة يوجد Nile Pearl Hotel؟,0.9633123874664307,False,False
+FAQ0043,FAQ0423,INT002,Arabic,French,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9632919430732727,False,False
+FAQ0121,FAQ0125,INT004,Russian,Russian,Когда можно заселиться в Nile Pearl Hotel?,Когда стандартно можно заселиться в отель Nile Pearl Hotel?,0.9632488489151001,False,False
+FAQ0205,FAQ0208,INT007,Arabic,Arabic,هل يمكنني الحصول على تسجيل خروج متأخر في Nile Pearl Hotel، وهل توجد رسوم إضافية؟,إذا كانت رحلتي في وقت متأخر من اليوم، هل يمكنني الحصول على تسجيل خروج متأخر من Nile Pearl Hotel، وهل توجد رسوم إضافية؟,0.9630985260009766,False,False
+FAQ0054,FAQ0421,INT002,French,Arabic,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9630358815193176,False,False
+FAQ0002,FAQ0029,INT001,English,Russian,Could you tell me which city and area Nile Pearl Hotel is in?,В какой части города расположен Nile Pearl Hotel?,0.9627721309661865,False,False
+FAQ0027,FAQ0260,INT001,Russian,Russian,Где расположен отель Nile Pearl Hotel?,В каком районе города находится отель Nile Pearl Hotel?,0.9626608490943909,False,False
+FAQ0049,FAQ0453,INT002,French,Arabic,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9626387357711792,False,True
+FAQ0209,FAQ0218,INT007,French,Russian,"Est-il possible d'obtenir un départ tardif au Nile Pearl Hotel, et quelles sont les exigences?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и под какие условия это возможно?",0.96256023645401,False,False
+FAQ0424,FAQ0455,INT002,Russian,French,Какова гостиничная классификация Nile Pearl Hotel?,Quelle est la catégorie du Nile Pearl Hotel ?,0.9625545740127563,False,True
+FAQ0043,FAQ0422,INT002,Arabic,English,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,How is Nile Pearl Hotel categorized within hotel classifications?,0.962517499923706,False,False
+FAQ0189,FAQ0469,INT006,Russian,Arabic,Могу ли я приехать в Nile Pearl Hotel раньше обычного времени и запросить раннюю регистрацию заезда?,إذا وصلت إلى Nile Pearl Hotel قبل الموعد المعتاد، هل يمكنني طلب تسجيل الوصول المبكر؟,0.962501049041748,False,True
+FAQ0066,FAQ0067,INT003,English,English,What are the hours of operation for the reception desk at Nile Pearl Hotel?,What are the availability hours for the reception desk at Nile Pearl Hotel?,0.9623208045959473,False,False
+FAQ0005,FAQ0017,INT001,English,French,Where can I find the Nile Pearl Hotel?,Où se trouve l'hôtel Nile Pearl Hotel?,0.9622607231140137,False,False
+FAQ0453,FAQ0456,INT002,Arabic,Russian,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,Сколько звёзд у Nile Pearl Hotel?,0.9622554779052734,True,True
+FAQ0028,FAQ0451,INT001,Russian,French,"Как называется город, в котором расположен отель Nile Pearl Hotel?",Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9622409343719482,False,True
+FAQ0013,FAQ0291,INT001,Arabic,French,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",0.9622306823730469,False,False
+FAQ0004,FAQ0259,INT001,English,French,In which city can I find the Nile Pearl Hotel?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9622145295143127,False,False
+FAQ0328,FAQ0424,INT002,Russian,Russian,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,Какова гостиничная классификация Nile Pearl Hotel?,0.9621567130088806,False,False
+FAQ0035,FAQ0326,INT002,English,English,What category of hotel is Nile Pearl Hotel classified as?,What hotel classification does Nile Pearl Hotel have?,0.9621498584747314,False,False
+FAQ0002,FAQ0451,INT001,English,French,Could you tell me which city and area Nile Pearl Hotel is in?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9620504379272461,False,True
+FAQ0008,FAQ0354,INT001,English,English,"For a trip to Egypt, which part of Cairo should I look for Nile Pearl Hotel in?","If I arrive in Cairo and want to head directly to Nile Pearl Hotel, which area should I look for?",0.9620201587677002,False,False
+FAQ0013,FAQ0290,INT001,Arabic,English,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",0.9619882106781006,False,False
+FAQ0019,FAQ0451,INT001,French,French,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9619256854057312,False,True
+FAQ0326,FAQ0422,INT002,English,English,What hotel classification does Nile Pearl Hotel have?,How is Nile Pearl Hotel categorized within hotel classifications?,0.9619097113609314,False,False
+FAQ0042,FAQ0052,INT002,Arabic,French,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,0.9618508815765381,False,False
+FAQ0292,FAQ0387,INT001,Russian,French,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9618468284606934,False,False
+FAQ0010,FAQ0025,INT001,Arabic,Russian,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,По какому адресу находится отель Nile Pearl Hotel?,0.9617687463760376,False,False
+FAQ0012,FAQ0387,INT001,Arabic,French,أين يقع Nile Pearl Hotel في مصر؟,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9617043137550354,False,False
+FAQ0388,FAQ0420,INT001,Russian,Russian,Где в Каире расположен Nile Pearl Hotel?,Как определить местоположение Nile Pearl Hotel в Каире?,0.9616876840591431,False,False
+FAQ0020,FAQ0260,INT001,French,Russian,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,В каком районе города находится отель Nile Pearl Hotel?,0.9616700410842896,False,False
+FAQ0239,FAQ0240,INT008,Arabic,Arabic,أنا على وشك الوصول إلى Nile Pearl Hotel للإقامة، فهل يجب أن أحضر معي وثيقة إثبات هوية سارية عند تسجيل الوصول?,أستعد للإقامة في Nile Pearl Hotel وأريد معرفة ما إذا كان يجب أن تكون وثيقة إثبات الهوية معي عند تسجيل الوصول?,0.9613963961601257,False,False
+FAQ0015,FAQ0016,INT001,Arabic,Arabic,أنا مهتم بزيارة مصر وحجز غرفة في Nile Pearl Hotel، فهل يمكنك معرفة موقعه في القاهرة؟,أنا أخطط لزيارة مصر وقمت بالبحث عن فندق Nile Pearl Hotel، هل يمكنني أن أعرف موقع هذا الفندق في القاهرة؟,0.9613357782363892,False,False
+FAQ0061,FAQ0262,INT002,Russian,English,К какому уровню или категории относится Nile Pearl Hotel?,What hotel category is Nile Pearl Hotel?,0.9611499309539795,False,False
+FAQ0111,FAQ0112,INT004,Arabic,Arabic,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟,مرحباً، أنا مقيم في Nile Pearl Hotel وأتمنى معرفة موعد تسجيل الوصول المعتاد؟,0.9611231088638306,False,False
+FAQ0002,FAQ0259,INT001,English,French,Could you tell me which city and area Nile Pearl Hotel is in?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9609705209732056,False,False
+FAQ0018,FAQ0027,INT001,French,Russian,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,Где расположен отель Nile Pearl Hotel?,0.9609092473983765,False,False
+FAQ0257,FAQ0388,INT001,Arabic,Russian,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,Где в Каире расположен Nile Pearl Hotel?,0.9607949256896973,False,False
+FAQ0035,FAQ0423,INT002,English,French,What category of hotel is Nile Pearl Hotel classified as?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9607385396957397,False,False
+FAQ0293,FAQ0296,INT002,Arabic,Russian,أخطط للإقامة في Nile Pearl Hotel، فما تصنيف الفندق الذي يمكنني توقعه؟,Я планирую остановиться в Nile Pearl Hotel; к какой категории относится этот отель?,0.9606605172157288,False,False
+FAQ0251,FAQ0253,INT008,Russian,Russian,"Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации в Nile Pearl Hotel?","Требуется ли гостям предъявлять документ, удостоверяющий личность, при регистрации заезда в Nile Pearl Hotel?",0.9606300592422485,False,False
+FAQ0047,FAQ0055,INT002,Arabic,French,إذا كنت أختار Nile Pearl Hotel للإقامة في القاهرة، فما هو تصنيف الفندق من حيث عدد النجوم؟,"Si je choisis le Nile Pearl Hotel pour mon séjour au Caire, combien d'étoiles compte cet hôtel?",0.9605912566184998,False,False
+FAQ0049,FAQ0050,INT002,French,French,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,0.9605810046195984,False,False
+FAQ0263,FAQ0325,INT002,French,Arabic,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,0.9605786800384521,False,False
+FAQ0043,FAQ0263,INT002,Arabic,French,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9604220390319824,False,False
+FAQ0028,FAQ0385,INT001,Russian,Arabic,"Как называется город, в котором расположен отель Nile Pearl Hotel?",في أي مدينة يوجد Nile Pearl Hotel؟,0.9603601694107056,False,False
+FAQ0291,FAQ0388,INT001,French,Russian,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",Где в Каире расположен Nile Pearl Hotel?,0.9603221416473389,False,False
+FAQ0017,FAQ0451,INT001,French,French,Où se trouve l'hôtel Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9602957367897034,False,True
+FAQ0056,FAQ0064,INT002,French,Russian,"Pour choisir mon hôtel lors de mon voyage en Égypte, j'envisage le Nile Pearl Hotel. Combien d'étoiles lui sont attribuées?","Планируя поездку в Египет и выбирая отель, я рассматриваю Nile Pearl Hotel. Сколько звезд у этого отеля?",0.9602885842323303,False,False
+FAQ0002,FAQ0003,INT001,English,English,Could you tell me which city and area Nile Pearl Hotel is in?,In which city is Nile Pearl Hotel located?,0.960226833820343,False,False
+FAQ0043,FAQ0326,INT002,Arabic,English,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,What hotel classification does Nile Pearl Hotel have?,0.9601953029632568,False,False
+FAQ0030,FAQ0257,INT001,Russian,Arabic,В каком районе Каира расположен Nile Pearl Hotel?,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,0.9601825475692749,False,False
+FAQ0131,FAQ0158,INT005,English,Russian,What is the hotel's regular departure time for guests at Nile Pearl Hotel?,Какое стандартное время выезда у гостиницы Nile Pearl Hotel?,0.960079550743103,False,False
+FAQ0035,FAQ0421,INT002,English,Arabic,What category of hotel is Nile Pearl Hotel classified as?,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9600781202316284,False,False
+FAQ0050,FAQ0052,INT002,French,French,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,0.9600502252578735,False,False
+FAQ0293,FAQ0295,INT002,Arabic,French,أخطط للإقامة في Nile Pearl Hotel، فما تصنيف الفندق الذي يمكنني توقعه؟,Je prévois de séjourner au Nile Pearl Hotel ; quelle est la catégorie de cet hôtel ?,0.9599968194961548,False,False
+FAQ0051,FAQ0328,INT002,French,Russian,Quel niveau de classement hôtelier est attribué au Nile Pearl Hotel ?,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,0.9599732160568237,False,False
+FAQ0021,FAQ0450,INT001,French,English,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,Which city is home to the Nile Pearl Hotel?,0.9597840309143066,False,True
+FAQ0019,FAQ0025,INT001,French,Russian,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,По какому адресу находится отель Nile Pearl Hotel?,0.9597494602203369,False,False
+FAQ0319,FAQ0415,INT008,French,French,"À mon arrivée à l'hôtel pour m'enregistrer, quel justificatif d'identité dois-je fournir ?",Quel justificatif d'identité dois-je fournir lors de mon arrivée à l'hôtel ?,0.9597013592720032,False,False
+FAQ0004,FAQ0029,INT001,English,Russian,In which city can I find the Nile Pearl Hotel?,В какой части города расположен Nile Pearl Hotel?,0.9596312046051025,False,False
+FAQ0049,FAQ0261,INT002,French,Arabic,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟,0.9594478607177734,False,False
+FAQ0045,FAQ0053,INT002,Arabic,French,ما فئة النجوم التي ينتمي إليها Nile Pearl Hotel؟,Quelle est la categorisation étoile du Nile Pearl Hotel?,0.9594463109970093,False,False
+FAQ0028,FAQ0029,INT001,Russian,Russian,"Как называется город, в котором расположен отель Nile Pearl Hotel?",В какой части города расположен Nile Pearl Hotel?,0.9593282341957092,False,False
+FAQ0131,FAQ0150,INT005,English,French,What is the hotel's regular departure time for guests at Nile Pearl Hotel?,Quel est le temps habituel pour effectuer le départ à l'hôtel Nile Pearl Hotel?,0.9593276977539062,False,False
+FAQ0124,FAQ0336,INT004,Russian,Russian,В какое время обычно можно заселиться в Nile Pearl Hotel?,С какого часа гостям разрешается заселение в Nile Pearl Hotel?,0.9593162536621094,False,False
+FAQ0035,FAQ0054,INT002,English,French,What category of hotel is Nile Pearl Hotel classified as?,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,0.9592229723930359,False,False
+FAQ0387,FAQ0420,INT001,French,Russian,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,Как определить местоположение Nile Pearl Hotel в Каире?,0.9591894149780273,False,False
+FAQ0260,FAQ0450,INT001,Russian,English,В каком районе города находится отель Nile Pearl Hotel?,Which city is home to the Nile Pearl Hotel?,0.9590007662773132,False,True
+FAQ0019,FAQ0259,INT001,French,French,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9588207006454468,False,False
+FAQ0010,FAQ0451,INT001,Arabic,French,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9587125778198242,False,True
+FAQ0148,FAQ0339,INT005,French,French,À quelle heure dois-je libérer ma chambre au Nile Pearl Hotel le jour du départ ?,Quelle est l'heure habituelle limite pour libérer la chambre au Nile Pearl Hotel ?,0.958696722984314,False,False
+FAQ0042,FAQ0050,INT002,Arabic,French,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,0.9586797952651978,False,False
+FAQ0138,FAQ0149,INT005,Arabic,French,إلى أي وقت يجب أن أغادر الغرفة عند تسجيل الخروج من Nile Pearl Hotel؟,Jusqu'à quelle heure dois-je quitter ma chambre au Nile Pearl Hotel?,0.9586731791496277,False,False
+FAQ0030,FAQ0418,INT001,Russian,English,В каком районе Каира расположен Nile Pearl Hotel?,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9586725831031799,False,False
+FAQ0274,FAQ0434,INT005,English,English,By what time do guests normally need to vacate their rooms?,By what time are guests expected to vacate their room?,0.95866858959198,False,False
+FAQ0155,FAQ0158,INT005,Russian,Russian,Каков стандартный час выселения в отеле Nile Pearl Hotel?,Какое стандартное время выезда у гостиницы Nile Pearl Hotel?,0.9586641788482666,False,False
+FAQ0237,FAQ0253,INT008,Arabic,Russian,هل يحتاج الضيوف إلى تقديم وثائق إثبات الهوية عند تسجيل الوصول في Nile Pearl Hotel?,"Требуется ли гостям предъявлять документ, удостоверяющий личность, при регистрации заезда в Nile Pearl Hotel?",0.9585624933242798,False,False
+FAQ0054,FAQ0061,INT002,French,Russian,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,К какому уровню или категории относится Nile Pearl Hotel?,0.9585524797439575,False,False
+FAQ0061,FAQ0327,INT002,Russian,French,К какому уровню или категории относится Nile Pearl Hotel?,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,0.9584745168685913,False,False
+FAQ0030,FAQ0292,INT001,Russian,Russian,В каком районе Каира расположен Nile Pearl Hotel?,"Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9584522247314453,False,False
+FAQ0290,FAQ0388,INT001,English,Russian,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",Где в Каире расположен Nile Pearl Hotel?,0.9584409594535828,False,False
+FAQ0042,FAQ0453,INT002,Arabic,Arabic,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9584322571754456,False,True
+FAQ0020,FAQ0385,INT001,French,Arabic,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9583773612976074,False,False
+FAQ0020,FAQ0029,INT001,French,Russian,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,В какой части города расположен Nile Pearl Hotel?,0.9583755731582642,False,False
+FAQ0022,FAQ0260,INT001,French,Russian,Où est situé exactement l'hôtel Nile Pearl Hotel?,В каком районе города находится отель Nile Pearl Hotel?,0.9583276510238647,False,False
+FAQ0030,FAQ0420,INT001,Russian,Russian,В каком районе Каира расположен Nile Pearl Hotel?,Как определить местоположение Nile Pearl Hotel в Каире?,0.9582397937774658,False,False
+FAQ0017,FAQ0260,INT001,French,Russian,Où se trouve l'hôtel Nile Pearl Hotel?,В каком районе города находится отель Nile Pearl Hotel?,0.9582334160804749,False,False
+FAQ0001,FAQ0005,INT001,English,English,Where is Nile Pearl Hotel located?,Where can I find the Nile Pearl Hotel?,0.9581644535064697,False,False
+FAQ0021,FAQ0260,INT001,French,Russian,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,В каком районе города находится отель Nile Pearl Hotel?,0.9581592082977295,False,False
+FAQ0214,FAQ0222,INT007,French,Russian,"Est-ce que je peux obtenir un séjour prolongé ou un départ tardif au Nile Pearl Hotel, et si c'est le cas, quelles frais supplémentaires pourrais-je encourir?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и какие возможны дополнительные расходы?",0.9581450819969177,False,False
+FAQ0123,FAQ0461,INT004,Russian,Arabic,В какое время начинается регистрация заезда в Nile Pearl Hotel?,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.9580175280570984,False,True
+FAQ0241,FAQ0246,INT008,French,French,L'hôtel Nile Pearl Hotel exige-t-il une pièce d'identité valide lors de l'enregistrement?,Le Nile Pearl Hotel demandera-t-il un document d'identité valide au moment de l'enregistrement?,0.9578814506530762,False,False
+FAQ0293,FAQ0294,INT002,Arabic,English,أخطط للإقامة في Nile Pearl Hotel، فما تصنيف الفندق الذي يمكنني توقعه؟,I am planning to stay at Nile Pearl Hotel; what category is the hotel?,0.9578781723976135,False,False
+FAQ0387,FAQ0418,INT001,French,English,Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9577211141586304,False,False
+FAQ0030,FAQ0417,INT001,Russian,Arabic,В каком районе Каира расположен Nile Pearl Hotel?,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,0.9577147960662842,False,False
+FAQ0262,FAQ0326,INT002,English,English,What hotel category is Nile Pearl Hotel?,What hotel classification does Nile Pearl Hotel have?,0.9576265811920166,False,False
+FAQ0023,FAQ0290,INT001,French,English,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",0.9574853777885437,False,False
+FAQ0044,FAQ0261,INT002,Arabic,Arabic,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟,0.9574851989746094,False,False
+FAQ0246,FAQ0479,INT008,French,French,Le Nile Pearl Hotel demandera-t-il un document d'identité valide au moment de l'enregistrement?,Un document d'identité est-il nécessaire pour effectuer l'enregistrement au Nile Pearl Hotel ?,0.9574122428894043,False,True
+FAQ0001,FAQ0009,INT001,English,Arabic,Where is Nile Pearl Hotel located?,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,0.9573600888252258,False,False
+FAQ0388,FAQ0418,INT001,Russian,English,Где в Каире расположен Nile Pearl Hotel?,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9573118090629578,False,False
+FAQ0263,FAQ0327,INT002,French,French,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,0.9572474956512451,False,False
+FAQ0030,FAQ0290,INT001,Russian,English,В каком районе Каира расположен Nile Pearl Hotel?,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",0.9572087526321411,False,False
+FAQ0104,FAQ0462,INT004,English,English,"As a guest arriving at Nile Pearl Hotel, what time can I normally check in?",From what time can guests normally check in at Nile Pearl Hotel?,0.9571480751037598,False,True
+FAQ0002,FAQ0258,INT001,English,English,Could you tell me which city and area Nile Pearl Hotel is in?,Which part of the city is Nile Pearl Hotel located in?,0.9570550918579102,False,False
+FAQ0001,FAQ0385,INT001,English,Arabic,Where is Nile Pearl Hotel located?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9569895267486572,False,False
+FAQ0054,FAQ0424,INT002,French,Russian,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,Какова гостиничная классификация Nile Pearl Hotel?,0.956963062286377,False,False
+FAQ0251,FAQ0479,INT008,Russian,French,"Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации в Nile Pearl Hotel?",Un document d'identité est-il nécessaire pour effectuer l'enregistrement au Nile Pearl Hotel ?,0.9569443464279175,False,True
+FAQ0328,FAQ0423,INT002,Russian,French,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9569277763366699,False,False
+FAQ0012,FAQ0013,INT001,Arabic,Arabic,أين يقع Nile Pearl Hotel في مصر؟,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,0.956856369972229,False,False
+FAQ0035,FAQ0422,INT002,English,English,What category of hotel is Nile Pearl Hotel classified as?,How is Nile Pearl Hotel categorized within hotel classifications?,0.9568333625793457,False,False
+FAQ0234,FAQ0254,INT008,Arabic,Russian,ما هي وثائق إثبات الهوية المطلوبة عند تسجيل الوصول في Nile Pearl Hotel?,"Какие документы, удостоверяющие личность, могут потребоваться при заселении в Nile Pearl Hotel?",0.9568201899528503,False,False
+FAQ0262,FAQ0421,INT002,English,Arabic,What hotel category is Nile Pearl Hotel?,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,0.9566895961761475,False,False
+FAQ0195,FAQ0197,INT007,English,English,"Is late check-out available at Nile Pearl Hotel, and if so, what conditions must be met?","Can I get a late check-out at Nile Pearl Hotel, and what factors determine its availability?",0.9566521644592285,False,False
+FAQ0150,FAQ0158,INT005,French,Russian,Quel est le temps habituel pour effectuer le départ à l'hôtel Nile Pearl Hotel?,Какое стандартное время выезда у гостиницы Nile Pearl Hotel?,0.9566038846969604,False,False
+FAQ0328,FAQ0360,INT002,Russian,Russian,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,0.9565119743347168,False,False
+FAQ0110,FAQ0461,INT004,Arabic,Arabic,ما الموعد الرسمي لبدء إجراءات تسجيل الوصول في فندق Nile Pearl Hotel؟,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.9564417004585266,False,True
+FAQ0249,FAQ0251,INT008,Russian,Russian,Нужно ли предъявлять удостоверение личности для оформления регистрации в Nile Pearl Hotel?,"Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации в Nile Pearl Hotel?",0.9564381837844849,False,False
+FAQ0218,FAQ0223,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и под какие условия это возможно?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если да, как это сделать и будут ли дополнительные расходы?",0.9564312696456909,False,False
+FAQ0052,FAQ0456,INT002,French,Russian,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,Сколько звёзд у Nile Pearl Hotel?,0.9564306139945984,False,True
+FAQ0290,FAQ0387,INT001,English,French,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",Pouvez-vous me préciser où se situe le Nile Pearl Hotel au Caire ?,0.9563504457473755,False,False
+FAQ0030,FAQ0291,INT001,Russian,French,В каком районе Каира расположен Nile Pearl Hotel?,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",0.9563405513763428,False,False
+FAQ0019,FAQ0028,INT001,French,Russian,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,"Как называется город, в котором расположен отель Nile Pearl Hotel?",0.9562606811523438,False,False
+FAQ0234,FAQ0242,INT008,Arabic,French,ما هي وثائق إثبات الهوية المطلوبة عند تسجيل الوصول في Nile Pearl Hotel?,Quels documents d'identité sont requis lors de l'enregistrement au Nile Pearl Hotel?,0.9560469388961792,False,False
+FAQ0017,FAQ0385,INT001,French,Arabic,Où se trouve l'hôtel Nile Pearl Hotel?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9560338258743286,False,False
+FAQ0058,FAQ0296,INT002,Russian,Russian,Какая категория отеля является для Nile Pearl Hotel?,Я планирую остановиться в Nile Pearl Hotel; к какой категории относится этот отель?,0.956025242805481,False,False
+FAQ0003,FAQ0010,INT001,English,Arabic,In which city is Nile Pearl Hotel located?,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,0.9560234546661377,False,False
+FAQ0005,FAQ0009,INT001,English,Arabic,Where can I find the Nile Pearl Hotel?,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,0.9560012817382812,False,False
+FAQ0043,FAQ0058,INT002,Arabic,Russian,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Какая категория отеля является для Nile Pearl Hotel?,0.9559370279312134,False,False
+FAQ0122,FAQ0124,INT004,Russian,Russian,В какое время гости могут зарегистрироваться и заселиться в Nile Pearl Hotel?,В какое время обычно можно заселиться в Nile Pearl Hotel?,0.9559146165847778,False,False
+FAQ0001,FAQ0025,INT001,English,Russian,Where is Nile Pearl Hotel located?,По какому адресу находится отель Nile Pearl Hotel?,0.9557102918624878,False,False
+FAQ0111,FAQ0126,INT004,Arabic,Russian,هل يمكنني معرفة وقت تسجيل الوصول المعتاد في Nile Pearl Hotel؟,В какое время обычно доступна регистрация заезда в Nile Pearl Hotel?,0.9556969404220581,False,False
+FAQ0361,FAQ0363,INT003,Arabic,French,هل تظل خدمة الاستقبال متاحة للضيوف طوال الليل؟,La réception reste-t-elle accessible aux clients pendant toute la nuit ?,0.9555625915527344,False,False
+FAQ0016,FAQ0023,INT001,Arabic,French,أنا أخطط لزيارة مصر وقمت بالبحث عن فندق Nile Pearl Hotel، هل يمكنني أن أعرف موقع هذا الفندق في القاهرة؟,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,0.9555025100708008,False,False
+FAQ0290,FAQ0418,INT001,English,English,"If I am looking for the hotel in Cairo, where exactly is Nile Pearl Hotel located?",How can I identify the location of Nile Pearl Hotel within Cairo?,0.955470085144043,False,False
+FAQ0044,FAQ0264,INT002,Arabic,Russian,كم عدد النجوم التي يُصنَّف بها فندق Nile Pearl Hotel؟,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,0.9553676843643188,False,False
+FAQ0002,FAQ0260,INT001,English,Russian,Could you tell me which city and area Nile Pearl Hotel is in?,В каком районе города находится отель Nile Pearl Hotel?,0.9553669095039368,False,False
+FAQ0327,FAQ0423,INT002,French,French,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.95524001121521,False,False
+FAQ0061,FAQ0423,INT002,Russian,French,К какому уровню или категории относится Nile Pearl Hotel?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9552103877067566,False,False
+FAQ0019,FAQ0021,INT001,French,French,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,0.9551908373832703,False,False
+FAQ0283,FAQ0284,INT007,French,Russian,Puis-je demander un départ tardif de l'hôtel ?,Можно ли запросить поздний выезд из отеля?,0.9551515579223633,False,False
+FAQ0050,FAQ0453,INT002,French,Arabic,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9550290107727051,False,True
+FAQ0147,FAQ0468,INT005,French,Russian,À quelle heure faut-il effectuer le départ du Nile Pearl Hotel?,К какому времени нужно освободить номер в Nile Pearl Hotel?,0.955018162727356,False,True
+FAQ0004,FAQ0258,INT001,English,English,In which city can I find the Nile Pearl Hotel?,Which part of the city is Nile Pearl Hotel located in?,0.9549899101257324,False,False
+FAQ0061,FAQ0424,INT002,Russian,Russian,К какому уровню или категории относится Nile Pearl Hotel?,Какова гостиничная классификация Nile Pearl Hotel?,0.9549849033355713,False,False
+FAQ0257,FAQ0417,INT001,Arabic,Arabic,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,0.9548834562301636,False,False
+FAQ0149,FAQ0467,INT005,French,French,Jusqu'à quelle heure dois-je quitter ma chambre au Nile Pearl Hotel?,"Si je termine mon séjour au Nile Pearl Hotel, à quelle heure dois-je libérer ma chambre ?",0.9548826217651367,False,True
+FAQ0264,FAQ0453,INT002,Russian,Arabic,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.954857587814331,False,True
+FAQ0009,FAQ0260,INT001,Arabic,Russian,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,В каком районе города находится отель Nile Pearl Hotel?,0.954608678817749,False,False
+FAQ0003,FAQ0006,INT001,English,English,In which city is Nile Pearl Hotel located?,In which major city can Nile Pearl Hotel be found?,0.9545932412147522,False,False
+FAQ0325,FAQ0326,INT002,Arabic,English,ما فئة Nile Pearl Hotel ضمن تصنيفات الفنادق؟,What hotel classification does Nile Pearl Hotel have?,0.9545838832855225,False,False
+FAQ0359,FAQ0423,INT002,French,French,Quel est le classement général attribué au Nile Pearl Hotel ?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9545695781707764,False,False
+FAQ0214,FAQ0224,INT007,French,Russian,"Est-ce que je peux obtenir un séjour prolongé ou un départ tardif au Nile Pearl Hotel, et si c'est le cas, quelles frais supplémentaires pourrais-je encourir?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и если это возможно, под какие условия и будут ли какие-либо дополнительные расходы?",0.9544898271560669,False,False
+FAQ0016,FAQ0257,INT001,Arabic,Arabic,أنا أخطط لزيارة مصر وقمت بالبحث عن فندق Nile Pearl Hotel، هل يمكنني أن أعرف موقع هذا الفندق في القاهرة؟,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,0.9544576406478882,False,False
+FAQ0181,FAQ0471,INT006,French,French,"Puis-je demander un enregistrement anticipé au Nile Pearl Hotel, et comment puis-je confirmer sa disponibilité ?",Est-il possible de demander un enregistrement anticipé au Nile Pearl Hotel ?,0.9544281959533691,False,True
+FAQ0043,FAQ0360,INT002,Arabic,Russian,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,0.9543520212173462,False,False
+FAQ0421,FAQ0424,INT002,Arabic,Russian,إلى أي فئة من فئات الفنادق يُنسب Nile Pearl Hotel؟,Какова гостиничная классификация Nile Pearl Hotel?,0.9543012380599976,False,False
+FAQ0023,FAQ0291,INT001,French,French,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,"Si je cherche l'hôtel au Caire, où se trouve exactement le Nile Pearl Hotel ?",0.9542773365974426,False,False
+FAQ0003,FAQ0019,INT001,English,French,In which city is Nile Pearl Hotel located?,Dans quelle zone se trouve l'hôtel Nile Pearl Hotel ?,0.9542475938796997,False,False
+FAQ0043,FAQ0262,INT002,Arabic,English,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,What hotel category is Nile Pearl Hotel?,0.9541503190994263,False,False
+FAQ0136,FAQ0149,INT005,English,French,By what time should I leave my room when checking out of Nile Pearl Hotel?,Jusqu'à quelle heure dois-je quitter ma chambre au Nile Pearl Hotel?,0.9541186094284058,False,False
+FAQ0178,FAQ0181,INT006,French,French,Est-il possible de demander un enregistrement anticipé au Nile Pearl Hotel?,"Puis-je demander un enregistrement anticipé au Nile Pearl Hotel, et comment puis-je confirmer sa disponibilité ?",0.9539419412612915,False,False
+FAQ0058,FAQ0059,INT002,Russian,Russian,Какая категория отеля является для Nile Pearl Hotel?,В каком классе отеля находится Nile Pearl Hotel?,0.9536734819412231,False,False
+FAQ0010,FAQ0259,INT001,Arabic,French,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9536234140396118,False,False
+FAQ0209,FAQ0212,INT007,French,French,"Est-il possible d'obtenir un départ tardif au Nile Pearl Hotel, et quelles sont les exigences?","Est-ce que je peux bénéficier d'un départ tardif au Nile Pearl Hotel, et quels éléments déterminent sa disponibilité?",0.9535236954689026,False,False
+FAQ0013,FAQ0417,INT001,Arabic,Arabic,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,كيف يمكنني معرفة موقع Nile Pearl Hotel داخل القاهرة؟,0.9535216093063354,False,False
+FAQ0036,FAQ0053,INT002,English,French,What is the star classification of Nile Pearl Hotel?,Quelle est la categorisation étoile du Nile Pearl Hotel?,0.953517496585846,False,False
+FAQ0108,FAQ0109,INT004,Arabic,Arabic,متى يبدأ موعد تسجيل الوصول المعتاد للضيوف في فندق Nile Pearl Hotel؟,متى يمكنني تسجيل الوصول في فندق Nile Pearl Hotel؟,0.9534807801246643,False,False
+FAQ0017,FAQ0020,INT001,French,French,Où se trouve l'hôtel Nile Pearl Hotel?,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,0.9533427357673645,False,False
+FAQ0100,FAQ0102,INT004,English,English,What time is check-in usually available at Nile Pearl Hotel?,At what time can I normally check in at Nile Pearl Hotel?,0.9533331394195557,False,False
+FAQ0048,FAQ0056,INT002,Arabic,French,أثناء التخطيط لرحلتي إلى مصر واختيار مكان للإقامة، أفكر في Nile Pearl Hotel. ما تصنيف الفندق من حيث عدد النجوم؟,"Pour choisir mon hôtel lors de mon voyage en Égypte, j'envisage le Nile Pearl Hotel. Combien d'étoiles lui sont attribuées?",0.9533281326293945,False,False
+FAQ0013,FAQ0418,INT001,Arabic,English,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9532043933868408,False,False
+FAQ0005,FAQ0010,INT001,English,Arabic,Where can I find the Nile Pearl Hotel?,أين يقع فندق Nile Pearl Hotel بالنسبة للمنطقة المحيطة؟,0.953150749206543,False,False
+FAQ0391,FAQ0392,INT002,French,Russian,"Avant de réserver une chambre, comment puis-je savoir à quelle catégorie appartient le Nile Pearl Hotel ?","Перед бронированием номера как узнать, к какой категории относится Nile Pearl Hotel?",0.9531260132789612,False,False
+FAQ0058,FAQ0061,INT002,Russian,Russian,Какая категория отеля является для Nile Pearl Hotel?,К какому уровню или категории относится Nile Pearl Hotel?,0.9531074166297913,False,False
+FAQ0257,FAQ0418,INT001,Arabic,English,إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟,How can I identify the location of Nile Pearl Hotel within Cairo?,0.9530999064445496,False,False
+FAQ0004,FAQ0260,INT001,English,Russian,In which city can I find the Nile Pearl Hotel?,В каком районе города находится отель Nile Pearl Hotel?,0.9530928134918213,False,False
+FAQ0124,FAQ0127,INT004,Russian,Russian,В какое время обычно можно заселиться в Nile Pearl Hotel?,"Здравствуйте, я планирую приехать в Nile Pearl Hotel. В какое время обычно можно заселиться?",0.9530907273292542,False,False
+FAQ0033,FAQ0042,INT002,English,Arabic,How many stars is Nile Pearl Hotel rated?,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,0.9530399441719055,False,False
+FAQ0005,FAQ0027,INT001,English,Russian,Where can I find the Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?,0.9530289173126221,False,False
+FAQ0058,FAQ0294,INT002,Russian,English,Какая категория отеля является для Nile Pearl Hotel?,I am planning to stay at Nile Pearl Hotel; what category is the hotel?,0.9530127644538879,False,False
+FAQ0261,FAQ0456,INT002,Arabic,Russian,كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟,Сколько звёзд у Nile Pearl Hotel?,0.9529684782028198,False,True
+FAQ0022,FAQ0385,INT001,French,Arabic,Où est situé exactement l'hôtel Nile Pearl Hotel?,في أي مدينة يوجد Nile Pearl Hotel؟,0.9529398083686829,False,False
+FAQ0172,FAQ0173,INT006,Arabic,Arabic,هل يمكنني الوصول إلى الغرفة في Nile Pearl Hotel قبل الوقت المعتاد وتسجيل الوصول مبكرًا؟,هل يمكنني الوصول إلى الفندق وتسجيل الوصول مبكرًا قبل الوقت المعتاد في Nile Pearl Hotel؟,0.9528359174728394,False,False
+FAQ0058,FAQ0295,INT002,Russian,French,Какая категория отеля является для Nile Pearl Hotel?,Je prévois de séjourner au Nile Pearl Hotel ; quelle est la catégorie de cet hôtel ?,0.9527227878570557,False,False
+FAQ0042,FAQ0049,INT002,Arabic,French,ما هو عدد النجوم التي يتم تقييم فندق Nile Pearl Hotel بها؟,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,0.9526225328445435,False,False
+FAQ0202,FAQ0204,INT007,Arabic,Arabic,هل يمكنني طلب تسجيل خروج متأخر في Nile Pearl Hotel، وما الشروط المطلوبة؟,هل يمكنني الحصول على تسجيل خروج متأخر في Nile Pearl Hotel، وما العوامل التي تحدد إمكانية ذلك؟,0.9525318145751953,False,False
+FAQ0031,FAQ0292,INT001,Russian,Russian,"Если я планирую поездку в Египет, где находится отель Nile Pearl Hotel?","Если я ищу отель в Каире, где именно находится Nile Pearl Hotel?",0.9524163007736206,False,False
+FAQ0003,FAQ0028,INT001,English,Russian,In which city is Nile Pearl Hotel located?,"Как называется город, в котором расположен отель Nile Pearl Hotel?",0.9523522853851318,False,False
+FAQ0191,FAQ0469,INT006,Russian,Arabic,"Если я приеду раньше времени заезда, смогу ли я заранее зарегистрироваться заезда в Nile Pearl Hotel?",إذا وصلت إلى Nile Pearl Hotel قبل الموعد المعتاد، هل يمكنني طلب تسجيل الوصول المبكر؟,0.9522691965103149,False,True
+FAQ0327,FAQ0424,INT002,French,Russian,Comment le Nile Pearl Hotel est-il classé selon son niveau hôtelier ?,Какова гостиничная классификация Nile Pearl Hotel?,0.9522411823272705,False,False
+FAQ0018,FAQ0022,INT001,French,French,Quelle est l'adresse de l'hôtel Nile Pearl Hotel ?,Où est situé exactement l'hôtel Nile Pearl Hotel?,0.9521819353103638,False,False
+FAQ0353,FAQ0354,INT001,Arabic,English,إذا وصلت إلى القاهرة وأردت التوجه مباشرة إلى Nile Pearl Hotel، فأي موقع أو منطقة أبحث عنها؟,"If I arrive in Cairo and want to head directly to Nile Pearl Hotel, which area should I look for?",0.9521738290786743,False,False
+FAQ0020,FAQ0259,INT001,French,French,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9521416425704956,False,False
+FAQ0233,FAQ0234,INT008,Arabic,Arabic,ما نوع مستند إثبات الهوية المقبول عند تسجيل الوصول في فندق Nile Pearl Hotel؟,ما هي وثائق إثبات الهوية المطلوبة عند تسجيل الوصول في Nile Pearl Hotel?,0.9520817995071411,False,False
+FAQ0050,FAQ0264,INT002,French,Russian,Combien d'étoiles a l'hôtel Nile Pearl Hotel?,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,0.952079176902771,False,False
+FAQ0041,FAQ0264,INT002,Arabic,Russian,كم نجمة مُصنَّف بها Nile Pearl Hotel؟,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,0.9520556926727295,False,False
+FAQ0242,FAQ0254,INT008,French,Russian,Quels documents d'identité sont requis lors de l'enregistrement au Nile Pearl Hotel?,"Какие документы, удостоверяющие личность, могут потребоваться при заселении в Nile Pearl Hotel?",0.9520370960235596,False,False
+FAQ0017,FAQ0029,INT001,French,Russian,Où se trouve l'hôtel Nile Pearl Hotel?,В какой части города расположен Nile Pearl Hotel?,0.9519914984703064,False,False
+FAQ0054,FAQ0423,INT002,French,French,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,Quelle est la classification hôtelière du Nile Pearl Hotel ?,0.9519639611244202,False,False
+FAQ0045,FAQ0453,INT002,Arabic,Arabic,ما فئة النجوم التي ينتمي إليها Nile Pearl Hotel؟,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟,0.9519580602645874,False,True
+FAQ0115,FAQ0122,INT004,French,Russian,Quelle est l'heure de réservation d'entrée pour le Nile Pearl Hotel?,В какое время гости могут зарегистрироваться и заселиться в Nile Pearl Hotel?,0.9518851041793823,False,False
+FAQ0213,FAQ0214,INT007,French,French,"Est-ce que je peux avoir un décalage pour le départ tardif au Nile Pearl Hotel, et s'il y a des frais supplémentaires?","Est-ce que je peux obtenir un séjour prolongé ou un départ tardif au Nile Pearl Hotel, et si c'est le cas, quelles frais supplémentaires pourrais-je encourir?",0.9518823027610779,False,False
+FAQ0061,FAQ0359,INT002,Russian,French,К какому уровню или категории относится Nile Pearl Hotel?,Quel est le classement général attribué au Nile Pearl Hotel ?,0.9516926407814026,False,False
+FAQ0263,FAQ0326,INT002,French,English,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,What hotel classification does Nile Pearl Hotel have?,0.9516823291778564,False,False
+FAQ0043,FAQ0328,INT002,Arabic,Russian,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,0.9515749216079712,False,False
+FAQ0360,FAQ0422,INT002,Russian,English,Какой статус имеет Nile Pearl Hotel в системе гостиничной классификации?,How is Nile Pearl Hotel categorized within hotel classifications?,0.9515717625617981,False,False
+FAQ0004,FAQ0021,INT001,English,French,In which city can I find the Nile Pearl Hotel?,Dans quelle ville et dans quel secteur se situe le Nile Pearl Hotel ?,0.9515340328216553,False,False
+FAQ0002,FAQ0004,INT001,English,English,Could you tell me which city and area Nile Pearl Hotel is in?,In which city can I find the Nile Pearl Hotel?,0.9515056610107422,False,False
+FAQ0022,FAQ0451,INT001,French,French,Où est situé exactement l'hôtel Nile Pearl Hotel?,Dans quelle ville se trouve le Nile Pearl Hotel ?,0.9514803886413574,False,True
+FAQ0003,FAQ0020,INT001,English,French,In which city is Nile Pearl Hotel located?,Quel est le nom de la ville où se trouve l'hôtel Nile Pearl Hotel ?,0.9513988494873047,False,False
+FAQ0052,FAQ0264,INT002,French,Russian,Quel est le classement du Nile Pearl Hotel en nombre d'étoiles?,Сколько звёзд или какой класс имеет Nile Pearl Hotel?,0.9513943195343018,False,False
+FAQ0263,FAQ0328,INT002,French,Russian,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,Как классифицируется Nile Pearl Hotel по уровню гостиничного сервиса?,0.9513921737670898,False,False
+FAQ0022,FAQ0029,INT001,French,Russian,Où est situé exactement l'hôtel Nile Pearl Hotel?,В какой части города расположен Nile Pearl Hotel?,0.9513903856277466,False,False
+FAQ0388,FAQ0419,INT001,Russian,French,Где в Каире расположен Nile Pearl Hotel?,Comment puis-je situer le Nile Pearl Hotel dans la ville du Caire ?,0.9513672590255737,False,False
+FAQ0217,FAQ0218,INT007,Russian,Russian,"Могу ли я получить поздний выезд из Nile Pearl Hotel, и если да, что мне нужно знать?","Могу ли я получить поздний выезд из Nile Pearl Hotel, и под какие условия это возможно?",0.9512643814086914,False,False
+FAQ0059,FAQ0263,INT002,Russian,French,В каком классе отеля находится Nile Pearl Hotel?,À quelle catégorie hôtelière appartient le Nile Pearl Hotel ?,0.9512503147125244,False,False
+FAQ0004,FAQ0005,INT001,English,English,In which city can I find the Nile Pearl Hotel?,Where can I find the Nile Pearl Hotel?,0.9512295722961426,False,False
+FAQ0153,FAQ0156,INT005,Russian,Russian,Когда требуется выселение из отеля Nile Pearl Hotel?,Каков правовой срок выселения из отеля Nile Pearl Hotel?,0.9511469602584839,False,False
+FAQ0028,FAQ0259,INT001,Russian,French,"Как называется город, в котором расположен отель Nile Pearl Hotel?",Dans quel quartier de la ville se trouve le Nile Pearl Hotel ?,0.9510900974273682,False,False
+FAQ0043,FAQ0054,INT002,Arabic,French,كيف يتم تصنيف Nile Pearl Hotel ضمن فئات الفنادق؟,Dans quelle catégorie d'hôtel se situe exactement Nile Pearl Hotel?,0.9508751630783081,False,False
+FAQ0009,FAQ0385,INT001,Arabic,Arabic,ما هو موقع فندق Nile Pearl Hotel بالتحديد؟,في أي مدينة يوجد Nile Pearl Hotel؟,0.9508707523345947,False,False
+FAQ0113,FAQ0114,INT004,French,French,Quelle est l'heure de début d'arrivée au Nile Pearl Hotel?,À quelle heure puis-je effectuer mon entrée au Nile Pearl Hotel?,0.9508236050605774,False,False
+FAQ0438,FAQ0470,INT006,English,English,Can I request early check-in before the official time?,Can I request an early check-in before the normal check-in time?,0.9507500529289246,False,True
+FAQ0109,FAQ0461,INT004,Arabic,Arabic,متى يمكنني تسجيل الوصول في فندق Nile Pearl Hotel؟,متى يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel؟,0.950424313545227,False,True
+FAQ0013,FAQ0420,INT001,Arabic,Russian,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,Как определить местоположение Nile Pearl Hotel в Каире?,0.9503800868988037,False,False
+FAQ0049,FAQ0456,INT002,French,Russian,Quel est le nombre d'étoiles attribué au Nile Pearl Hotel?,Сколько звёзд у Nile Pearl Hotel?,0.9502975940704346,False,True
+FAQ0193,FAQ0197,INT007,English,English,"Can I arrange for late check-out at Nile Pearl Hotel, and if so, what conditions apply?","Can I get a late check-out at Nile Pearl Hotel, and what factors determine its availability?",0.950224757194519,False,False
+FAQ0207,FAQ0473,INT007,Arabic,Arabic,إذا كانت لدي رحلة متأخرة في اليوم التالي، هل يمكنني طلب تسجيل خروج متأخر من Nile Pearl Hotel؟,هل يمكنني طلب تسجيل المغادرة المتأخر في Nile Pearl Hotel؟,0.9501665234565735,False,True
+FAQ0001,FAQ0260,INT001,English,Russian,Where is Nile Pearl Hotel located?,В каком районе города находится отель Nile Pearl Hotel?,0.950149416923523,False,False
+FAQ0013,FAQ0023,INT001,Arabic,French,في أي جزء من القاهرة يقع فندق Nile Pearl Hotel؟,Je prépare ma voyage à Cairo et j'hésite entre plusieurs hôtels. J'aimerais savoir où se trouve l'hôtel Nile Pearl Hotel?,0.9501299858093262,False,False
+FAQ0251,FAQ0480,INT008,Russian,Russian,"Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации в Nile Pearl Hotel?",Нужно ли предъявлять действующее удостоверение личности при заселении в Nile Pearl Hotel?,0.9501028656959534,False,True
+FAQ0109,FAQ0110,INT004,Arabic,Arabic,متى يمكنني تسجيل الوصول في فندق Nile Pearl Hotel؟,ما الموعد الرسمي لبدء إجراءات تسجيل الوصول في فندق Nile Pearl Hotel؟,0.9500615000724792,False,False
+FAQ0260,FAQ0452,INT001,Russian,Russian,В каком районе города находится отель Nile Pearl Hotel?,"Если я собираюсь остановиться в Nile Pearl Hotel, в каком городе находится отель?",0.9500526189804077,False,True
+FAQ0006,FAQ0450,INT001,English,English,In which major city can Nile Pearl Hotel be found?,Which city is home to the Nile Pearl Hotel?,0.950028657913208,False,True
+FAQ0405,FAQ0407,INT006,Arabic,French,هل يسمح الفندق بتسجيل الوصول قبل الموعد المقرر إذا كانت الغرفة جاهزة؟,L'hôtel autorise-t-il l'enregistrement avant l'heure prévue si la chambre est prête ?,0.9500194787979126,False,False

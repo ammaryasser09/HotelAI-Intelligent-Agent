@@ -1,0 +1,9 @@
+﻿faq_id,intent,language,ground_truth,gt_availability,gt_approval,gt_fee,gt_identification
+FAQ0309,INT006,Arabic,يمكن طلب تسجيل الوصول المبكر، ويعتمد ذلك على التوافر.,True,False,,
+FAQ0310,INT006,English,Early check-in can be requested and is subject to availability.,True,False,,
+FAQ0311,INT006,French,L'arrivée anticipée peut être demandée et dépend de la disponibilité.,True,False,,
+FAQ0312,INT006,Russian,"Ранний заезд можно запросить, но он зависит от наличия свободных номеров.",True,False,,
+FAQ0313,INT007,Arabic,يمكن طلب تسجيل المغادرة المتأخر، ويعتمد ذلك على التوافر.,True,,False,
+FAQ0314,INT007,English,Late check-out can be requested and is subject to availability.,True,,False,
+FAQ0315,INT007,French,Un départ tardif peut être demandé et dépend de la disponibilité.,True,,False,
+FAQ0316,INT007,Russian,"Поздний выезд можно запросить, но он зависит от наличия.",True,,False,

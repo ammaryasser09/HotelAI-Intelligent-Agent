@@ -1,0 +1,7 @@
+﻿faq_id,issue,details
+FAQ0483,GT_NOT_GROUNDED,"{'intent': 'INT001', 'fact': 'city', 'ground_truth': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"
+FAQ0483,ANSWER_NOT_GROUNDED,"{'intent': 'INT001', 'fact': 'city', 'answer': 'Le Nile Pearl Hotel est situé au Caire, en Égypte.'}"
+FAQ0505,GT_NOT_GROUNDED,"{'intent': 'INT007', 'fact': 'additional_fee_possible', 'ground_truth': 'يمكن طلب تسجيل المغادرة المتأخر، ويعتمد ذلك على التوافر وقد تترتب رسوم إضافية.'}"
+FAQ0505,ANSWER_NOT_GROUNDED,"{'intent': 'INT007', 'fact': 'additional_fee_possible', 'answer': 'يمكن طلب تسجيل المغادرة المتأخر، لكنه يعتمد على التوافر وقد تترتب رسوم إضافية.'}"
+FAQ0512,GT_NOT_GROUNDED,"{'intent': 'INT008', 'fact': 'valid_identification', 'ground_truth': 'Гости должны предъявить действительный документ, удостоверяющий личность, при регистрации заезда; при этом база знаний не указывает точные виды принимаемых документов.'}"
+FAQ0512,ANSWER_NOT_GROUNDED,"{'intent': 'INT008', 'fact': 'valid_identification', 'answer': 'При регистрации заезда необходимо предъявить действительный документ, удостоверяющий личность. База знаний не указывает точные виды принимаемых документов.'}"

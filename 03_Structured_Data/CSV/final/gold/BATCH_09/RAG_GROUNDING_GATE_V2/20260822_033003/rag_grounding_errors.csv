@@ -1,0 +1,3 @@
+﻿faq_id,issue,details
+FAQ0461,GT_NOT_GROUNDED,"{'source': 'check_in_check_out.txt', 'required_anchor_group': ['3:00 PM', '3 PM', '15:00', '15h', '15h00', '3 مساء', '3 مساءً', 'الثالثة مساء', 'الثالثة بعد الظهر', '15 ч'], 'ground_truth': 'وقت تسجيل الوصول المعتاد هو الساعة 3:00 مساءً.'}"
+FAQ0461,ANSWER_NOT_GROUNDED,"{'source': 'check_in_check_out.txt', 'required_anchor_group': ['3:00 PM', '3 PM', '15:00', '15h', '15h00', '3 مساء', '3 مساءً', 'الثالثة مساء', 'الثالثة بعد الظهر', '15 ч'], 'answer': 'يبدأ تسجيل الوصول المعتاد في Nile Pearl Hotel الساعة 3:00 مساءً.'}"

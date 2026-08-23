@@ -1,0 +1,7 @@
+{
+  "rows": 32,
+  "errors": 27,
+  "reviews": 0,
+  "decision": "BATCH_10_RAG_GROUNDING_NOT_READY",
+  "report_dir": "03_Structured_Data\\CSV\\final\\gold\\BATCH_10\\RAG_GROUNDING_GATE\\20260822_043720"
+}

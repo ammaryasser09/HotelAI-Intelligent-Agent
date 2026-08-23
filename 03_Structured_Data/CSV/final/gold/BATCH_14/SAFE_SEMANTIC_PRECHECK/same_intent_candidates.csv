@@ -1,0 +1,18 @@
+﻿batch_faq_id,master_faq_id,batch_intent,master_intent,batch_language,master_language,similarity,batch_question,master_question
+FAQ0612,FAQ0484,INT001,INT001,Russian,Russian,0.942308,В каком городе Египта расположен отель Nile Pearl Hotel?,В каком городе Египта расположен Nile Pearl Hotel?
+FAQ0613,FAQ0453,INT002,INT002,Arabic,Arabic,0.924731,ما تصنيف الفندق Nile Pearl Hotel من حيث عدد النجوم؟,ما تصنيف Nile Pearl Hotel من حيث عدد النجوم؟
+FAQ0610,FAQ0450,INT001,INT001,English,English,0.903226,Which Egyptian city is home to the Nile Pearl Hotel?,Which city is home to the Nile Pearl Hotel?
+FAQ0615,FAQ0050,INT002,INT002,French,French,0.860465,Combien d'étoiles possède le Nile Pearl Hotel ?,Combien d'étoiles a l'hôtel Nile Pearl Hotel?
+FAQ0633,FAQ0505,INT007,INT007,Arabic,Arabic,0.854167,هل يمكن طلب تسجيل المغادرة بعد الوقت المحدد عادةً؟,هل يمكنني طلب تسجيل المغادرة بعد الموعد المعتاد؟
+FAQ0640,FAQ0576,INT008,INT008,Russian,Russian,0.836364,"Нужно ли предоставить действующий документ, удостоверяющий личность, во время заезда?","Нужно ли гостям предъявлять действующий документ, удостоверяющий личность, при заезде?"
+FAQ0616,FAQ0488,INT002,INT002,Russian,Russian,0.817518,"Если для меня важна категория отеля, сколько звёзд у Nile Pearl Hotel?","Если для меня важна категория пять звёзд, подходит ли Nile Pearl Hotel?"
+FAQ0612,FAQ0027,INT001,INT001,Russian,Russian,0.804348,В каком городе Египта расположен отель Nile Pearl Hotel?,Где расположен отель Nile Pearl Hotel?
+FAQ0612,FAQ0029,INT001,INT001,Russian,Russian,0.796117,В каком городе Египта расположен отель Nile Pearl Hotel?,В какой части города расположен Nile Pearl Hotel?
+FAQ0612,FAQ0030,INT001,INT001,Russian,Russian,0.796117,В каком городе Египта расположен отель Nile Pearl Hotel?,В каком районе Каира расположен Nile Pearl Hotel?
+FAQ0639,FAQ0543,INT008,INT008,French,French,0.79096,"Lors de mon arrivée, dois-je fournir un document d'identité valide pour m'enregistrer ?","Lors de mon arrivée, dois-je présenter une pièce d'identité valide pour effectuer l'enregistrement ?"
+FAQ0639,FAQ0244,INT008,INT008,French,French,0.78022,"Lors de mon arrivée, dois-je fournir un document d'identité valide pour m'enregistrer ?","À mon arrivée au Nile Pearl Hotel, dois-je fournir un document d'identité valide avant de m'enregistrer?"
+FAQ0627,FAQ0435,INT005,INT005,French,French,0.759124,Quelle est l'heure habituelle à laquelle les clients doivent quitter la chambre ?,Quelle est l'heure habituelle limite pour quitter la chambre ?
+FAQ0640,FAQ0544,INT008,INT008,Russian,Russian,0.759036,"Нужно ли предоставить действующий документ, удостоверяющий личность, во время заезда?","Нужно ли предъявлять действительный документ, удостоверяющий личность, при регистрации?"
+FAQ0612,FAQ0028,INT001,INT001,Russian,Russian,0.756303,В каком городе Египта расположен отель Nile Pearl Hotel?,"Как называется город, в котором расположен отель Nile Pearl Hotel?"
+FAQ0612,FAQ0580,INT001,INT001,Russian,Russian,0.756303,В каком городе Египта расположен отель Nile Pearl Hotel?,Какой город Египта является местом расположения Nile Pearl Hotel?
+FAQ0623,FAQ0335,INT004,INT004,French,French,0.75188,À quel moment commence normalement l'enregistrement des clients ?,À quelle heure commence normalement l'enregistrement au Nile Pearl Hotel ?
