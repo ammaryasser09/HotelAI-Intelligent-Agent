@@ -1,0 +1,295 @@
+{
+  "batch": "Batch 24",
+  "start_id": "FAQ0737",
+  "end_id": "FAQ0768",
+  "rows": [
+    {
+      "faq_id": "FAQ0737",
+      "intent_name": "hotel_location",
+      "intent_id": "INT001",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0738",
+      "intent_name": "hotel_location",
+      "intent_id": "INT001",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0739",
+      "intent_name": "hotel_location",
+      "intent_id": "INT001",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0740",
+      "intent_name": "hotel_location",
+      "intent_id": "INT001",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0742",
+      "intent_name": "hotel_category",
+      "intent_id": "INT002",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0743",
+      "intent_name": "hotel_category",
+      "intent_id": "INT002",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0744",
+      "intent_name": "hotel_category",
+      "intent_id": "INT002",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0745",
+      "intent_name": "hotel_category",
+      "intent_id": "INT002",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0747",
+      "intent_name": "reception_availability",
+      "intent_id": "INT003",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0748",
+      "intent_name": "reception_availability",
+      "intent_id": "INT003",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0749",
+      "intent_name": "reception_availability",
+      "intent_id": "INT003",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0750",
+      "intent_name": "reception_availability",
+      "intent_id": "INT003",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0752",
+      "intent_name": "check_in_time",
+      "intent_id": "INT004",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0753",
+      "intent_name": "check_in_time",
+      "intent_id": "INT004",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0754",
+      "intent_name": "check_in_time",
+      "intent_id": "INT004",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0755",
+      "intent_name": "check_in_time",
+      "intent_id": "INT004",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0757",
+      "intent_name": "check_out_time",
+      "intent_id": "INT005",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0758",
+      "intent_name": "check_out_time",
+      "intent_id": "INT005",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0759",
+      "intent_name": "check_out_time",
+      "intent_id": "INT005",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0760",
+      "intent_name": "check_out_time",
+      "intent_id": "INT005",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0762",
+      "intent_name": "early_check_in",
+      "intent_id": "INT006",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0763",
+      "intent_name": "early_check_in",
+      "intent_id": "INT006",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0764",
+      "intent_name": "early_check_in",
+      "intent_id": "INT006",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0765",
+      "intent_name": "early_check_in",
+      "intent_id": "INT006",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0767",
+      "intent_name": "late_check_out",
+      "intent_id": "INT007",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0768",
+      "intent_name": "late_check_out",
+      "intent_id": "INT007",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0769",
+      "intent_name": "late_check_out",
+      "intent_id": "INT007",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0770",
+      "intent_name": "late_check_out",
+      "intent_id": "INT007",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0772",
+      "intent_name": "identification_required",
+      "intent_id": "INT008",
+      "language": "English",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0773",
+      "intent_name": "identification_required",
+      "intent_id": "INT008",
+      "language": "Arabic",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0774",
+      "intent_name": "identification_required",
+      "intent_id": "INT008",
+      "language": "French",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    },
+    {
+      "faq_id": "FAQ0775",
+      "intent_name": "identification_required",
+      "intent_id": "INT008",
+      "language": "Russian",
+      "difficulty": "Easy",
+      "status": "generated",
+      "attempts": 0
+    }
+  ]
+}

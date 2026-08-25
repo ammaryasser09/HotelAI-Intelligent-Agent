@@ -1,0 +1,168 @@
+{
+  "batch_number": 23,
+  "start_id": "FAQ0705",
+  "end_id": "FAQ0736",
+  "row_count": 32,
+  "records": [
+    {
+      "faq_id": "FAQ0705",
+      "intent_name": "hotel_location",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0706",
+      "intent_name": "hotel_location",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0707",
+      "intent_name": "hotel_location",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0708",
+      "intent_name": "hotel_location",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0709",
+      "intent_name": "hotel_category",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0710",
+      "intent_name": "hotel_category",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0711",
+      "intent_name": "hotel_category",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0712",
+      "intent_name": "hotel_category",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0713",
+      "intent_name": "reception_availability",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0714",
+      "intent_name": "reception_availability",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0715",
+      "intent_name": "reception_availability",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0716",
+      "intent_name": "reception_availability",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0717",
+      "intent_name": "check_in_time",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0718",
+      "intent_name": "check_in_time",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0719",
+      "intent_name": "check_in_time",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0720",
+      "intent_name": "check_in_time",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0721",
+      "intent_name": "check_out_time",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0722",
+      "intent_name": "check_out_time",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0723",
+      "intent_name": "check_out_time",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0724",
+      "intent_name": "check_out_time",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0725",
+      "intent_name": "early_check_in",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0726",
+      "intent_name": "early_check_in",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0727",
+      "intent_name": "early_check_in",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0728",
+      "intent_name": "early_check_in",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0729",
+      "intent_name": "late_check_out",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0730",
+      "intent_name": "late_check_out",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0731",
+      "intent_name": "late_check_out",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0732",
+      "intent_name": "late_check_out",
+      "language": "Russian"
+    },
+    {
+      "faq_id": "FAQ0733",
+      "intent_name": "identification_required",
+      "language": "English"
+    },
+    {
+      "faq_id": "FAQ0734",
+      "intent_name": "identification_required",
+      "language": "Arabic"
+    },
+    {
+      "faq_id": "FAQ0735",
+      "intent_name": "identification_required",
+      "language": "French"
+    },
+    {
+      "faq_id": "FAQ0736",
+      "intent_name": "identification_required",
+      "language": "Russian"
+    }
+  ]
+}

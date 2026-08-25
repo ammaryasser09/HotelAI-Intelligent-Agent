@@ -1,0 +1,462 @@
+﻿====================================================================================================
+HOTEL AI - DATASET STRUCTURE REPORT
+====================================================================================================
+
+Input file:
+C:/Users/n3101/OneDrive/Desktop/HotelAI-Intelligent-Agent/03_Structured_Data/CSV/final/batches/hotel_faq_batch_01_32_generated.csv
+
+====================================================================================================
+DATASET INFORMATION
+====================================================================================================
+Rows    : 132
+Columns : 13
+
+====================================================================================================
+COLUMNS
+====================================================================================================
+01. faq_id
+02. intent_id
+03. language
+04. question_type
+05. question
+06. status
+07. intent_name
+08. ground_truth
+09. category
+10. source
+11. attempts
+12. difficulty
+13. answer
+
+====================================================================================================
+DATA TYPES
+====================================================================================================
+faq_id                    -> str
+intent_id                 -> str
+language                  -> str
+question_type             -> str
+question                  -> str
+status                    -> str
+intent_name               -> str
+ground_truth              -> str
+category                  -> str
+source                    -> str
+attempts                  -> int64
+difficulty                -> str
+answer                    -> str
+
+====================================================================================================
+MISSING VALUES
+====================================================================================================
+faq_id                    -> 0
+intent_id                 -> 0
+language                  -> 0
+question_type             -> 0
+question                  -> 0
+status                    -> 0
+intent_name               -> 0
+ground_truth              -> 0
+category                  -> 0
+source                    -> 0
+attempts                  -> 0
+difficulty                -> 0
+answer                    -> 0
+
+====================================================================================================
+DISTRIBUTION: language
+====================================================================================================
+Arabic                              -> 38
+French                              -> 34
+Russian                             -> 32
+English                             -> 28
+
+====================================================================================================
+DISTRIBUTION: question_type
+====================================================================================================
+Paraphrased                         -> 75
+Direct                              -> 38
+Scenario                            -> 19
+
+====================================================================================================
+DISTRIBUTION: status
+====================================================================================================
+Active                              -> 100
+generated                           -> 32
+
+====================================================================================================
+DISTRIBUTION: intent_id
+====================================================================================================
+INT007                              -> 19
+INT005                              -> 18
+INT006                              -> 18
+INT004                              -> 17
+INT001                              -> 16
+INT008                              -> 16
+INT002                              -> 15
+INT003                              -> 13
+
+====================================================================================================
+DISTRIBUTION: intent_name
+====================================================================================================
+late_check_out                      -> 19
+check_out_time                      -> 18
+early_check_in                      -> 18
+check_in_time                       -> 17
+hotel_location                      -> 16
+identification_required             -> 16
+hotel_category                      -> 15
+reception_availability              -> 13
+
+====================================================================================================
+DISTRIBUTION: category
+====================================================================================================
+Check-in / Check-out                -> 68
+Hotel Information                   -> 23
+Reception                           -> 9
+hotel_location                      -> 4
+hotel_category                      -> 4
+reception_availability              -> 4
+check_in_time                       -> 4
+check_out_time                      -> 4
+early_check_in                      -> 4
+late_check_out                      -> 4
+identification_required             -> 4
+
+====================================================================================================
+DISTRIBUTION: difficulty
+====================================================================================================
+Easy                                -> 91
+Medium                              -> 41
+
+====================================================================================================
+DISTRIBUTION: attempts
+====================================================================================================
+0                                   -> 100
+1                                   -> 32
+
+====================================================================================================
+INTENT MAPPING
+====================================================================================================
+intent_id             intent_name
+   INT001          hotel_location
+   INT002          hotel_category
+   INT003  reception_availability
+   INT004           check_in_time
+   INT005          check_out_time
+   INT006          early_check_in
+   INT007          late_check_out
+   INT008 identification_required
+
+====================================================================================================
+QUESTION EXAMPLES
+====================================================================================================
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0313
+language       : Arabic
+question_type  : Scenario
+intent_id      : INT001
+intent_name    : hotel_location
+question       : إذا كنت أخطط للإقامة في Nile Pearl Hotel، ففي أي مدينة سأجده؟
+ground_truth   : يقع Nile Pearl Hotel في القاهرة، مصر.
+category       : Hotel Information
+source         : hotel_information.txt
+attempts       : 0
+difficulty     : Easy
+answer         : يقع Nile Pearl Hotel في القاهرة، مصر.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0340
+language       : English
+question_type  : Paraphrased
+intent_id      : INT004
+intent_name    : check_in_time
+question       : When does the hotel's standard check-in period begin?
+ground_truth   : Standard check-in time is 3:00 PM.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Easy
+answer         : Standard check-in time is 3:00 PM.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0276
+language       : Russian
+question_type  : Paraphrased
+intent_id      : INT005
+intent_name    : check_out_time
+question       : До какого времени гости обычно должны освободить номер?
+ground_truth   : Стандартное время выезда — 12:00.
+category       : check_out_time
+source         : batch_02
+attempts       : 1
+difficulty     : Easy
+answer         : Стандартное время выезда из Nile Pearl Hotel — 12:00.
+status         : generated
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0288
+language       : Russian
+question_type  : Paraphrased
+intent_id      : INT008
+intent_name    : identification_required
+question       : Какой документ удостоверяющий личность нужно предъявить при регистрации?
+ground_truth   : Гости должны предъявить действительный документ, удостоверяющий личность, при регистрации, но текущая база знаний не указывает точные виды принимаемых документов.
+category       : identification_required
+source         : batch_02
+attempts       : 1
+difficulty     : Easy
+answer         : При регистрации гости должны предъявить действительный документ, удостоверяющий личность. Текущая база знаний не указывает точные виды принимаемых документов.
+status         : generated
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0333
+language       : English
+question_type  : Paraphrased
+intent_id      : INT003
+intent_name    : reception_availability
+question       : Can the front desk be reached at any hour?
+ground_truth   : Hotel reception operates 24/7.
+category       : Reception
+source         : hotel_information.txt
+attempts       : 0
+difficulty     : Easy
+answer         : Hotel reception operates 24/7.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0374
+language       : English
+question_type  : Direct
+intent_id      : INT007
+intent_name    : late_check_out
+question       : Can guests request a later check-out?
+ground_truth   : Late check-out can be requested and is subject to availability and may incur an additional fee.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Medium
+answer         : Yes. Late check-out can be requested, subject to availability, and may incur an additional fee.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0312
+language       : French
+question_type  : Paraphrased
+intent_id      : INT005
+intent_name    : check_out_time
+question       : Quand faut-il effectuer le départ de l'hôtel ?
+ground_truth   : L'heure normale de départ est 12h00.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Easy
+answer         : L'heure normale de départ est 12h00.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0385
+language       : French
+question_type  : Scenario
+intent_id      : INT006
+intent_name    : early_check_in
+question       : De quoi dépend l'arrivée anticipée ?
+ground_truth   : L'arrivée anticipée peut être demandée et dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Medium
+answer         : L'arrivée anticipée peut être demandée et dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0321
+language       : French
+question_type  : Paraphrased
+intent_id      : INT006
+intent_name    : early_check_in
+question       : Si j'arrive plus tôt, puis-je m'enregistrer avant l'heure normale ?
+ground_truth   : L'arrivée anticipée peut être demandée et dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Medium
+answer         : L'arrivée anticipée peut être demandée et dépend de la disponibilité de la chambre et de l'approbation de l'hôtel.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0283
+language       : French
+question_type  : Paraphrased
+intent_id      : INT007
+intent_name    : late_check_out
+question       : Puis-je demander un départ tardif de l'hôtel ?
+ground_truth   : Le départ tardif dépend de la disponibilité et peut entraîner des frais supplémentaires.
+category       : late_check_out
+source         : batch_02
+attempts       : 1
+difficulty     : Easy
+answer         : Le départ tardif au Nile Pearl Hotel dépend de la disponibilité et peut entraîner des frais supplémentaires.
+status         : generated
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0301
+language       : French
+question_type  : Paraphrased
+intent_id      : INT008
+intent_name    : identification_required
+question       : Quels documents d'identité les clients doivent-ils présenter ?
+ground_truth   : Les clients doivent présenter une pièce d'identité valide lors de l'enregistrement.
+category       : Check-in / Check-out
+source         : identification_policy.txt
+attempts       : 0
+difficulty     : Medium
+answer         : Les clients doivent présenter une pièce d'identité valide lors de l'enregistrement.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0284
+language       : Russian
+question_type  : Paraphrased
+intent_id      : INT007
+intent_name    : late_check_out
+question       : Можно ли запросить поздний выезд из отеля?
+ground_truth   : Поздний выезд зависит от наличия и может повлечь дополнительную плату.
+category       : late_check_out
+source         : batch_02
+attempts       : 1
+difficulty     : Easy
+answer         : Поздний выезд из Nile Pearl Hotel зависит от наличия и может повлечь дополнительную плату.
+status         : generated
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0304
+language       : Arabic
+question_type  : Direct
+intent_id      : INT007
+intent_name    : late_check_out
+question       : هل يمكنني طلب تسجيل المغادرة المتأخر؟
+ground_truth   : يمكن طلب تسجيل المغادرة المتأخر، ويعتمد ذلك على التوافر وقد تترتب رسوم إضافية.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Medium
+answer         : نعم، يمكن طلب تسجيل المغادرة المتأخر، ويعتمد ذلك على التوافر وقد تترتب رسوم إضافية.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0261
+language       : Arabic
+question_type  : Paraphrased
+intent_id      : INT002
+intent_name    : hotel_category
+question       : كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟
+ground_truth   : Nile Pearl Hotel est un hôtel 5 étoiles.
+category       : hotel_category
+source         : batch_02
+attempts       : 1
+difficulty     : Easy
+answer         : Nile Pearl Hotel est un hôtel 5 étoiles.
+status         : generated
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0355
+language       : French
+question_type  : Paraphrased
+intent_id      : INT003
+intent_name    : reception_availability
+question       : Puis-je contacter la réception à tout moment ?
+ground_truth   : La réception de l'hôtel est ouverte 24h/24 et 7j/7.
+category       : Reception
+source         : hotel_information.txt
+attempts       : 0
+difficulty     : Easy
+answer         : La réception de l'hôtel est ouverte 24h/24 et 7j/7.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0358
+language       : Russian
+question_type  : Direct
+intent_id      : INT005
+intent_name    : check_out_time
+question       : Какое стандартное время выезда из отеля?
+ground_truth   : Стандартное время регистрации выезда — 12:00.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Easy
+answer         : Стандартное время регистрации выезда — 12:00.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0293
+language       : Arabic
+question_type  : Direct
+intent_id      : INT008
+intent_name    : identification_required
+question       : هل يجب على الضيوف تقديم وثائق هوية عند الوصول؟
+ground_truth   : يجب على الضيوف تقديم وثيقة هوية سارية أثناء تسجيل الوصول.
+category       : Check-in / Check-out
+source         : identification_policy.txt
+attempts       : 0
+difficulty     : Medium
+answer         : نعم، يجب على الضيوف تقديم وثيقة هوية سارية أثناء تسجيل الوصول.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0338
+language       : Russian
+question_type  : Paraphrased
+intent_id      : INT001
+intent_name    : hotel_location
+question       : Где расположен Nile Pearl Hotel в Египте?
+ground_truth   : Nile Pearl Hotel расположен в Каире, Египет.
+category       : Hotel Information
+source         : hotel_information.txt
+attempts       : 0
+difficulty     : Easy
+answer         : Nile Pearl Hotel расположен в Каире, Египет.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0297
+language       : Russian
+question_type  : Paraphrased
+intent_id      : INT007
+intent_name    : late_check_out
+question       : Можно ли остаться в номере после обычного времени выезда?
+ground_truth   : Поздний выезд можно запросить, но он зависит от наличия и может повлечь дополнительную плату.
+category       : Check-in / Check-out
+source         : check_in_check_out.txt
+attempts       : 0
+difficulty     : Medium
+answer         : Поздний выезд можно запросить, но он зависит от наличия и может повлечь дополнительную плату.
+status         : Active
+
+--------------------------------------------------------------------------------
+faq_id         : FAQ0319
+language       : Russian
+question_type  : Direct
+intent_id      : INT008
+intent_name    : identification_required
+question       : Нужно ли предъявлять действительный документ при регистрации?
+ground_truth   : Гости должны предъявить действительный документ, удостоверяющий личность, при регистрации.
+category       : Check-in / Check-out
+source         : identification_policy.txt
+attempts       : 0
+difficulty     : Medium
+answer         : Да. При регистрации гости должны предъявить действительный документ, удостоверяющий личность.
+status         : Active
+
+====================================================================================================
+FIRST 5 ROWS
+====================================================================================================
+ faq_id intent_id language question_type                                                                       question    status    intent_name                                       ground_truth       category   source  attempts difficulty                                             answer
+FAQ0257    INT001   Arabic   Paraphrased إذا أردت معرفة موقع الفندق بالنسبة لمناطق القاهرة، فأين يوجد Nile Pearl Hotel؟ generated hotel_location              يقع Nile Pearl Hotel في القاهرة، مصر. hotel_location batch_02         1       Easy              يقع Nile Pearl Hotel في القاهرة، مصر.
+FAQ0258    INT001  English   Paraphrased                         Which part of the city is Nile Pearl Hotel located in? generated hotel_location       Nile Pearl Hotel is located in Cairo, Egypt. hotel_location batch_02         1       Easy       Nile Pearl Hotel is located in Cairo, Egypt.
+FAQ0259    INT001   French   Paraphrased                 Dans quel quartier de la ville se trouve le Nile Pearl Hotel ? generated hotel_location Le Nile Pearl Hotel est situé au Caire, en Égypte. hotel_location batch_02         1       Easy Le Nile Pearl Hotel est situé au Caire, en Égypte.
+FAQ0260    INT001  Russian   Paraphrased                        В каком районе города находится отель Nile Pearl Hotel? generated hotel_location Отель Nile Pearl Hotel расположен в Каире, Египет. hotel_location batch_02         1       Easy Отель Nile Pearl Hotel расположен в Каире, Египет.
+FAQ0261    INT002   Arabic   Paraphrased                                 كم عدد النجوم التي حصل عليها Nile Pearl Hotel؟ generated hotel_category           Nile Pearl Hotel est un hôtel 5 étoiles. hotel_category batch_02         1       Easy           Nile Pearl Hotel est un hôtel 5 étoiles.

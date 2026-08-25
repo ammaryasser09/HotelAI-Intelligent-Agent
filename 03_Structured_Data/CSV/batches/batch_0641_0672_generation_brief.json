@@ -1,0 +1,505 @@
+{
+  "project": "HotelAI",
+  "master_last_id": "FAQ0640",
+  "batch_start": "FAQ0641",
+  "batch_end": "FAQ0672",
+  "batch_size": 32,
+  "master_rows": 640,
+  "master_columns": [
+    "faq_id",
+    "intent_id",
+    "language",
+    "question_type",
+    "question",
+    "status",
+    "intent_name",
+    "ground_truth",
+    "category",
+    "source",
+    "attempts",
+    "difficulty",
+    "answer"
+  ],
+  "knowledge_base_sections": [
+    "02_Hotel_Knowledge\\Booking\\booking_confirmation.txt",
+    "02_Hotel_Knowledge\\Booking\\booking_modification.txt",
+    "02_Hotel_Knowledge\\Booking\\booking_policy.txt",
+    "02_Hotel_Knowledge\\Booking\\booking_process.txt",
+    "02_Hotel_Knowledge\\Cancellation\\cancellation_policy.txt",
+    "02_Hotel_Knowledge\\Cancellation\\cancellation_process.txt",
+    "02_Hotel_Knowledge\\Hotel_Information\\contact_information.txt",
+    "02_Hotel_Knowledge\\Hotel_Information\\hotel_facilities.txt",
+    "02_Hotel_Knowledge\\Hotel_Information\\hotel_information.txt",
+    "02_Hotel_Knowledge\\Payment\\payment_methods.txt",
+    "02_Hotel_Knowledge\\Payment\\payment_policy.txt",
+    "02_Hotel_Knowledge\\Payment\\refund_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\check_in_check_out.txt",
+    "02_Hotel_Knowledge\\Policies\\children_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\emergency_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\guest_conduct.txt",
+    "02_Hotel_Knowledge\\Policies\\identification_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\lost_and_found.txt",
+    "02_Hotel_Knowledge\\Policies\\noise_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\pet_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\privacy_policy.txt",
+    "02_Hotel_Knowledge\\Policies\\smoking_policy.txt",
+    "02_Hotel_Knowledge\\Rooms\\room_amenities.txt",
+    "02_Hotel_Knowledge\\Rooms\\room_policies.txt",
+    "02_Hotel_Knowledge\\Rooms\\room_types.txt",
+    "02_Hotel_Knowledge\\Services\\airport_transfer.txt",
+    "02_Hotel_Knowledge\\Services\\breakfast.txt",
+    "02_Hotel_Knowledge\\Services\\gym.txt",
+    "02_Hotel_Knowledge\\Services\\laundry.txt",
+    "02_Hotel_Knowledge\\Services\\restaurant.txt",
+    "02_Hotel_Knowledge\\Services\\room_service.txt",
+    "02_Hotel_Knowledge\\Services\\spa.txt",
+    "README.md"
+  ],
+  "rules": {
+    "use_kb_only": true,
+    "no_external_facts": true,
+    "no_master_modification": true,
+    "batch_size": 32,
+    "validate_before_merge": true,
+    "avoid_semantic_collisions": true
+  },
+  "intent_summary": [
+    {
+      "intent_id": "INT001",
+      "intent_name": "hotel_location",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT001",
+      "intent_name": "hotel_location",
+      "category": "Hotel Information",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT001",
+      "intent_name": "hotel_location",
+      "category": "hotel_location",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT002",
+      "intent_name": "hotel_category",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT002",
+      "intent_name": "hotel_category",
+      "category": "Hotel Information",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT002",
+      "intent_name": "hotel_category",
+      "category": "hotel_category",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT003",
+      "intent_name": "reception_availability",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT003",
+      "intent_name": "reception_availability",
+      "category": "Hotel Information",
+      "count": 40,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT003",
+      "intent_name": "reception_availability",
+      "category": "Reception",
+      "count": 16,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT003",
+      "intent_name": "reception_availability",
+      "category": "reception_availability",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT004",
+      "intent_name": "check_in_time",
+      "category": "Check-in / Check-out",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT004",
+      "intent_name": "check_in_time",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT004",
+      "intent_name": "check_in_time",
+      "category": "check_in_time",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT005",
+      "intent_name": "check_out_time",
+      "category": "Check-in / Check-out",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT005",
+      "intent_name": "check_out_time",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT005",
+      "intent_name": "check_out_time",
+      "category": "check_out_time",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT006",
+      "intent_name": "early_check_in",
+      "category": "Check-in / Check-out",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT006",
+      "intent_name": "early_check_in",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT006",
+      "intent_name": "early_check_in",
+      "category": "early_check_in",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT007",
+      "intent_name": "late_check_out",
+      "category": "Check-in / Check-out",
+      "count": 56,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT007",
+      "intent_name": "late_check_out",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT007",
+      "intent_name": "late_check_out",
+      "category": "late_check_out",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    },
+    {
+      "intent_id": "INT008",
+      "intent_name": "identification_required",
+      "category": "Check-in / Check-out",
+      "count": 16,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT008",
+      "intent_name": "identification_required",
+      "category": "Hotel FAQ",
+      "count": 20,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT008",
+      "intent_name": "identification_required",
+      "category": "Identification",
+      "count": 40,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Direct",
+        "Paraphrased",
+        "Scenario"
+      ]
+    },
+    {
+      "intent_id": "INT008",
+      "intent_name": "identification_required",
+      "category": "identification_required",
+      "count": 4,
+      "languages": [
+        "Arabic",
+        "English",
+        "French",
+        "Russian"
+      ],
+      "question_types": [
+        "Paraphrased"
+      ]
+    }
+  ],
+  "language_distribution": {
+    "Arabic": 160,
+    "English": 160,
+    "French": 160,
+    "Russian": 160
+  },
+  "question_type_distribution": {
+    "Direct": 204,
+    "Paraphrased": 240,
+    "Scenario": 196
+  }
+}

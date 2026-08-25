@@ -1,0 +1,1329 @@
+====================================================================================================
+HOTEL AI — GENERATION CONTEXT
+====================================================================================================
+
+PROJECT ROOT:
+c:\Users\n3101\HotelAI-Intelligent-Agent
+
+FILES INCLUDED: 33
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Booking\booking_confirmation.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+BOOKING CONFIRMATION
+
+1. Reservation Confirmation
+
+A reservation should be confirmed after the required booking information has been provided and the reservation process has been completed.
+
+Guests should keep their booking confirmation details for future reference.
+
+
+2. Confirmation Information
+
+A booking confirmation should be associated with the reservation details provided during the booking process.
+
+Relevant reservation information may include:
+
+- Guest name
+- Number of guests
+- Check-in date
+- Check-out date
+- Room type
+- Reservation details
+
+
+3. Confirmation Assistance
+
+Guests can contact customer service if they have questions regarding their reservation or booking confirmation.
+
+
+4. Important Note
+
+The current hotel knowledge base does not specify:
+
+- A specific confirmation delivery method
+- Email confirmation details
+- SMS confirmation details
+- A specific confirmation number format
+- The exact time required to receive confirmation
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Booking\booking_modification.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+BOOKING MODIFICATION POLICY
+
+1. Reservation Changes
+
+Guests may contact customer service regarding changes to their reservations.
+
+Reservation changes are subject to availability and hotel approval.
+
+
+2. Changes to Check-in or Check-out Dates
+
+Guests may request changes to their check-in or check-out dates.
+
+The requested dates must be checked for room availability.
+
+Any applicable cancellation or payment conditions depend on the hotel's relevant policies.
+
+
+3. Changes to Room Type
+
+Guests may request a change to their selected room type.
+
+Room changes are subject to room availability.
+
+
+4. Changes to Number of Guests
+
+Guests may request to change the number of guests on a reservation.
+
+The selected room must have sufficient capacity for the updated number of guests.
+
+
+5. Special Requests
+
+Guests may contact customer service regarding special requests.
+
+Special requests are subject to availability and hotel approval.
+
+
+6. Modification Assistance
+
+Guests can contact customer service for assistance with reservation changes.
+
+Guests should provide their existing reservation details when requesting a modification.
+
+
+7. Important Note
+
+The hotel knowledge base does not currently specify:
+
+- A modification deadline
+- Modification fees
+- The exact procedure for online modifications
+- Whether all booking types can be modified
+- Specific rules for changing guest names
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Booking\booking_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+BOOKING POLICY
+
+1. Room Reservations
+
+Guests can make reservations for available rooms at Nile Pearl Hotel.
+
+Room availability depends on the selected dates and room type.
+
+Guests should provide accurate booking information when making a reservation.
+
+
+2. Required Booking Information
+
+A reservation may require the following information:
+
+- Guest full name
+- Number of guests
+- Check-in date
+- Check-out date
+- Selected room type
+- Contact information
+- Payment information when required
+
+
+3. Room Selection
+
+Guests can select from the available room types.
+
+Available room types include:
+
+- Standard Room
+- Deluxe Room
+- Superior Room
+- Family Room
+- Executive Room
+
+Room availability is subject to the selected dates.
+
+
+4. Guest Capacity
+
+The number of guests must comply with the capacity of the selected room.
+
+Standard Room:
+Maximum 2 guests.
+
+Deluxe Room:
+Maximum 2 guests.
+
+Superior Room:
+Maximum 3 guests.
+
+Family Room:
+Maximum 4 guests.
+
+Executive Room:
+Capacity information is not specified in the current hotel knowledge base.
+
+
+5. Booking Confirmation
+
+A reservation should be confirmed after the required booking information has been provided and the reservation process has been completed.
+
+Guests should keep their booking confirmation details for future reference.
+
+
+6. Special Requests
+
+Guests may contact customer service regarding special requests.
+
+Special requests are subject to availability and hotel approval.
+
+
+7. Booking Assistance
+
+Guests can contact customer service for assistance with:
+
+- New reservations
+- Booking questions
+- Reservation changes
+- General booking information
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Booking\booking_process.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+BOOKING PROCESS
+
+1. Select Dates
+
+The guest provides the desired check-in and check-out dates.
+
+
+2. Select Room
+
+The guest selects a suitable room type based on availability and guest capacity.
+
+
+3. Provide Guest Information
+
+The guest provides the required personal and contact information.
+
+
+4. Review Reservation
+
+The reservation details should be reviewed before confirmation.
+
+The guest should verify:
+
+- Guest name
+- Number of guests
+- Check-in date
+- Check-out date
+- Room type
+- Booking details
+
+
+5. Payment
+
+Payment requirements depend on the hotel's payment policy and the selected reservation.
+
+
+6. Confirmation
+
+After completing the reservation process, the guest should receive or retain the reservation confirmation details.
+
+
+7. Changes or Cancellation
+
+Guests should contact customer service regarding reservation changes or cancellation requests.
+
+Changes and cancellations are subject to the applicable hotel policies.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Cancellation\cancellation_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+CANCELLATION POLICY
+
+1. Cancellation Requests
+
+Guests may request cancellation of their hotel reservations.
+
+Cancellation requests are subject to the applicable reservation and cancellation conditions.
+
+
+2. Cancellation Eligibility
+
+Cancellation eligibility depends on the conditions associated with the reservation.
+
+Guests should review the cancellation conditions before requesting cancellation.
+
+
+3. Cancellation Fees
+
+Any applicable cancellation fees depend on the cancellation conditions of the reservation.
+
+The current hotel knowledge base does not specify a universal cancellation fee.
+
+
+4. Cancellation Deadline
+
+The current hotel knowledge base does not specify a universal cancellation deadline.
+
+Guests should check the cancellation conditions associated with their specific reservation.
+
+
+5. Non-Refundable Reservations
+
+If a reservation is marked as non-refundable, the applicable refund conditions may differ from standard reservations.
+
+The exact non-refundable conditions should be checked before cancellation.
+
+
+6. Cancellation Assistance
+
+Guests can contact customer service for assistance with cancellation requests.
+
+Guests should provide their reservation details when requesting cancellation.
+
+
+7. Refund After Cancellation
+
+If a reservation is eligible for a refund, the refund is processed according to the hotel's payment and refund policy.
+
+Refund eligibility and processing conditions depend on the reservation.
+
+
+8. Important Note
+
+The current hotel knowledge base does not specify:
+
+- A universal cancellation deadline
+- A universal cancellation fee
+- A fixed refund processing time
+- Specific cancellation rules for every room or booking type
+
+The applicable conditions should be checked for each reservation.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Cancellation\cancellation_process.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+CANCELLATION PROCESS
+
+1. Identify the Reservation
+
+The guest should provide the relevant reservation details when requesting cancellation.
+
+
+2. Review Cancellation Conditions
+
+The cancellation conditions associated with the reservation should be checked before processing the cancellation.
+
+
+3. Submit Cancellation Request
+
+The guest can contact customer service to request cancellation assistance.
+
+
+4. Check Cancellation Eligibility
+
+The reservation should be checked to determine whether cancellation is permitted and whether any fees apply.
+
+
+5. Process Cancellation
+
+If the cancellation request meets the applicable conditions, the reservation can proceed through the cancellation process.
+
+
+6. Refund
+
+If the reservation is eligible for a refund, the refund is processed according to the hotel's payment and refund policy.
+
+
+7. Confirmation
+
+The guest should retain the cancellation confirmation or relevant reservation information for future reference.
+
+
+8. Important Note
+
+The exact cancellation procedure may depend on the booking type and reservation conditions.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Hotel_Information\contact_information.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+CONTACT INFORMATION
+
+Hotel Name:
+Nile Pearl Hotel
+
+Location:
+Cairo, Egypt
+
+Reception:
+Available 24/7.
+
+Front Desk:
+Guests can contact the front desk at any time for assistance.
+
+Customer Service:
+Customer service is available to assist guests with hotel services, reservations, requests, and general inquiries.
+
+Emergency:
+In case of an emergency, guests should contact the hotel reception immediately.
+
+Lost and Found:
+Guests should contact the front desk regarding lost or found items.
+
+Booking Assistance:
+Guests can contact customer service for assistance with reservations, booking questions, or reservation changes.
+
+General Inquiries:
+Guests can contact the hotel reception or customer service for general hotel information.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Hotel_Information\hotel_facilities.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+HOTEL FACILITIES
+
+1. Swimming Pool
+
+Availability:
+7:00 AM - 9:00 PM
+
+Access:
+Available for hotel guests.
+
+Description:
+The hotel provides a swimming pool for guests.
+
+
+2. Gym
+
+Availability:
+24/7
+
+Access:
+Available for hotel guests.
+
+Description:
+The hotel provides a gym that guests can use at any time.
+
+
+3. Wi-Fi
+
+Availability:
+Available 24/7.
+
+Access:
+Available in all guest rooms and public areas.
+
+Price:
+Free of charge.
+
+
+4. Parking
+
+Availability:
+Available for hotel guests.
+
+Description:
+Parking facilities are available for hotel guests.
+
+
+5. Reception
+
+Availability:
+24/7.
+
+Description:
+The hotel reception operates around the clock and assists guests with general requests, hotel services, and emergencies.
+
+
+6. Room Service
+
+Availability:
+24/7.
+
+Description:
+Guests can request food and beverages through room service at any time.
+
+
+7. Breakfast
+
+Availability:
+7:00 AM - 10:30 AM.
+
+Location:
+Main Restaurant.
+
+Price:
+450 EGP per person.
+
+
+8. Airport Transfer
+
+Availability:
+Upon request.
+
+Price:
+800 EGP per trip.
+
+Description:
+Private airport pickup and drop-off are available. Guests should request the service in advance.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Hotel_Information\hotel_information.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+HOTEL INFORMATION
+
+Hotel Name:
+Nile Pearl Hotel
+
+Location:
+Cairo, Egypt
+
+Hotel Category:
+5-Star Hotel
+
+Check-in:
+3:00 PM
+
+Check-out:
+12:00 PM
+
+Reception:
+24/7
+
+Breakfast:
+7:00 AM - 10:30 AM
+
+Free Wi-Fi:
+Available in all rooms and public areas.
+
+Parking:
+Available for hotel guests.
+
+Swimming Pool:
+Available from 7:00 AM to 9:00 PM.
+
+Gym:
+Open 24/7 for hotel guests.
+
+Airport Transfer:
+Available upon request.
+
+Room Service:
+Available 24/7.
+
+Pets:
+Pets are not allowed.
+
+Languages Supported:
+Arabic, English, French, Russian.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Payment\payment_methods.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+PAYMENT METHODS
+
+1. Payment Information
+
+Guests may be required to provide payment information when making or confirming a reservation.
+
+2. Accepted Payment Methods
+
+The current hotel knowledge base does not specify the exact payment methods accepted by the hotel.
+
+Guests should contact customer service for information about currently accepted payment methods.
+
+3. Payment Assistance
+
+Guests can contact customer service regarding payment questions or payment-related issues.
+
+4. Payment Security
+
+Guests should provide payment information only through the hotel's official and secure payment process.
+
+5. Important Note
+
+The current hotel knowledge base does not specify:
+
+- Accepted credit cards
+- Accepted debit cards
+- Cash payment availability
+- Online payment methods
+- Digital wallets
+- Bank transfer availability
+- Currency restrictions
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Payment\payment_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+PAYMENT POLICY
+
+1. Payment Requirements
+
+Payment requirements depend on the selected reservation and applicable hotel policies.
+
+2. Reservation Payment
+
+Guests may be required to provide payment information when making or confirming a reservation.
+
+3. Payment Verification
+
+Payment information may need to be verified during the reservation process.
+
+4. Additional Charges
+
+Additional charges may apply for certain hotel services or damages to hotel property.
+
+Examples of services with specified prices include:
+
+- Breakfast: 450 EGP per person
+- Airport Transfer: 800 EGP per trip
+- Laundry: 200 EGP per kilogram
+- Spa Treatment: 1,200 EGP per session
+
+5. Payment Assistance
+
+Guests can contact customer service for assistance with payment-related questions.
+
+6. Important Note
+
+The current hotel knowledge base does not specify:
+
+- A general deposit amount
+- A universal prepayment requirement
+- Accepted payment cards
+- Payment deadlines
+- Currency conversion rules
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Payment\refund_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+REFUND POLICY
+
+1. Refund Eligibility
+
+Refund eligibility depends on the conditions associated with the reservation.
+
+2. Cancellation Refunds
+
+If a cancelled reservation is eligible for a refund, the refund is processed according to the applicable payment and refund conditions.
+
+3. Refund Amount
+
+The refund amount depends on the reservation conditions and any applicable cancellation terms.
+
+4. Refund Processing
+
+The current hotel knowledge base does not specify a fixed refund processing time.
+
+Guests should contact customer service for information regarding the status of a refund.
+
+5. Refund Assistance
+
+Guests should provide their reservation details when contacting customer service about a refund.
+
+6. Important Note
+
+The current hotel knowledge base does not specify:
+
+- A universal refund period
+- A fixed refund processing time
+- A universal refund percentage
+- Specific refund rules for every booking type
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\check_in_check_out.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+CHECK-IN AND CHECK-OUT POLICY
+
+1. Check-in
+
+Standard check-in time:
+3:00 PM
+
+Guests must provide valid identification during check-in.
+
+Early check-in:
+Early check-in is subject to room availability and hotel approval.
+
+
+2. Check-out
+
+Standard check-out time:
+12:00 PM
+
+Late check-out:
+Late check-out is subject to availability and may incur an additional fee.
+
+
+3. Reception
+
+Hotel reception operates 24/7.
+
+Guests can contact reception for assistance with check-in, check-out, and general hotel requests.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\children_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+CHILDREN POLICY
+
+Children are welcome at the hotel.
+
+Extra beds or additional accommodation for children are subject to:
+
+- Room capacity
+- Availability
+
+The selected room must have sufficient capacity for the number of guests.
+
+The current hotel knowledge base does not specify a separate child age limit.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\emergency_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+EMERGENCY POLICY
+
+In case of an emergency, guests should contact the hotel reception immediately.
+
+Hotel reception operates 24/7.
+
+Guests should follow the instructions provided by hotel staff during an emergency.
+
+For immediate assistance, guests should contact the hotel reception.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\guest_conduct.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+GUEST CONDUCT POLICY
+
+Guests are expected to respect:
+
+- Hotel property
+- Hotel staff
+- Other guests
+
+Guests are responsible for any damage caused to hotel property.
+
+Damage to hotel property may result in additional charges.
+
+Guests should follow hotel rules and policies during their stay.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\identification_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+IDENTIFICATION POLICY
+
+Guests are required to provide valid identification documents during check-in.
+
+Valid identification is required to complete the check-in process.
+
+Guests should contact hotel reception if they have questions regarding identification requirements.
+
+The current hotel knowledge base does not specify the exact types of identification documents accepted.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\lost_and_found.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+LOST AND FOUND POLICY
+
+Items found on hotel property are handled by the hotel's Lost and Found department.
+
+Guests who lose an item should contact the front desk.
+
+Guests should provide relevant information about the lost item when contacting the hotel.
+
+The current hotel knowledge base does not specify the storage period for lost items.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\noise_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+NOISE POLICY
+
+Guests should maintain reasonable noise levels during their stay.
+
+Guests are especially expected to maintain reasonable noise levels during nighttime hours.
+
+Guests should respect other guests and avoid excessive noise.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\pet_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+PET POLICY
+
+Pets are not allowed inside the hotel.
+
+This policy applies to guest rooms and hotel facilities.
+
+Guests should contact customer service if they have questions about the pet policy.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\privacy_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+PRIVACY POLICY
+
+Guest information is handled according to the hotel's privacy and security procedures.
+
+Guest information should be handled appropriately and securely.
+
+Guests can contact customer service if they have questions regarding the handling of their information.
+
+The current hotel knowledge base does not provide the hotel's complete privacy policy or specific data retention periods.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Policies\smoking_policy.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+SMOKING POLICY
+
+Smoking is not permitted inside guest rooms.
+
+Smoking is also not permitted inside indoor public areas.
+
+Designated smoking areas are available for guests.
+
+Guests should use the designated smoking areas when smoking.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Rooms\room_amenities.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+ROOM AMENITIES
+
+1. Standard Room
+
+Available Amenities:
+- Comfortable bed
+- Private bathroom
+- Wi-Fi
+- Air conditioning
+- Television
+- Basic room amenities
+
+
+2. Deluxe Room
+
+Available Amenities:
+- Private bathroom
+- Wi-Fi
+- Air conditioning
+- Television
+- Enhanced room amenities
+- Upgraded furnishings
+
+
+3. Superior Room
+
+Available Amenities:
+- Additional space
+- Upgraded amenities
+
+
+4. Family Room
+
+Available Amenities:
+- Additional sleeping capacity
+- Suitable facilities for families with children
+
+
+5. Executive Room
+
+Available Amenities:
+Information not specified in the current hotel knowledge base.
+
+
+General Room Facilities:
+
+Wi-Fi:
+Available in all guest rooms.
+
+Air Conditioning:
+Available in Standard, Deluxe, and other rooms where specified in the room information.
+
+Private Bathroom:
+Available in Standard and Deluxe rooms.
+
+Television:
+Available in Standard and Deluxe rooms.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Rooms\room_policies.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+ROOM POLICIES
+
+1. Room Capacity
+
+Standard Room:
+Maximum capacity: 2 guests.
+
+Deluxe Room:
+Maximum capacity: 2 guests.
+
+Superior Room:
+Maximum capacity: 3 guests.
+
+Family Room:
+Maximum capacity: 4 guests.
+
+Executive Room:
+Capacity information is not specified in the current hotel knowledge base.
+
+
+2. Extra Accommodation
+
+Extra beds or additional accommodation for children are subject to room capacity and availability.
+
+
+3. Children
+
+Children are welcome at the hotel.
+
+Additional accommodation for children is subject to room capacity and availability.
+
+
+4. Pets
+
+Pets are not allowed inside the hotel.
+
+
+5. Smoking
+
+Smoking is not permitted inside guest rooms.
+
+Designated smoking areas are available.
+
+
+6. Room Assignment
+
+Room assignment is subject to availability at the time of booking and check-in.
+
+
+7. Room Amenities
+
+Room amenities may vary depending on the selected room type.
+
+
+8. Guest Responsibility
+
+Guests are expected to respect hotel property and room facilities.
+
+Any damage caused to hotel property may result in additional charges.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Rooms\room_types.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+ROOM TYPES
+
+1. Standard Room
+
+Room Type:
+Standard Room
+
+Capacity:
+2 Guests
+
+Description:
+A comfortable room suitable for individuals or couples.
+
+Amenities:
+Comfortable bed, private bathroom, Wi-Fi, air conditioning, television, and basic room amenities.
+
+
+2. Deluxe Room
+
+Room Type:
+Deluxe Room
+
+Capacity:
+2 Guests
+
+Description:
+A spacious room with upgraded furnishings and additional comfort.
+
+Amenities:
+Private bathroom, Wi-Fi, air conditioning, television, and enhanced room amenities.
+
+
+3. Superior Room
+
+Room Type:
+Superior Room
+
+Capacity:
+3 Guests
+
+Description:
+A larger room suitable for couples or small families.
+
+Amenities:
+Additional space and upgraded amenities.
+
+
+4. Family Room
+
+Room Type:
+Family Room
+
+Capacity:
+4 Guests
+
+Description:
+A spacious room designed for families.
+
+Amenities:
+Additional sleeping capacity and suitable facilities for families with children.
+
+
+5. Executive Room
+
+Room Type:
+Executive Room
+
+Capacity:
+Information not specified.
+
+Description:
+Information not specified in the current hotel knowledge base.
+
+Amenities:
+Information not specified in the current hotel knowledge base.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\airport_transfer.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+AIRPORT TRANSFER
+
+Service:
+Airport Transfer
+
+Availability:
+Upon Request
+
+Price:
+800 EGP per trip
+
+Description:
+Private airport pickup and drop-off services are available.
+
+Booking:
+Guests should request the airport transfer service in advance.
+
+Important Information:
+The current hotel knowledge base does not specify the airport transfer schedule, vehicle type, passenger capacity, or exact booking deadline.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\breakfast.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+BREAKFAST SERVICE
+
+Service:
+Daily Breakfast
+
+Availability:
+7:00 AM - 10:30 AM
+
+Location:
+Main Restaurant
+
+Price:
+450 EGP per person
+
+Description:
+The hotel provides daily breakfast at the main restaurant.
+
+Breakfast includes:
+- Hot food
+- Cold food
+- Beverages
+- Pastries
+- Fresh fruit
+
+Important Information:
+Guests can have breakfast during the specified breakfast hours.
+
+The current hotel knowledge base does not specify whether breakfast is included in the room rate.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\gym.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+GYM
+
+Service:
+Hotel Gym
+
+Availability:
+24/7
+
+Access:
+Available for hotel guests.
+
+Description:
+The hotel provides a gym that guests can use at any time.
+
+Important Information:
+The current hotel knowledge base does not specify the gym equipment, age restrictions, or whether reservations are required.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\laundry.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+LAUNDRY AND DRY CLEANING
+
+Service:
+Laundry and Dry Cleaning
+
+Availability:
+Daily
+
+Price:
+200 EGP per kilogram
+
+Request Method:
+Guests can request laundry service through the front desk or customer service.
+
+Description:
+The hotel provides laundry and dry cleaning services for guests.
+
+Important Information:
+The current hotel knowledge base does not specify the exact turnaround time or individual dry-cleaning prices.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\restaurant.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+RESTAURANT INFORMATION
+
+Restaurant:
+Main Restaurant
+
+Known Service:
+Daily Breakfast
+
+Breakfast Hours:
+7:00 AM - 10:30 AM
+
+Breakfast Price:
+450 EGP per person
+
+Breakfast Includes:
+- Hot food
+- Cold food
+- Beverages
+- Pastries
+- Fresh fruit
+
+Important Information:
+
+The current hotel knowledge base only provides confirmed information about breakfast at the main restaurant.
+
+The current hotel knowledge base does not specify:
+
+- Restaurant opening hours outside breakfast
+- Lunch service
+- Dinner service
+- Restaurant menu
+- Individual food prices
+- Restaurant reservation requirements
+- Restaurant dress code
+
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\room_service.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+ROOM SERVICE
+
+Service:
+24/7 Room Service
+
+Availability:
+24 hours a day
+
+Price:
+Depends on the selected order
+
+Description:
+Guests can order food and beverages directly to their rooms.
+
+Ordering:
+Guests can request room service through the hotel's available service channels.
+
+Important Information:
+The current hotel knowledge base does not specify the complete room service menu or individual item prices.
+
+
+####################################################################################################
+FILE: 02_Hotel_Knowledge\Services\spa.txt
+####################################################################################################
+
+NILE PEARL HOTEL
+SPA SERVICE
+
+Service:
+Spa Treatment
+
+Availability:
+9:00 AM - 10:00 PM
+
+Price:
+1,200 EGP per session
+
+Description:
+The hotel spa provides relaxation and wellness treatments.
+
+Booking:
+Guests can inquire with hotel customer service regarding spa services.
+
+Important Information:
+The current hotel knowledge base does not specify the individual treatment types, treatment duration, or complete spa menu.
+
+
+####################################################################################################
+FILE: README.md
+####################################################################################################
+
+# Hotel AI - Intelligent Hotel Assistant
+
+## Project Overview
+Hotel AI is an intelligent hotel assistant project designed to support
+hotel-related question answering, structured FAQ data, knowledge retrieval,
+and RAG-based responses.
+
+## Main Components
+
+- `02_Hotel_Knowledge/`
+  - Hotel knowledge base and policy documents.
+
+- `03_Structured_Data/`
+  - FAQ datasets, intents, JSON configuration, batches, reports, and backups.
+
+- `data/`
+  - Synthetic hotel operational data.
+
+- `database/`
+  - Database backup.
+
+- `scripts/`
+  - Data generation and validation notebooks.
+
+## Master FAQ Dataset
+
+The production FAQ dataset is:
+
+`03_Structured_Data/CSV/final/hotel_faq_final.csv`
+
+Current master size:
+- 448 FAQs
+- 8 intents
+- 4 languages
+
+## RAG Knowledge Base
+
+The main knowledge sources are stored under:
+
+`02_Hotel_Knowledge/`
+
+## Data Quality
+
+All production data should pass:
+- structural validation
+- duplicate validation
+- semantic validation
+- factual validation
+- language validation
+- RAG grounding validation
+
+
