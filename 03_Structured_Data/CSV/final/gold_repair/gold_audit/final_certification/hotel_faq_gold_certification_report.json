@@ -1,0 +1,59 @@
+{
+  "schema": true,
+  "row_count": true,
+  "duplicate_ids": 0,
+  "missing_ids": [],
+  "unexpected_ids": [],
+  "empty_fields": {},
+  "language_counts": {
+    "English": 232,
+    "Arabic": 232,
+    "French": 232,
+    "Russian": 232
+  },
+  "invalid_languages": [],
+  "missing_languages": [],
+  "question_type_counts": {
+    "Direct": 325,
+    "Paraphrased": 320,
+    "Scenario": 283
+  },
+  "invalid_question_types": [],
+  "difficulty_counts": {
+    "Easy": 764,
+    "Medium": 164
+  },
+  "invalid_difficulty": [],
+  "duplicate_question_rows": 0,
+  "duplicate_question_texts": 0,
+  "source_count": 12,
+  "source_counts": {
+    "Policies/check_in_check_out.txt": 452,
+    "Hotel_Information/hotel_information.txt": 244,
+    "Policies/identification_policy.txt": 112,
+    "Hotel_Information/contact_information.txt": 88,
+    "Booking/booking_confirmation.txt": 4,
+    "Booking/booking_modification.txt": 4,
+    "Cancellation/cancellation_policy.txt": 4,
+    "Payment/payment_methods.txt": 4,
+    "Payment/refund_policy.txt": 4,
+    "Policies/children_policy.txt": 4,
+    "Policies/pet_policy.txt": 4,
+    "Policies/smoking_policy.txt": 4
+  },
+  "category_intent_issues": 32,
+  "semantic_mismatches": 0,
+  "status_counts": {
+    "Active": 320,
+    "valid": 304,
+    "generated": 304
+  },
+  "temporary_statuses": [],
+  "final_status": "NOT GOLD",
+  "hard_failures": [
+    "Category / intent inconsistencies"
+  ],
+  "warnings": [],
+  "rows": 928,
+  "columns": 13
+}
