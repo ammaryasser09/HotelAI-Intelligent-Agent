@@ -1,0 +1,64 @@
+HOTEL AI — FINAL 1344 GOLD GATE AUDIT
+======================================================================
+
+Rows: 1344
+Columns: 13
+
+VALID INTENTS
+----------------------------------------------------------------------
+booking_confirmation
+booking_modification
+cancellation_policy
+check_in_time
+check_out_time
+children_policy
+early_check_in
+hotel_category
+hotel_location
+identification_required
+late_check_out
+payment_methods
+pet_policy
+reception_availability
+refund_policy
+smoking_policy
+
+INTENT DISTRIBUTION
+----------------------------------------------------------------------
+intent_clean
+check_in_time              171
+hotel_location             170
+early_check_in             166
+check_out_time             164
+late_check_out             163
+hotel_category             163
+identification_required    160
+reception_availability     155
+booking_confirmation         4
+booking_modification         4
+cancellation_policy          4
+payment_methods              4
+refund_policy                4
+children_policy              4
+pet_policy                   4
+smoking_policy               4
+
+LANGUAGE DISTRIBUTION
+----------------------------------------------------------------------
+language_clean
+English    340
+Russian    340
+French     334
+Arabic     330
+
+FINAL RESULT
+----------------------------------------------------------------------
+FINAL GOLD STATUS: PASS
+1344 QUESTIONS READY FOR CERTIFICATION
+
+IMPORTANT:
+This audit did not modify question text.
+This audit did not randomly modify intents.
+This audit did not randomly modify languages.
+This audit did not modify FAQ IDs.
+This audit did not modify source metadata.
